@@ -1,0 +1,275 @@
+UserScreenName,UserName,Timestamp,Text,Embedded_text,Emojis,Comments,Likes,Retweets,Image link,Tweet URL
+State Bank of India,@TheOfficialSBI,2021-01-04T10:22:22.000Z,"Replying to 
+@AadhiKeerthan
+ and 
+@stripe","Please write to us at cm2it.cms@sbi.co.in, rinb.customer@sbi.co.in along with details of your concern(error screenshots), account no, contact details. Our concerned team will look into the issue.",,,,,[],https://twitter.com/TheOfficialSBI/status/1346039258503495682
+Todd Tate,@toddtate,2021-01-05T16:21:02.000Z,"Replying to 
+@wsavas
+ and 
+@muratpak","Tried to buy yesterday and the 
+@stripe
+ ? widget would not work at all - error no go with 
+@niftygateway
+. Is there a preferred browser for the transactions?",,,,2,[],https://twitter.com/toddtate/status/1346491909418541057
+Uros Nikolic,@ucodealot,2021-01-06T15:35:57.000Z,"Replying to 
+@dabit3
+ @tailwindcss
+ and 
+@stripe","It’s insane how fast it is when it’s statically generated
+I’m publishing today landing page for 
+@FeedbackBooster
+ it’s build with Next and deployed with serverless on AWS.
+Friend doing the marketing for it thought it was some bug bc it was that fast ",😂,,,3,[],https://twitter.com/ucodealot/status/1346842952170139649
+Nader Dabit,@dabit3,2021-01-06T15:23:18.000Z,"Replying to 
+@desaivivek50331
+ @tailwindcss
+ and 
+@stripe","I just noticed this bug in Mobile too about 30 minutes ago, I think it has something to do with an update I made recently. Will be fixing this soon!",,,,1,[],https://twitter.com/dabit3/status/1346839769066696705
+Sweet Berry #EndSARS,@actor_aina,2021-01-06T06:46:39.000Z,"Replying to 
+@paystack
+ and 
+@stripe","Good morning please I have been trying to pay money online via this medium since on the 2nd of January this year it keeps telling me unknown error and this is the medium have been using for more than 6months
+Attached is the page",,1,,,['https://pbs.twimg.com/media/ErB5YIPXIAEs--E?format=png&name=900x900'],https://twitter.com/actor_aina/status/1346709748201238529
+Stripe,@stripe,2021-01-07T10:33:04.000Z,"Replying to 
+@rhaksw","Tools that test for responses from https://js.stripe.com (which purposefully returns a 404) may erroneously report downtime. Can you try including it in your system, as outlined in our docs?[0] If you're still hitting an error, let us know! 
+
+[0] https://stripe.com/docs/js/including…",,1,,,[],https://twitter.com/stripe/status/1347129114818457600
+Zaff,@FaisalSidd_,2021-01-11T04:24:42.000Z,"@stripe
+ I need help for my friends account verification. She's able to integrate the Stripe API on her website but it's not accepting payments from customers. Also her Stripe dashboard has an error ""your business isn't eligible"".
+Help!",,,1,,,[],https://twitter.com/FaisalSidd_/status/1348485963715121152
+Loz Calver,@kinglozzer,2021-01-14T23:03:10.000Z,"Online shopping tonight, got redirected to http://securesuite.co.uk for 3D Secure. No explanation who they are, whois for the domain is blank and home page is an error page (with an HTTP status code of 719, wtf?!). Turns out it’s legit... I just wish everyone would use 
+@stripe
+ ",,😔,,,,[],https://twitter.com/kinglozzer/status/1349854600392794112
+stephen,@Stephen_Corwin,2021-01-15T22:02:56.000Z,"Replying to 
+@Stephen_Corwin
+ and 
+@stripe","I brought this up via support at the beginning of December. It took a while, but it was finally identified as a ""known"" bug with a suggested workaround. Unfortunately the workaround failed, and every time I've reached back out, I get a new person who has no idea what's going on.",,1,,,[],https://twitter.com/Stephen_Corwin/status/1350201829380993026
+Ahmed Azzabi,@AhmedArcan,2021-01-16T16:44:33.000Z,"Replying to 
+@davidfowl","Almost all of FAANG have the same process, but now with leetcode some people are just memorizing answers, so you can't really assess their problem solving skills,  in the other hand, 
+@stripe
+ interview style looks good especially finding the bug, you can learn a lot about candidat",,1,,1,[],https://twitter.com/AhmedArcan/status/1350484092241010689
+Thomas Fuchs #BLM,@thomasfuchs,2021-01-18T16:11:55.000Z,"Thanks 
+@stripe
+ for this completely useless error message.",,,,,3,['https://pbs.twimg.com/media/EsBt1dmXMAk9cSF?format=jpg&name=small'],https://twitter.com/thomasfuchs/status/1351200657664049164
+Patrick Collison,@patrickc,2021-01-21T15:39:47.000Z,"Replying to 
+@peteyhawkins
+ and 
+@stripe","Weird; that sounds like a bug. 
+@alexvogenthaler",,,,2,[],https://twitter.com/patrickc/status/1352279735775096835
+Conrad Caplin,@conradcaplin,2021-01-21T02:22:15.000Z,"Replying to 
+@patrickc
+ and 
+@stripe","Better understanding of “Incomplete” charges, especially the ones that Stripe blocks from going out to the bank for auth. Error message is the same as all other incomplete charges, so we have no idea how many Stripe’s anti fraud algo silently blocked. Have a long support thread",,,,,[],https://twitter.com/conradcaplin/status/1352079029655003138
+Userbase,@UserbaseHQ,2021-01-22T05:31:02.000Z,"Highlights:
+
+- Secure data sharing
+- E2E encrypted file storage and streaming
+- Independent security review (
+@cossacklabs
+)
+- Normal password resets
+- 
+@Stripe
+ payments integration
+- iOS and Android support
+- An Admin API + userbase-js-node
+
++ tons of optimizations and bug fixes",,,2,,7,[],https://twitter.com/UserbaseHQ/status/1352488925504237571
+Shane O'Sullivan,@chofter,2021-01-23T23:49:32.000Z,"Replying to 
+@SlexAxton
+ and 
+@stripe","I don't think so. I tried a private window to disable all extensions, and it's the same. I see these errors on load, not when typing. Not in Chrome. Error on line shown with red arrow. The `r.match(e)` throws. On page https://stripe.com/docs/api/checkout/sessions/retrieve…",,1,,,"['https://pbs.twimg.com/media/EsdFa4UXAAI5CiP?format=jpg&name=medium', 'https://pbs.twimg.com/media/EsdGFboXUAEAD2s?format=png&name=360x360']",https://twitter.com/chofter/status/1353127758495363072
+P U L S Λ R,@L422Y,2021-01-25T12:07:07.000Z,"[Error]: Webhook handler for  Stripe event [evt_###] of type [checkout.session.completed] failed: User not found! 
+
+great thanks... how do i fix this 
+@StripeDev
+ @stripe
+ 
+https://github.com/stripe/stripe-firebase-extensions/tree/master/firestore-stripe-subscriptions…",,,2,,,[],https://twitter.com/L422Y/status/1353675767155200000
+"Kit “@SLOConf"" Merker","Kit “@SLOConf"" Merker",2021-01-27T00:23:45.000Z,"Replying to 
+@ahidalgosre
+ @QuinnyPig
+ and 6 others",We bought a vowel with our error budget.,,1,,6,[],https://twitter.com/KitMerker/status/1354223536345210881
+Steven Duran,@StevenDuran89,2021-01-28T17:44:20.000Z,"Do any other #ecommerce brands using 
+@BigCommerce
+ know when this bug with 
+@stripe
+ is going to be fixed? The workaround is manually go into every order...see what the status is...and then update it accordingly. We might as well use our fingers and toes to count money at this point","Quote Tweet
+BigCommerce
+@BigCommerce
+ · Jan 28
+Replying to @StevenDuran89 and @stripe
+Hi there - it looks like this issue hasn't been resolved, but that our team has identified a valid workaround for this. I'd recommend reaching back out to our Technical Support team for help implementing this workaround! https://support.bigcommerce.com/s/#contact - Jacinda",,,,,['https://pbs.twimg.com/profile_images/1063138862308814848/rg36Zc_Y_mini.jpg'],https://twitter.com/StevenDuran89/status/1354847794960474114
+Steven Duran,@StevenDuran89,2021-01-28T17:41:56.000Z,"Replying to 
+@BigCommerce
+ and 
+@stripe","Thanks guys for the update! The #workaround for this #bug is to have a person manually look at every order and change the order status after looking into each order seeing what the new status is. Certainly not sustainable to be using this for another day. 
+@BigCommerce
+ @stripe",,1,,,[],https://twitter.com/StevenDuran89/status/1354847190275993606
+Steven Duran,@StevenDuran89,2021-01-28T16:09:33.000Z,"Does anyone in the #ecommerce world know when 
+@BigCommerce
+ will be fixing it's #bug with 
+@stripe
+ where payment on orders are #authorized & #captured? Right now 
+@BigCommerce
+ is only recognizing the authorization on credit card transactions and not changing order statuses.",,,1,,1,[],https://twitter.com/StevenDuran89/status/1354823941752315904
+Charlie Schliesser,@CSchliesser,2021-01-29T01:03:39.000Z,"Replying to 
+@stripe","No way to force an error for tests like we can write against the rest of the API? There is a heavy emphasis in your docs on testing API endpoints and card numbers for causing various error codes, but the token endpoint is surprisingly not mentioned in any of it.",,,,,[],https://twitter.com/CSchliesser/status/1354958350807662604
+Stripe,@stripe,2021-01-29T00:38:05.000Z,"Replying to 
+@CSchliesser","Thanks for asking about this! We don’t have a way to test tokens that test that specific behavior, however, you should be able to handle any errors in ‘result.error’ in the ‘createToken()’ callback.
+
+https://stripe.com/docs/js/tokens_sources/create_token?type=cardElement…",,1,,,[],https://twitter.com/stripe/status/1354951915810021381
+Noah Bragg,@noahwbragg,2021-02-03T10:50:03.000Z,"@stripe
+ has the best error messages. 
+""a similar object exists in live mode, but a test mode key was used to make this request.""
+
+Could have been banging my head for a while otherwise. ",,👍 😅,1,,6,[],https://twitter.com/noahwbragg/status/1356917862695272453
+Stripe,@stripe,2021-02-03T08:25:56.000Z,"Replying to 
+@Hour_App","Sorry for the trouble caused! Could you share a screenshot of the error you're seeing via DM, please?",,,,,[],https://twitter.com/stripe/status/1356881595530117120
+Allyson,@allyson_305,2021-02-04T02:12:12.000Z,"Replying to 
+@stripe","Hiya - no problems ordering from other sites.
+
+you should check Stripe's service status at https://twitter.com/stripestatus, or let us know at support@stripe.com.(Network error [errno 7]: Failed to connect to http://api.stripe.com port 443: Connection timed out)",,,,,[],https://twitter.com/allyson_305/status/1357149928951267329
+Ryan W,@ispeakcomputer,2021-02-05T22:12:01.000Z,"Replying to 
+@ispeakcomputer
+ @danielkempe
+ and 
+@stripe","Talking to customers one failed because bank did a fraud alert and the other because their bank did not support google pay(?) 
+
+Because of this happening with small banks they dont send error data. Lame
+
+May try merchant account cause fraud alerts and freezes spiked on Stripe",,1,,,[],https://twitter.com/ispeakcomputer/status/1357814259128750080
+Mark Moriarty,@MbyM,2021-02-08T16:03:50.000Z,"Replying to 
+@rpatm
+ @stripe
+ and 
+@crisp_im","Ah, ya, I mis-spoke. This for errors that occur BEFORE we can even call stripe.redirectToCheckout({sesionId: ___}).
+
+If there's an error server-side creating the session object: Sentry logs error in detail, then client does as in video, so user knows we're on it (and can chat).",🎙 🎧,,,1,[],https://twitter.com/MbyM/status/1358808768595779585
+Mark Moriarty,@MbyM,2021-02-08T13:55:09.000Z,"If `stripe.redirectToCheckout(…)` somehow fails client-side, an error is immediately reported to Awesound staff.
+ 
+Before sending user to 
+@Stripe
+ Checkout, we haven't yet collected user's email, so 
+@crisp_im
+ invites the user to leave contact info.","0:23
+49 views",🎙 🎧,1,,2,[],https://twitter.com/MbyM/status/1358776385637146626
+Alex,@ajr_codes,2021-02-08T00:19:06.000Z,"Anyone who used 
+@stripe
+  know why in Typescript,  http://event.data.object.customer throws an error that customer does not exist on object?
+event being the value from stripe.webhooks.constructEvent()
+#stripe #typescript",,🌐,1,1,1,[],https://twitter.com/ajr_codes/status/1358571017808011265
+Mark Moriarty,@MbyM,2021-02-08T13:55:09.000Z,"If `stripe.redirectToCheckout(…)` somehow fails client-side, an error is immediately reported to Awesound staff.
+ 
+Before sending user to 
+@Stripe
+ Checkout, we haven't yet collected user's email, so 
+@crisp_im
+ invites the user to leave contact info.","49 views
+0:03 / 0:25",🎙 🎧,1,,2,[],https://twitter.com/MbyM/status/1358776385637146626
+Stripe,@stripe,2021-02-12T23:28:42.000Z,"Replying to 
+@JoshMD94","We have some documentation that includes test cards you can utilize, to test for specific responses and error codes, here 
+ 
+
+https://stripe.com/docs/testing#cards-responses…",⬇,,,,[],https://twitter.com/stripe/status/1360370273544003585
+Maya Amano,@onehappygamerHD,2021-02-14T05:55:07.000Z,"Replying to 
+@onehappygamerHD
+ @CQDThisIsCOVM62
+ and 2 others",Rather than work to correct a possible error he would rather go after invisable boogiemen.  That says all I need to know about how serious he is and how much of a con all of this is.  ALL of this outrage and instead of fixing things...he tags in youtubers.  Its a farce.,,1,,,[],https://twitter.com/onehappygamerHD/status/1360829906536574976
+Jeff Weinstein,@jeff_weinstein,2021-02-15T21:07:49.000Z,"Replying to 
+@austinkhale
+ and 
+@stripe","Yep, that banner won’t block you. Happy money accepting. Our intention is zero trial and error — keep posted as you bump into anything funky as you grow. ;)",,,,3,[],https://twitter.com/jeff_weinstein/status/1361421982198161408
+Austin Hale,@austinkhale,2021-02-15T21:03:53.000Z,"Replying to 
+@jeff_weinstein
+ and 
+@stripe","Just got off the phone with Edwin from your team. After some trial and error we are up and running 
+ 
+
+We still have the “Resume Application” banner at the top of our portal but we’re able to take payments now. Thank you, Team Stripe. Love your whole team. You’re the best.",🙌,1,,2,[],https://twitter.com/austinkhale/status/1361420995236564992
+Maya Amano,@onehappygamerHD,2021-02-15T18:19:07.000Z,"Replying to 
+@LegendaryAsshol
+ @8Shinobi
+ and 3 others","I’m here because a guy claimed KV went after him (they didn’t) because of a payment company denying him service for a time. 
+Chances are from either an error or because he didn’t fully fill out his paperwork. But that doesn’t get ISWV’s attention like a big bad KV conspiracy.",,4,,1,[],https://twitter.com/onehappygamerHD/status/1361379530678677506
+Request (REQ),@RequestNetwork,2021-02-15T12:54:51.000Z,"The latest releases for Request Invoicing:
+
+- 
+ Pay with 
+@stripe
+ , one of the leading payment processors in the world. Not only crypto.
+- 
+ Added bank information to the receipts
+- 
+ Added the ability to filter by sent or received invoices
+- 
+ bug fixes & performance updates",,💳 🏦 ⏫ 🔥,1,13,67,[],https://twitter.com/RequestNetwork/status/1361297926312529926
+CJ Avilla,@cjav_dev,2021-02-16T18:35:07.000Z,"Replying to 
+@myPhilTaylor
+ and 
+@stripe",Hey Phil! Definitely sounds like an unexpected bug. I'd love to ensure this doesn't happen again. Any chance we could move to DM so I can review the logs and track down what happened here?,,,,,[],https://twitter.com/cjav_dev/status/1361745943524122625
+Justin Mitchell,@jmitch,2021-02-17T17:44:29.000Z,"Replying to 
+@huntermoonshot
+ and 
+@stripe",What's even better is they didn't even bother to notify us. No email no nothing. A customer wrote in saying they couldn't pay for Yac with a screenshot of the error message.,👋,,,3,[],https://twitter.com/jmitch/status/1362095589454974976
+Megan Holt,@HoltOffThePress,2021-02-18T21:49:16.000Z,"Today has been a day filled with outstanding customer service from 
+@mydubsado
+ and 
+@stripe
+ as well as much compassion and understanding from a client who had been overcharged due to an invoicing currency error.
+
+It is so wonderful when people are kind and helpful!",,,1,,1,[],https://twitter.com/HoltOffThePress/status/1362519579948376068
+Stripe,@stripe,2021-02-19T10:03:46.000Z,"Replying to 
+@msdee_xo",We'd like to help you to log back into your account. Do you get an error message when trying to access the account? The access to your account is not blocked and we've released your funds to your bank account. https://dashboard.stripe.com/balance/overview…,,,,,[],https://twitter.com/stripe/status/1362704421642240001
+Kevin Dente,@kevindente,2021-02-20T00:53:06.000Z,"Replying to 
+@cjav_dev
+ and 
+@stripe","nope. Doesn't work. 
+{
+  ""error"": {
+    ""message"": ""When updating an existing subscription, billing_cycle_anchor must be either unset, 'now', or 'unchanged'"",
+    ""param"": ""billing_cycle_anchor"",
+    ""type"": ""invalid_request_error""
+  }
+}",,1,,,[],https://twitter.com/kevindente/status/1362928231242887175
+HΔKLUKΞ,@hakluke,2021-02-24T05:36:55.000Z,"Replying to 
+@levelsio
+ and 
+@stripe","Hey 
+@levelsio
+ I tried to buy makebook yesterday and got this error - I'm still getting it today. Tried to DM but yours are closed (understandably)",,1,,,['https://pbs.twimg.com/media/Eu9_UGgVIAIQFna?format=jpg&name=small'],https://twitter.com/hakluke/status/1364449206174244865
+Corey Quinn,@QuinnyPig,2021-02-24T00:17:25.000Z,"Replying to 
+@poiThePoi
+ @stripe
+ and 
+@patio11","Not during the pandemic, but 
+@patio11
+ has an entire page on this: https://kalzumeus.com/standing-invitation/…
+
+He's incredibly gracious and insightful. Based upon this I'd probably bug a Ryan instead.",,,,4,[],https://twitter.com/QuinnyPig/status/1364368802809438208
+Gateway Hotel Swinford,@GatewaySwinford,2021-02-25T11:57:18.000Z,"When  in 2nd year in College 98. I turned down a module on Web design & Programming because I didn't think the Internet thingy would be a big deal. I think about this everytime I read of the Collison bros & their great success 
+@stripe
+ 
+What are your error in judgement stories?",GIF,,2,,4,[],https://twitter.com/GatewaySwinford/status/1364907321139281925
+Stripe,@stripe,2021-02-26T14:49:43.000Z,"Replying to 
+@BouchetKarrim", Can you send us a screenshot via DM of the error that you're seeing so we can take a closer look?,👋,,,,[],https://twitter.com/stripe/status/1365313096642924548
+Stijn Beauprez,@stijnbe,2021-02-26T14:23:04.000Z,"@stripe
+ I think I found a bug when adding a price to a product. After selecting one time the ID field disappears. However if you fill it in before switching it will be used.",,,1,,,"['https://pbs.twimg.com/media/EvKKxAjXAAUVAGO?format=jpg&name=360x360', 'https://pbs.twimg.com/media/EvKK1mRXMAUS812?format=jpg&name=small']",https://twitter.com/stijnbe/status/1365306392949780484
+"mallory, alice & bob",@stommepoes,2021-02-26T08:34:14.000Z,"Replying to 
+@stommepoes
+ @davidmacd
+ and 2 others","There is an error...  nuanria.FrameConnector.js:338 Uncaught DOMException: Blocked a frame with origin ""https://js.stripe.com"" from accessing a cross-origin frame. at window_blur (chrome-extension://ddaloccgjfibfpkalenodgehlhkgoahe/jslib/nuanria.FrameConnector.js:338:18)",,1,,,[],https://twitter.com/stommepoes/status/1365218606561247233
+BLUF Webmaster,@BLUFclub,2021-02-27T10:35:03.000Z,"Astonishingly, despite changing the code at 1950 yesterday - almost 15 hours ago - so that it always returns an error, the card testers are still hammering away, trying to process 
+@Stripe
+ payments via out donation script. Don't they every check to see if their stuff works?",,,,,,[],https://twitter.com/BLUFclub/status/1365611396264828929
+ॐRev. Ryan Sasha-Shai Van Kushॐ TheLastAmerican,@JapaMahatma,2021-02-28T22:44:45.000Z,"Replying to 
+@JapaMahatma
+ @JonWill45348797
+ and 18 others","Look at Collin County Docket #0058313010
+
+I won that Religious Marijuana case in 2015, and 2 years later was told I had a false felony on my record for 7 years, dismissed on examining Trial, but a ""Clerical Error"" leaving it open. At which point they removed it from all records.",,,1,,[],https://twitter.com/JapaMahatma/status/1366157421736058888
+"Afterthought System, LLC",@afterthoughtsys,2021-03-03T22:39:58.000Z,"For our EU users 
+@stripe
+ is experiencing issues with non-card payment methods. They are currently investigating the issue, but you may experience payment error due to this event.
+
+https://status.stripe.com",,,1,1,4,[],https://twitter.com/afterthoughtsys/status/1367243378967027717

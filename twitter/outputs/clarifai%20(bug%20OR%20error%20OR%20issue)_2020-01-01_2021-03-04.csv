@@ -1,0 +1,23 @@
+UserScreenName,UserName,Timestamp,Text,Embedded_text,Emojis,Comments,Likes,Retweets,Image link,Tweet URL
+Tammy Partridge,@TammyPartridge,2020-04-01T21:36:25.000Z,Day 58 Worked on Smart Brain API in course today. I imported Clarifai and made a request. Already an error: bad request. Worked through and fixed. More tomorrow. #100DaysOfCode #CodeNewbie #zerotomastery #reactjs,,,,4,8,[],https://twitter.com/TammyPartridge/status/1245465061897801728
+Divyansh Kund| Officially the Impatient memer,@CodeDiv16,2020-05-30T06:50:44.000Z,"Replying to 
+@DanijelaJs","Plz help me if you can 
+I am making an image recognition web app using Clarifai API
+But the problem is that when I use this.state.input as the url for the api to function and it shows a 400 error 
+I hv become crazy for three days and I am not able to get a solution
+Plz help me",🙇,1,,1,[],https://twitter.com/CodeDiv16/status/1266623058342629380
+Divyansh Kund| Officially the Impatient memer,@CodeDiv16,2020-05-30T05:48:18.000Z,"Replying to 
+@AndreiNeagoie","Andrei I desperately need ur reply
+In the image recognition app I am getting an 400 error when using 
+this.state.input 
+I know u won't remember every line of code u have written but can someone plz tell that why am I getting this error in Clarifai?? ",🙇 😰 😰,,,1,[],https://twitter.com/CodeDiv16/status/1266607346249134080
+sanjaykumar,@koolsanjay7733,2020-06-10T10:37:24.000Z,"Replying to 
+@cognimates","I understand that. But there are many cases where even after creating fresh api keys in clarifai and using it in vision training for the first time itself is showing the error ""Failed to create classifier"".",,1,,,[],https://twitter.com/koolsanjay7733/status/1270666368208089089
+Neellohit,@NeellohitS,2021-01-19T16:26:52.000Z,"@clarifai
+ is there any issue with your servers currently ? My website is suddenly not working except for the NSFW model.",,,,,,[],https://twitter.com/NeellohitS/status/1351566809749602304
+Franck Jones,@franchescino,2021-02-13T19:42:25.000Z,"@BobTroia
+ Hi Bob, we're looking at your React Native + Clarifai demo - I've got a nice bounty if you can help us with a bug / get this running for our app. DM me for deets if interested, could really use your help.",,,1,,,[],https://twitter.com/franchescino/status/1360675714509508617
+Future of AI,@future_of_AI,2021-02-12T17:51:01.000Z,"Issue 78 https://buff.ly/3rJfWrI  via 
+@clarifai","Issue 78 | DeepLearning.AI
+Dear friends, Over the last several decades, driven by a multitude of benchmarks, supervised learning algorithms have become really good at achieving high accuracy on test datasets. As valuable as...
+deeplearning.ai",,,,,['https://pbs.twimg.com/card_img/1367668884396998656/Smf8VAtw?format=png&name=small'],https://twitter.com/future_of_AI/status/1360285294088638467

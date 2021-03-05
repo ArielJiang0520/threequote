@@ -1,0 +1,525 @@
+UserScreenName,UserName,Timestamp,Text,Embedded_text,Emojis,Comments,Likes,Retweets,Image link,Tweet URL
+The Appademic,@_appademic,2021-01-02T02:20:13.000Z,"Replying to 
+@Taxyovio","Thanks for your concern, the post is actually from 3 years ago, it was tweeted via a Zapier Bug",,1,,,[],https://twitter.com/_appademic/status/1345193145592500225
+Michael Rouveure,@MichaelRouveure,2021-01-04T17:58:29.000Z,"No-code error rate? 
+@earnestcapital
+ , in Dec 2020, we fired 4500 zaps (
+@zapier
+ ) based off 
+@airtable
+ . Only 9 errors, that's a 0.2% error rate. I'd say that is not bad. My 2021 resolution, get it to 0%!",,,2,,2,[],https://twitter.com/MichaelRouveure/status/1346154044096610306
+三点リーダ愛好者…(みうら かずひと),@kazuhito_m,2021-01-04T16:13:07.000Z,"Zapierの連携でだいぶ昔から「動かなくなっているヤツ
+」があったから、動かそうとして…「メールまわり整えたのにアカンなぁ」と思ったら…これか？
+
+» 「Server Error (It seems like there’s a problem…)」エラーでSlackが見れない・開けない・ログインできない障害発生中","【Slack】「Server Error (It seems like there's a problem...)」エラーでSlackが見れない・開けない・ログインできない障害発生中
+2021年1月5日0時現在、「Slack（スラック）」にアクセスしようとしても「Server Error It seems like there’s a problem connecting to our servers
+did2memo.net",,1,,,[],https://twitter.com/kazuhito_m/status/1346127530709766145
+Christopher Peters,@statwonk,2021-01-04T14:54:42.000Z,"Replying to 
+@statwonk
+ @koynoyno
+ and 
+@zapier","@koynoyno
+ do you happen to have a url or way I can reproduce the issue? If so it'll aid debugging.",😷,1,,,[],https://twitter.com/statwonk/status/1346107794408296448
+Ben Sterne,@bensterne,2021-01-04T01:13:39.000Z,"The issue is Zapier premium apps like webhooks require a premium plan. So I could set it up but would be $18 a month. Next.
+
+Then I tried to do a webhook to airtable. This would have been free but required me sharing my API key to my airtable account exposing customer data.",,📟,1,,1,[],https://twitter.com/bensterne/status/1345901171882430464
+Christopher Peters,@statwonk,2021-01-05T19:35:06.000Z,"Replying to 
+@koynoyno
+ and 
+@zapier","This was really helpful. Being able to repro the issue let us quickly diagnose and schedule it for bug squashing. Thank you! In the meantime, a workaround is waiting a few seconds before hitting the 'Make a Zap' bttn. That allows some code to load and do work. Pardon the dust. ",😷 😅,1,,1,[],https://twitter.com/statwonk/status/1346540747588251651
+Zapier,@zapier,2021-01-06T17:43:52.000Z,"Replying to 
+@mbommarius","Hello, thanks for reaching out! We would love to continue to help with this issue but please reach out to us at: http://ow.ly/s4EY50Bu7b3 or you can ask your question in our community: http://ow.ly/H14K50Bu73V. We don't offer support on our social channels right now. Thank you!",,,,,['https://pbs.twimg.com/card_img/1365276512426016769/MWbX3JHp?format=png&name=360x360'],https://twitter.com/zapier/status/1346875142689812481
+Marvin Bommarius,@mbommarius,2021-01-06T12:06:18.000Z,"@zapier
+ i got some issues making a github zap since i can't edit my github user. When i try to add a new user it just adds it - seems like a bug?",,,1,,1,[],https://twitter.com/mbommarius/status/1346790193014190081
+Felix is sharing Clubhouse Invite Pay-It Forward,@Felix_Josemon,2021-01-07T08:27:04.000Z,"@buymeacoffee
+ seems a bug with og image, do check? it's from zapier share link.",,,1,,,[],https://twitter.com/Felix_Josemon/status/1347097406505168897
+Illumehire,@illumehire,2021-01-08T01:41:38.000Z,"""Basically, I’ve had a thousand jobs. And that’s a feature not a bug. Organizations worth your time will understand that. I was able to bring something from every job I had to the next job, even if it was that I never wanted to do that other thing again."" 
+@zapier
+ @FastCompany","Quote Tweet
+topsixtyoversixty
+@Top60Over60
+ · Jan 6
+Ageism deprives companies of needed perspective and the tools and staff they need to innovate. http://ow.ly/Mqm450D15Ug",,,,,['https://pbs.twimg.com/profile_images/850413741074243584/7DPv0A_9_mini.jpg'],https://twitter.com/illumehire/status/1347357766298451969
+Daniel and 10 others,@techwraith,2021-01-09T17:02:44.000Z,"Replying to 
+@Suhail","We shipped:
+- Zapier integration
+- Slack integration
+- Signature removal and general textual data cleanup
+- bug fixes and performance improvements",,,,,[],https://twitter.com/techwraith/status/1347951954320781314
+"｢ Seventh
+Ascendance ｣",@AuroreJager,2021-01-09T05:07:07.000Z,"Okay so
+I have yet to figure out how to turn on auto-mode for Zapier. That's the issue, not Zapier stalling... right?",,⚜,1,,,[],https://twitter.com/AuroreJager/status/1347771862277738496
+Litmus,@litmusapp,2021-01-11T15:47:03.000Z,"""Our goal was to introduce a process that gives clear guidance on what to do and what to check for before hitting send."" Discover how Litmus enables Zapier to send error-free emails at scale: https://bit.ly/3kFjwQJ #LitmusFirst #EmailFirst",,,,,1,['https://pbs.twimg.com/media/ErdlA67XUAgYdg5?format=jpg&name=small'],https://twitter.com/litmusapp/status/1348657685449895941
+Saurabh chauhan,@RamslamOO7,2021-01-11T07:49:08.000Z,"Hey 
+@zapier
+, one of the links on the APP ""successfully submitted for review"" page is showing a 404 error.
+
+URL: https://developer.zapier.com/platform/partner-program…
+
+Screenshot attached! You can add me to your bug bounty program... hahaha. #mondaythoughts",,,,,,['https://pbs.twimg.com/media/Erb2sA_VcAIuE4Y?format=jpg&name=small'],https://twitter.com/RamslamOO7/status/1348537410829733889
+Naya Moss,@bossnayamoss,2021-01-11T00:29:29.000Z,"Automation Flow:
+
+New event, newsletter issue, etc >
+
+Check box if should be added to Webflow Links Table >
+
+Airtable automation creates link name, link, & slug in the Webflow Links Table>
+
+Zapier recognizes new record & creates a live item in the ""Links"" collection",,🤖,3,,3,['https://pbs.twimg.com/media/EraQxEFXUAM9OCx?format=jpg&name=small'],https://twitter.com/bossnayamoss/status/1348426769758629888
+Rebecca Dessonville,@RebeccaOutloud,2021-01-12T22:51:56.000Z,"Wanted to create a way to put specific 
+@intercom
+ conversations in 
+@gitlab
+.
+
+Intercom assign to Custom Team pushes to 
+@SlackHQ
+ specific channel then 
+@zapier
+ filters and creates a Gitlab issue in a bucket project.
+
+Easy, right?",GIF,,1,,,[],https://twitter.com/RebeccaOutloud/status/1349126998896029700
+Zapier,@zapier,2021-01-12T18:59:18.000Z,"Replying to 
+@110101001100101
+ and 
+@googledrive","@110101001100101
+ Hello, that's a great question! We would love to continue to help with this issue but please reach out to us at: http://ow.ly/s4EY50Bu7b3 or you can ask your question in our community: http://ow.ly/H14K50Bu73V.",,,,,['https://pbs.twimg.com/card_img/1365276512426016769/MWbX3JHp?format=png&name=360x360'],https://twitter.com/zapier/status/1349068454029107200
+Shashi Bellamkonda+,@shashib,2021-01-12T18:31:05.000Z,"Replying to 
+@StephenAnfield
+ and 
+@zapier",Zapier makes you happier. They fix the issue of some of your tools not talking to each other.,,1,,2,[],https://twitter.com/shashib/status/1349061353038880769
+"NoCode
+Weekly",@nocodeweekly,2021-01-14T21:22:53.000Z,"Replying to 
+@NoCodeLuc
+ @IFTTT
+ and 2 others",Just knew it! Tomorrow's newsletter issue is about one of these 3 tools. Tweet thread coming once it's out.,🔥 🔥,,,2,[],https://twitter.com/nocodeweekly/status/1349829363244666881
+Eric Oppegaard,@eoppie,2021-01-14T14:18:35.000Z,"Replying to 
+@BrendanG
+ and 
+@zapier","You rock, thank you!  Getting an error  ""You must return a single object or array of objects.""  looking now to see if it is a syntax thing in Zapier, or if it actually will work in Live vs. testing.",,,,1,[],https://twitter.com/eoppie/status/1349722583512600581
+Stephen O'Grady,@orishnal,2021-01-14T02:10:31.000Z," Close the loop
+- my projects are set up with another Zapier Webhook so that issue details are fired off whenever an issue updates
+- the Webhook Zap filters for instances where the issue’s status = “Done” or “Canceled”",,,1,,1,[],https://twitter.com/orishnal/status/1349539361281347584
+Stephen O'Grady,@orishnal,2021-01-14T02:10:30.000Z," Send from Airtable to Linear
+- I plan, groom, score, and vet features in Airtable
+- once all details are in, I fire them off to Linear using a Zapier Webhook
+- the Airtable record ID is included in the issue’s description (this is in lieu of custom fields)",,,1,,1,[],https://twitter.com/orishnal/status/1349539354671124481
+Robert Merrill,@AskRobMerrill,2021-01-15T17:45:59.000Z,"Replying to 
+@AndrewJDavison
+ and 
+@zapier",Bargle! I got an error :-( I am looking to see if this zap has been deprecated?,,1,,,['https://pbs.twimg.com/media/ErymmAuVoAESZp9?format=png&name=small'],https://twitter.com/AskRobMerrill/status/1350137166937030657
+isaac,@isaaacme,2021-01-15T08:33:01.000Z,"Replying to 
+@Digital_George
+ and 
+@bentossell","Sadly yes . until #nocode tools solve the API connector issue for themselves, zapier will thrive",,3,,2,[],https://twitter.com/isaaacme/status/1349998009166262275
+坂野 宏樹@ReactとGraphQLが大好き,坂野 宏樹@ReactとGraphQLが大好き,2021-01-15T06:43:40.000Z,"GitHub IssuesをTodoistのタスクに連携するためにIntegromatというサービスを使ってみた。
+Zapierは無料プランだときついし、IFTTTは謎のエラーでGitHubからIssue情報とってこれないしで、あきらめかけてたけど、良いサービスがあってよかった。",,,,,1,[],https://twitter.com/h_sakano/status/1349970487225376771
+Miguel Piedrafita,@m1guelpf,2021-01-16T15:20:50.000Z,"Replying to 
+@julian_rubisch
+ @geetfun
+ and 
+@zapier","Does 
+@gumroad
+ allow setting different redirect URLs for different variants? If so, this shouldn't be an issue",🥬,,,,[],https://twitter.com/m1guelpf/status/1350463028119134214
+Josee,@coderGirlnl,2021-01-17T18:12:32.000Z,"I just love Netlify 
+ I think I've said it so many times before, but I keep falling in love. I set up a Zapier integration to automatically create a new Github Issue when someone enters a feature request on http://WhatDinner.app ",,😍 🥳,,,2,[],https://twitter.com/coderGirlnl/status/1350868623879974915
+Digital Accountancy Show,@ShowAccountancy,2021-01-18T09:01:09.000Z,"Have you seen this issue's 
+@zapier
+ top tip? This time Rowan Van Tromp from 
+@AppAdvisoryPlus
+ shows how to connect 
+@xero
+ and 
+@ApprovalMax
+ to email invoices automatically --","Digital Accountancy Magazine Issue 5 - Zap top tips
+digitalaccountancy.com",,,2,4,['https://pbs.twimg.com/card_img/1365601327909376000/q1YnOHBc?format=png&name=small'],https://twitter.com/ShowAccountancy/status/1351092251657723905
+Dee,@sonofweb,2021-01-19T19:31:45.000Z,"Replying to 
+@heyNaitik
+ @aronkor
+ and 5 others","Thanks for jumping in Naitik! Yes that was the possible solution I found out. But the issue is, if anybody chooses multiple countries and categories, how do I setup those on an email trigger? Maybe I’m missing something. Is there a good tutorial on something similar?",,1,,,[],https://twitter.com/sonofweb/status/1351613336853442560
+The Giver,@AskTheGiver,2021-01-19T15:05:34.000Z,"Replying to 
+@blackhatwizardd","AGREED.
+
+Main issue was the realtors weren’t getting in-touch with the leads quick enough.
+
+We zapped all the contact info to their phones using Zapier’s SMS system and they’d take an hour to reach out..
+
+We did about 150/leads per month on a $10/day budget.",🔮,,,4,[],https://twitter.com/AskTheGiver/status/1351546348554874881
+Bugbattle,@BugBattleApp,2021-01-19T13:27:11.000Z," Report and fix bugs the easy way.
+Get all the contextual insights you need
+SDKs for Android, iOS, React Native and Flutter 
+Integrations for Jira, Zapier, Trello, Slack, GitHub and Asana
+Super fast and super easy
+Bugbattle is your affordable in-app bug reporting tool.","Report and fix bugs the easy way
+bugbattle.io",🐞 🔍 🔧 🧩 🏎,,2,12,['https://pbs.twimg.com/media/EsGRHweW4AEM6Zt?format=png&name=small'],https://twitter.com/BugBattleApp/status/1351521586889846784
+Bugbattle,@BugBattleApp,2021-01-19T08:55:43.000Z," Report and fix bugs the easy way
+Get all the contextual insights you need
+SDKs for JavaScript, Angular and React 
+WordPress Plugin
+Integrations for Jira, Zapier, Trello, Slack, GitHub and Asana
+Bugbattle is your affordable bug reporting tool for apps and websites.","Report and fix bugs the easy way
+bugbattle.io",🐞 🔍 🔧 🌐 🧩,1,2,15,['https://pbs.twimg.com/media/EsFSzSBWMAAnLGt?format=png&name=small'],https://twitter.com/BugBattleApp/status/1351453273270710272
+SurveyMonkey,@SurveyMonkey,2021-01-20T22:40:21.000Z,"Replying to 
+@JoeLaz
+ and 
+@zapier","Thanks for reaching out to us. Sorry about the issue. 
+
+My team has let me know that this issue should be resolved. If you still experience issues, feel free to send us a DM or reach out to our support team. Thanks for your understanding!",,,,1,[],https://twitter.com/SurveyMonkey/status/1352023185177325571
+Eric Wright,@discoposse,2021-01-22T17:47:56.000Z,"Any Zapier power users who can help out with a Wordpress -> scheduled post -> Buffer flow?  Seems like Zapier not playing nicely with scheduled future content and it's firing the Zap immediately before the content is published.
+
+Either that or Hal9000 is doing the error handling",,,,1,,['https://pbs.twimg.com/media/EsWqGLTXIAAYdqg?format=png&name=small'],https://twitter.com/discoposse/status/1352674371689705472
+Federico Viticci,@viticci,2021-01-22T17:17:15.000Z,"In today's issue of 
+@ClubMacStories
+ Weekly, I wrote about the system I've put in place to create iOS reminders with Alexa on an Amazon Echo. Best of both worlds, involving some web automation via 
+@zapier
+. 
+
+https://club.macstories.net",,,1,1,14,['https://pbs.twimg.com/media/EsWjJZtW8AwH8l6?format=jpg&name=small'],https://twitter.com/viticci/status/1352666650064150532
+Nigel bosses #NoCode,@NigelGodfrey,2021-01-22T14:30:57.000Z,"Recommendations for a #nocode visual bug reporting tool? Something like Usersnap/Bugherd but not as pricey?
+
+Link to Zapier/Trello - Doesn't need all the bug management stuff.
+
+3-5 projects max.",,🧠,4,,9,[],https://twitter.com/NigelGodfrey/status/1352624798422233088
+"Peter du Toit (@
+)",Peter du Toit (@,2021-01-24T05:50:32.000Z,"Replying to 
+@AmieDevero
+ and 
+@AdamMGrant","This is *definitely* an issue IF it is not intentionally designed into the remote workplace. There are companies that have succeeded in doing so however pre pandemic eg. 
+@gitlab
+, 
+@automattic
+, 
+@InVisionApp
+, 
+@zapier
+ etc. 
+
+(See: https://about.gitlab.com/company/culture/all-remote/building-culture/…)",🏠,2,,4,['https://pbs.twimg.com/card_img/1364603859956609025/ovaZN5iU?format=jpg&name=small'],https://twitter.com/peterdutoit/status/1353218607656759296
+Mohammed Zeeshan ☀︎,@zeshhaan,2021-01-24T05:16:31.000Z,"Replying to 
+@THETYFRANKEL","I love 
+@pipedream
+'s UX. Error finding has been a nightmare in 
+@zapier
+ traversing through routes. Whereas in pipedream, you can debug for errors quickly without a mouse click and that gives me great satisfaction.",,1,,1,[],https://twitter.com/zeshhaan/status/1353210048588091392
+Pipedrive,@pipedrive,2021-01-25T23:16:19.000Z,"Replying to 
+@savilmik","Hey 
+@savilmik
+, our apologies for the late reply and for this inconvenience. May we ask if you got in touch with Zapier's Support? It would be better to do it as this seems to be a bug, but better to investigate it. If we can do something on our side, just let us know.",,,,,[],https://twitter.com/pipedrive/status/1353844177063313410
+Milon Howlader,@mdmilon9311,2021-01-25T21:37:42.000Z,"Replying to 
+@Upwork
+ @salesforce
+ and 19 others","Hello sir,
+ I am Expert in ISO software engineer. I have read your recommend .I have full access to my Upwork id. But why my Upwork id not approved. I have 100% complete my id .I am able to work Upwork to my qualifications. so please see my issue.",,2,,,[],https://twitter.com/mdmilon9311/status/1353819357047001088
+CampLegal - Immigration Case Management,@camp_legal,2021-01-25T14:42:12.000Z,"If you are on our email list, you heard first. We are finally integrated with Zapier!It brings many benefits: data flows smoothly from many systems, less error prone, increased productivity!",,,,,1,['https://pbs.twimg.com/media/EslcboaU4AAvFdN?format=jpg&name=small'],https://twitter.com/camp_legal/status/1353714793929011200
+Zapier,@zapier,2021-01-27T17:14:52.000Z,"Replying to 
+@pcmcreative","@pcmcreative
+ Hi there! To best assist you, we recommend contacting support at http://ow.ly/s4EY50Bu7b3 or by posting your issue on our community: http://ow.ly/H14K50Bu73V. Thanks for your patience.",,1,,1,['https://pbs.twimg.com/card_img/1365276512426016769/MWbX3JHp?format=png&name=360x360'],https://twitter.com/zapier/status/1354477988100771841
+Zapier,@zapier,2021-01-28T19:47:35.000Z,"Replying to 
+@jarodpeachey
+ and 
+@pipedrive","@jarodpeachey
+ Hello, we would love to continue to help with this issue but please reach out to us at: http://ow.ly/s4EY50Bu7b3 or you can ask your question in our community: http://ow.ly/H14K50Bu73V. We don't offer support on our social channels right now. Thank you!",,1,,,['https://pbs.twimg.com/card_img/1365276512426016769/MWbX3JHp?format=png&name=360x360'],https://twitter.com/zapier/status/1354878809355509766
+Zapier,@zapier,2021-01-28T19:41:44.000Z,"Replying to 
+@KING_Gabriel01
+ and 
+@alexiskrystina",Hello! We'd love to continue to help with this issue but please reach out to us at: http://ow.ly/s4EY50Bu7b3 or you can ask your question in our community: http://ow.ly/H14K50Bu73V. We don't offer support on our social channels right now. Thank you!,,1,,1,['https://pbs.twimg.com/card_img/1365276512426016769/MWbX3JHp?format=png&name=360x360'],https://twitter.com/zapier/status/1354877337393713152
+Mazi Uchechukwu Ajuzieogu,@Apex_Zy,2021-01-29T11:47:17.000Z,"Replying to 
+@KING_Gabriel01
+ @zapier
+ and 
+@paystack",What's the issue?,😌,1,,,[],https://twitter.com/Apex_Zy/status/1355120328306008065
+Andrew Davison,@AndrewJDavison,2021-01-30T17:46:12.000Z,"Replying to 
+@KING_Gabriel01
+ @zapier
+ and 
+@paystack",Can you link to your post or tell me about your issue - I'll try and help!,,1,,2,[],https://twitter.com/AndrewJDavison/status/1355573037056335872
+Adwoa.,@adjoakittoe,2021-01-30T00:01:51.000Z,"6 cont'd. The issue here is that not everyone wants emails, they will have to agree to be a newsletter subscriber. 
+
+Perhaps I shouldn't Zapier them into my Ghost Newsletter and just keep their info in my CRM.",,,1,,,[],https://twitter.com/adjoakittoe/status/1355305188479930369
+Rolands Ozolins,@rolandsozolins,2021-02-02T15:48:13.000Z,"@ActiveCampaign
+ Any update on Zapier issue?  What are you doing to fix this? I guess I do not need to describe the impact of this on your customers. Zapier Issue ""Bug in version 1.8.0 -- Users unable to connect new or reconnect current ActiveCampaign accounts in Zapier
+#153""",,,1,,1,[],https://twitter.com/rolandsozolins/status/1356630510622146560
+James Sowers,@jamesrsowers,2021-02-03T23:44:13.000Z,"Replying to 
+@MonicaGrohne
+ and 
+@zapier","Welcome to the community!
+
+Fair warning: Zapier automations are amazing when they work, but they break or have errors semi-frequently, especially with multi-step automations that have dependencies.
+
+Definitely take a ""trust, but verify"" approach and don't ignore the error alerts.",,2,,6,[],https://twitter.com/jamesrsowers/status/1357112689160564736
+CryptoSquirrel,@HodlMyNutz,2021-02-03T20:41:32.000Z,"@zapier
+ Hey guys! Is email the only way of getting support? My zaps have suddenly stopped delivering leads etc via texts and it's a huge issue right now. Emailed yesterday, but haven't heard anything yet. Thanks!",,,2,,2,[],https://twitter.com/HodlMyNutz/status/1357066712772927491
+𝗦𝘁𝘂𝗮𝗿𝘁 𝗕𝗿𝘂𝗰𝗲 𝙋𝙍 𝙁𝙪𝙩𝙪𝙧𝙞𝙨𝙩,@stuartbruce,2021-02-03T09:54:26.000Z,"Replying to 
+@drewb","Microsoft Business 365. I thought it would be simple using Power Flow or Zapier, but fell at first hurdle as Google Calendar link is a 404 error in browser. It's probably something simple as I only have the iPad for when I need to use iOS as everything is Windows/Android.",🚀,,,,[],https://twitter.com/stuartbruce/status/1356903866000891909
+Chris Colotti,@ccolotti,2021-02-04T17:45:23.000Z,"My only issue with 
+@Calendly
+ is there is only 2 
+@zapier
+ triggers and no actions, yet Zapier integration is not included in the free plan….with only 2 actions, 
+@Calendly
+ should just include zapier on the free plan…#MakeItSo",,,1,,1,[],https://twitter.com/ccolotti/status/1357384771010183169
+Jonathan Moisan,@djomoisan,2021-02-04T12:52:19.000Z,"@typeformhelp
+ Why the sudden change? Or is it just a bug? Anyway, now I have to modify my 100+ Zaps (Zapier automations)... not cool.",,,3,,,[],https://twitter.com/djomoisan/status/1357311018272178176
+Steve Perry,@stevemarkperry,2021-02-04T10:33:42.000Z,"Replying to 
+@stevemarkperry
+ and 
+@wpmark","that there's a track record of everything basically. The JQL filters also allow me to build dashboards of specific issue types.
+
+Automation varies per project. Starts with simple Trello card buttons (add to Jira) through to board-wide Butler automations, and Zapier processes",,1,,,[],https://twitter.com/stevemarkperry/status/1357276135931994114
+Andrew Davison,@AndrewJDavison,2021-02-04T10:25:53.000Z,"Replying to 
+@HodlMyNutz
+ and 
+@zapier",You can also get help at http://community.zapier.com - but this issue sounds like one support need to take a look at.,,,,,['https://pbs.twimg.com/card_img/1365276512426016769/MWbX3JHp?format=png&name=360x360'],https://twitter.com/AndrewJDavison/status/1357274167427629059
+markcliff,@leinster51,2021-02-05T23:02:17.000Z,"Replying to 
+@leinster51
+ @moseskagan
+ and 
+@TheRealEstateG6","3.) The liked of zapier should do well in the next 10 years.
+
+I never even thought this was an issue!",,,,1,[],https://twitter.com/leinster51/status/1357826911716728832
+Tiago Almeida,@_tiagoalmeida,2021-02-05T21:12:57.000Z,"Replying to 
+@jorilallo
+ and 
+@linear_app",The only action that I saw on zapier was “create issue”. If I hd an “update issue” on zapier maybe I could do it?,,2,,1,[],https://twitter.com/_tiagoalmeida/status/1357799397883580418
+GEMS,@tokensFA,2021-02-05T00:18:06.000Z,"Replying to 
+@itstrichome","I still don't know where to find $FEG. Link?
+
+$COMBO is very interesting. An issue is the FDV (eg. VC greed). Automation software in the traditional world is pretty big - eg. RPAs like UIPath, or Zapier on the web. Automating DeFi is likely as big, if not bigger.
+
+Need to think.",,3,,4,[],https://twitter.com/tokensFA/status/1357483601521164288
+Vinny Green,@vinnysgreen,2021-02-06T18:06:12.000Z,"Replying to 
+@RyanAvenue
+ and 
+@airtablestatus","All of my 
+@zapier
+ zaps connected to 
+@airtable
+ started failing. I think there is an issue for sure.",,1,,1,[],https://twitter.com/vinnysgreen/status/1358114788870508546
+Bryan Glanz,@BryanGlanz,2021-02-06T16:34:09.000Z,"Replying to 
+@michaelpatron0","Never used that, but in my experience....it’s not the apis being available that is the problem. It’s just human error and ensuring that your vendors, shippers etc aren’t stupid and know how to enter in data too haha. Email, zapier, apis and a spreadsheet tool tend to be enough",,,,1,[],https://twitter.com/BryanGlanz/status/1358091623695962113
+Tom Osman,@tomosman,2021-02-07T14:17:15.000Z,"Replying to 
+@pauldm
+ @Natalie_Furn
+ and 3 others","Yup but 
+@AndrewJDavison
+ is by far the expert here.
+
+High level, if you need more granular control over your data + error handling then Integromat. But may not be needed.",,,,2,[],https://twitter.com/tomosman/status/1358419560098054146
+garrulous gibbon,@gibbonposting,2021-02-08T23:49:18.000Z,"Replying to 
+@PrimatesDaily",youve got an issue with your zapier integration my guy,,,,,[],https://twitter.com/gibbonposting/status/1358925907629543424
+Derek J,@derekj_,2021-02-08T15:40:51.000Z,"The error on 
+@zapier
+ 
+cc: 
+@WebflowSupport
+ @ZapierSupport",,,,,,['https://pbs.twimg.com/media/Ettv-4rXUAQyL2y?format=jpg&name=small'],https://twitter.com/derekj_/status/1358802983207772168
+Derek J,@derekj_,2021-02-08T15:29:32.000Z,"Hey Webflow and Zapier friends, any of you currently having an issue where Zapier doesn't recognize any existing fields on Webflow? ",,😟,2,,1,[],https://twitter.com/derekj_/status/1358800138416893954
+monsuke,@monsuke,2021-02-08T07:48:08.000Z,"Replying to 
+@PassKit
+ @JotForm
+ and 
+@zapier","I tried this zap but Zapier retuned the following error massage.  ""thumbnail image: image: unknown format"". Please let me know how can I upload an image from Jetform?",,,,1,[],https://twitter.com/monsuke/status/1358684022151344128
+Daniel Wallen,@WebWallen,2021-02-09T17:24:07.000Z,"Replying to 
+@typeform","Thanks, I'll reach out.
+
+Deleted a Zapier integration since that's the only difference between this form and two more that work.
+
+But that didn't seem to have any effect, so I have no idea why the bug is only affecting this specific form...",,,,,[],https://twitter.com/WebWallen/status/1359191359228411904
+Andrew Davison,@AndrewJDavison,2021-02-10T17:35:14.000Z,"Quite a few people try to dynamically map a Google Sheet in 
+@Zapier
+ but aren't able to because it *looks* like there is an error.
+
+Good news... there isn't ","How to map dynamically created Google Sheets in Zapier (without the...
+If you create a new Google Sheets worksheet in Zapier and then try and write a row to it, you'll get an error. This is how to fix it.
+youtube.com",👇,,1,6,['https://pbs.twimg.com/card_img/1367171463690801156/YplXzVro?format=jpg&name=240x240'],https://twitter.com/AndrewJDavison/status/1359556545382645765
+Andrew Davison,@AndrewJDavison,2021-02-10T17:19:57.000Z,"40+ error messages from 
+@Zapier
+.... I guess 
+@Airtable
+ is broken again ",,😅,6,,17,[],https://twitter.com/AndrewJDavison/status/1359552699784597504
+Kieran Tie,@kieran_tie,2021-02-11T19:04:03.000Z,"@jasonwbade
+ I'm trying to hook Pico up to Zapier (and then ConvertKit), but keep getting this error on test. Have added multiple test accounts to Pico with no success in Zapier. Any clues on what I'm doing wrong?",,,1,,1,['https://pbs.twimg.com/media/Et97QWBXAAoF4hn?format=jpg&name=small'],https://twitter.com/kieran_tie/status/1359941283423395844
+Eric Wright,@discoposse,2021-02-11T02:44:21.000Z,When the Zapier trigger doesn't work and you get a useless error,,,1,,5,['https://pbs.twimg.com/media/Et6bH8oXUAAK6xJ?format=jpg&name=small'],https://twitter.com/discoposse/status/1359694735645036552
+Honza Široký,@sir_honza,2021-02-12T19:08:10.000Z,"Even though it's dry February, my virtual pen hasn't dried out and I've put together a post about our incident management, error handling and how the whole workflow operates for 10+ cross-functional teams. https://developers.mews.com/incident-management/… 
+@youtrack
+ @getsentry
+ @zapier
+ @pagerduty","Incident management for 10+ cross-functional teams
+Incident management is one of the best indicators of technical organization maturity and is one of my favorite interview questions. How well a company handles their incidents tells a lot about...
+developers.mews.com",,,9,19,['https://pbs.twimg.com/card_img/1365383468423725058/8kGpU4-o?format=jpg&name=small'],https://twitter.com/sir_honza/status/1360304708015902727
+Dave Cook,@DaveCookUK,2021-02-12T14:20:17.000Z,"@zapier
+ Is there an issue with webhooks at the moment? I've set up webhooks on several accounts and fired payloads at them but none of them have been received or triggered the Zaps.",,,1,,1,[],https://twitter.com/DaveCookUK/status/1360232259115180034
+Badgr Team,@BadgrTeam,2021-02-13T21:00:00.000Z,"Issue badges with Badgr with new JotForm submissions | Browse this automation and more on our new 
+@zapier
+ integration page: #digitalbadges #microcredentials #nocode 
+@JotForm
+ https://hubs.ly/H0GfdcG0",,,,,3,['https://pbs.twimg.com/media/EuIpG_4WgAA0HgF?format=jpg&name=small'],https://twitter.com/BadgrTeam/status/1360695239204364288
+GG,@luck1d1y,2021-02-13T00:52:09.000Z,"Replying to 
+@whit4th
+ @carrd
+ and 4 others",I cannot receive any SMS on my phone after subscribing it. Does anyone have the same issue?,,,,,[],https://twitter.com/luck1d1y/status/1360391275820830724
+Zach,@zachjarr,2021-02-15T23:22:36.000Z,"Replying to 
+@aronkor
+ and 
+@webflow","I can send you the error code when I get back to my Mac! 
+
+Just trying to use webhooks via Zapier
+Airtable Button -> Zapier Webhook -> Create Live Item in Webflow.",,1,,1,[],https://twitter.com/zachjarr/status/1361455901903900673
+nickselman,@nickselman,2021-02-15T17:34:57.000Z,"I always find out about services being down from Integromat error emails.
+
+e.g. They tell me that 
+@airtable
+ is 502’ing long before Airtable’s own status page.
+
+Idea for 
+@integromat
+ @zapier
+: build a better, free http://statuspage.io competitor. You already own the hardest part.",,,1,,5,[],https://twitter.com/nickselman/status/1361368412103073796
+VYB Digital,@VybDigital,2021-02-15T10:56:14.000Z,"Continued...
+5. Connect sources like Twitter, Facebook, Instagram, Pocket.
+6. Collect valuable feedback from your readers with each issue.
+7. Sync your (un)subscribers with other services using Zapier.
+8. Get help whenever you’re stuck with something.",,,1,,,[],https://twitter.com/VybDigital/status/1361268075375509504
+Badgr Team,@BadgrTeam,2021-02-16T21:00:05.000Z,"Issue badges with Badgr to new Teachable course completers | Browse this automation and more on our new 
+@zapier
+ integration page: #digitalbadges #microcredentials #nocode 
+@teachable
+ https://hubs.ly/H0Gfd9K0",,,,,3,['https://pbs.twimg.com/media/EuYF5ohXYAArcVb?format=jpg&name=small'],https://twitter.com/BadgrTeam/status/1361782426444398600
+Zin Min Phyo,@zin_min_phyo,2021-02-16T02:51:25.000Z,"I got Euro 600 + 100 USD Bounty
+Thank you 
+@YogoshaOfficial
+ 
+Thank you Zapier Security Team
+
+Bug type:
+403 Bypass
+Rate Limint
+Informations Disclosure,etc
+
+#BugBounty",,,1,3,15,"['https://pbs.twimg.com/media/EuUMrWNWQAA2VZS?format=jpg&name=small', 'https://pbs.twimg.com/media/EuUMtIgXYAEbOoQ?format=jpg&name=medium']",https://twitter.com/zin_min_phyo/status/1361508455266271235
+Mike Taylor,@tmiket,2021-02-17T14:00:18.000Z," Hot off the press: “L&D Toolbox - Issue #123” 
+
+5 options for working smarter in Gmail: 
+@Zapier
+@Box
+@Dropbox
+@Trello
+@Zoom_us
+https://getrevue.co/profile/ldtoolbox/archive/382152… #WorkSmarter",,🔥,,,1,[],https://twitter.com/tmiket/status/1362039170252886019
+Luke Chesser,@lukechesser,2021-02-18T02:07:10.000Z,"Replying to 
+@lukechesser
+ @scotty_webb
+ and 2 others","So you know, we have talked with Zapier and we're big fans of their product, but the issue has been that once they provide their users with access to the Unsplash API, we lose the ability to enforce certain API guidelines, like attribution",,1,,,[],https://twitter.com/lukechesser/status/1362222091450343425
+BBOH,@bush_jason,2021-02-19T13:37:32.000Z,"Replying to 
+@PigInZen67","Not trying to bug you, but does this mean anything to you? 
+
+""Zapier Integration"" I think is the tool they use?",,1,,1,[],https://twitter.com/bush_jason/status/1362758216535392265
+Digital Accountancy Show,@ShowAccountancy,2021-02-19T09:01:16.000Z,"Have you seen this issue's 
+@zapier
+ top tip? This time Rowan Van Tromp from 
+@AppAdvisoryPlus
+ shows how to connect 
+@xero
+ and 
+@ApprovalMax
+ to email invoices automatically","Digital Accountancy Magazine Issue 5 - Zap top tips
+digitalaccountancy.com",,,1,4,['https://pbs.twimg.com/card_img/1365601327909376000/q1YnOHBc?format=png&name=small'],https://twitter.com/ShowAccountancy/status/1362688691970461699
+Hari Krishna V,@harikv73,2021-02-20T00:25:36.000Z,"Replying to 
+@yishus_news
+ and 
+@kixes","Yeah, Zapier seems to have an integration with Trello and Google tasks, but for some reason the Google tasks integration doesn't seem to get authorised! (Throws an error for me at least)",,1,,,[],https://twitter.com/harikv73/status/1362921310154747904
+Elevator Lab UK,@ElevatorLabUK,2021-02-21T17:00:03.000Z,Create a Simple But Effective Bug Ticketing System Using Google Forms + Zapier + Trello,"Create a Simple But Effective Bug Ticketing System Using Google Forms + Zapier + Trello
+So, I found myself working on a small team developing a game, which is great, huzzah! But soon we needed testers (other than the few of us…
+medium.com",,,,1,['https://pbs.twimg.com/card_img/1366359602472701957/9Qb4RIFg?format=jpg&name=small'],https://twitter.com/ElevatorLabUK/status/1363533959225778177
+I'm Adam;,@adamfintech,2021-02-21T15:04:33.000Z,Create a Simple But Effective Bug Ticketing System Using Google Forms + Zapier + Trello,"Create a Simple But Effective Bug Ticketing System Using Google Forms + Zapier + Trello
+So, I found myself working on a small team developing a game, which is great, huzzah! But soon we needed testers (other than the few of us…
+medium.com",,,,,['https://pbs.twimg.com/card_img/1366359602472701957/9Qb4RIFg?format=jpg&name=small'],https://twitter.com/adamfintech/status/1363504890215981058
+Jack,@Jack63495552,2021-02-21T14:26:21.000Z,"@zapier
+ For ""duplicate tweets"" detected error, how old tweets do we check to see if it is posted already ?",,,1,,1,[],https://twitter.com/Jack63495552/status/1363495276715991041
+Andrew Davison,@AndrewJDavison,2021-02-22T21:18:30.000Z,"Replying to 
+@allforJesse","Its less an error and more a quirk in how Zapier migrates zaps from one version of an integration to another.
+
+It happens on a queue... but within a few hours it should be working smoothly for everyone (if not sooner).",,,,,[],https://twitter.com/AndrewJDavison/status/1363961385881907206
+Jesse Avshalomov,@allforJesse,2021-02-22T21:16:23.000Z,"Replying to 
+@AndrewJDavison","Did they happen to mention if the issue was coming from the Zapier vs. Airtable, and what the estimated timeline is till it's fixed? (and thanks for posting, this was driving me crazy)",,1,,1,[],https://twitter.com/allforJesse/status/1363960853523931137
+Andrew Davison,@AndrewJDavison,2021-02-22T19:49:50.000Z,"Note: You may see some error messages like this 
+ if you switch off and/or edit your Airtable zaps.
+
+Zapier team have told me that it's temporary as zaps are auto-migrated to the new Airtable integration version.",,👇,1,,2,['https://pbs.twimg.com/media/Eu2vWSFXcAk2bDd?format=png&name=360x360'],https://twitter.com/AndrewJDavison/status/1363939075053547525
+Cliff Gibson,@CliffKGibson,2021-02-22T18:22:31.000Z,"Replying to 
+@pipedrive
+ and 
+@zapier","Hi, yeah that bit works but the lead custom fields don’t appear in zapier. However they do appear for person don’t know if this is a bug somewhere?",,1,,,[],https://twitter.com/CliffKGibson/status/1363917100302147585
+Michele @REVgabba | Scrappy MarTech,Michele @REVgabba | Scrappy MarTech,2021-02-23T19:36:19.000Z,"New Scrappy MarTech Issue!
+DRIP EMAILS
+ #MarTech Hunt drip email & AI tool to score subject lines 
+@automizy
+ 
+ How to Build a Welcome Email Drip 
+@zapier
+ 
+ #GrowthMarketing Tip: 9 Big Traps for Drip Email
+ Doing good 
+@ConvertKit
+ @BarrettABrooks","The Scrappy MarTech Newsletter - Issue 17: Nurturing Leads with Drip Emails
+Nurturing Leads with Drip Emails. Nurturing leads is simply helping your customers through the sales process so they take action. Drip emails or automated email campaigns are the workhorses of lead...
+revgabba.com",💧 🤖 👋 👹 😇,1,3,5,['https://pbs.twimg.com/card_img/1366834851622629377/uRBL8pRp?format=jpg&name=small'],https://twitter.com/revgabba/status/1364298059467935745
+Hellion Boyette,@elliotboyette,2021-02-23T19:24:41.000Z,"Replying to 
+@typeformhelp",Thanks for the update here. I was pulling my hair out trying to figure out why request forms integrations weren't able to turn on in zapier. Kept throwing this error.,💥 💥,1,,1,['https://pbs.twimg.com/media/Eu7zKaWVoAEzTQf?format=png&name=small'],https://twitter.com/elliotboyette/status/1364295133047361536
+Badgr Team,@BadgrTeam,2021-02-24T21:00:00.000Z,"Issue badges in Badgr with new Google Sheets rows | Browse this automation and more on our new 
+@zapier
+ integration page: #digitalbadges #microcredentials #nocode 
+@GoogleForEdu
+ https://hubs.ly/H0GfcKW0",,,,,2,['https://pbs.twimg.com/media/EvBSmUUXYAEGqNm?format=jpg&name=small'],https://twitter.com/BadgrTeam/status/1364681506950696961
+Kevin Espiritu,@KevinEspiritu,2021-02-24T16:27:44.000Z,"Replying to 
+@GrantTaleck
+ @zapier
+ and 
+@BoweryFarming","The biggest issue is using artificial light when #1 free external to Earth source of energy is available, vertical farming solves high value + perishable crops like greens and herbs only so far. Part of larger tapestry of future of food but not a cure all",,,1,1,[],https://twitter.com/KevinEspiritu/status/1364612988804587522
+Kirk Vandersall,@KirkVandersall,2021-02-24T12:50:45.000Z,"Me: hey survey provider, what's up with a 2% error rate in saving survey responses to Google Sheets?
+Support: you've found an engineering issue
+Me: I seem to do so annually on mission critical client problems
+Support: ""Maybe use Zapier"" instead of the tool we built?
+#evaluation",,,,,,[],https://twitter.com/KirkVandersall/status/1364558384977108994
+Chris McCarney,@chris_mccarney,2021-02-24T11:48:37.000Z,"@wadefoster
+ someone needs to solve for this, do you see this as a zapier issue or the responsibility of the integrated apps to display better?",,,1,,,[],https://twitter.com/chris_mccarney/status/1364542746338463752
+Zara Hoffman is #amwriting,@HoffmanZara,2021-02-24T00:29:09.000Z,"Replying to 
+@BryanGolkhajeh
+ and 
+@zapier",It wasn’t an issue on my end. Something was wrong with Zapier but it fixed itself.,,,,,[],https://twitter.com/HoffmanZara/status/1364371753020063745
+Zapier Status,@zapierstatus,2021-02-25T23:20:08.000Z,"[status] Monitoring: We've made a change to the Zapier–Slack integration, to help trigger events return to normal. We're monitoring to ensure that this issue is fully resolved.","Slack issues
+We've made a change to the Zapier–Slack integration, to help trigger events return to normal. We're monitoring to ensure that this issue is fully resolved.
+status.zapier.com",,1,,1,['https://pbs.twimg.com/card_img/1367126167262818313/TvDdd2_F?format=png&name=120x120'],https://twitter.com/zapierstatus/status/1365079162436808704
+Zapier Status,@zapierstatus,2021-02-25T16:22:03.000Z,"[status] Resolved: This issue has been resolved and app Authentications can reconnect now. If you have any questions about this, please contact us: https://zapier.com/app/get-help","Multiple app authentications are unable to be reconnected
+This issue has been resolved and app Authentications can reconnect now. If you have any questions about this, please contact us: https://zapier.com/app/get-help
+status.zapier.com",,,,,['https://pbs.twimg.com/card_img/1367126167262818313/TvDdd2_F?format=png&name=120x120'],https://twitter.com/zapierstatus/status/1364973945833709568
+Zapier Status,@zapierstatus,2021-02-25T14:27:38.000Z,[status] Identified: We have identified the issue and are in the process of rolling out a fix. Stay tuned for more info—sincere apologies for this inconvenience.,"Multiple app authentications are unable to be reconnected
+We have identified the issue and are in the process of rolling out a fix. Stay tuned for more info—sincere apologies for this inconvenience.
+status.zapier.com",,1,,,['https://pbs.twimg.com/card_img/1367126167262818313/TvDdd2_F?format=png&name=120x120'],https://twitter.com/zapierstatus/status/1364945153354424320
+Zapier Status,@zapierstatus,2021-02-25T14:09:09.000Z,[status] Investigating: Users are experiencing errors when reconnecting to some of our apps. We're investigating the impact of this issue and swiftly looking to resolve it. We will update you with more information as we go forward.,"Multiple app authentications are unable to be reconnected
+Users are experiencing errors when reconnecting to some of our apps. We're investigating the impact of this issue and swiftly looking to resolve it. We will update you with more information as we go...
+status.zapier.com",,1,,1,['https://pbs.twimg.com/card_img/1367126167262818313/TvDdd2_F?format=png&name=120x120'],https://twitter.com/zapierstatus/status/1364940499790929922
+Lakshmi Narayanan,@_glnarayanan,2021-02-26T08:55:31.000Z,"Replying to 
+@AndrewJDavison","I think he should raise a bug to 
+@zapier
+ for misreporting the time saved ;)",,,,1,[],https://twitter.com/_glnarayanan/status/1365223960304967685
+Chris Hajer,@chrishajer,2021-03-01T16:37:42.000Z,"Replying to 
+@jamesrsowers
+ @gravityforms
+ and 
+@zapier","Hi James.  I'm with Gravity Forms.  I recommend opening a support ticket here ( https://gravityforms.com/support/ ) for this issue, so we can gather some information about your setup and help you resolve this.    Thank you.",,1,,,[],https://twitter.com/chrishajer/status/1366427437089902596
+andrewstech,@andrewstech1,2021-03-02T19:29:59.000Z,"@VoiceflowHQ
+ @ReamBraden
+ Found a bug. Under the intergration tab if i grab the api block it gives me a zapier block. If i grab the zapier block it gives me an api block. You need to swap the labels.",,,,,,[],https://twitter.com/andrewstech1/status/1366833179936587778
+Zapier Status,@zapierstatus,2021-03-03T23:40:23.000Z,"[status] Resolved: This issue was resolved and Formatter by Zapier is operational. If you have any questions about this, please contact us: https://zapier.com/app/get-help","Formatter by Zapier Errors
+This issue was resolved and Formatter by Zapier is operational. If you have any questions about this, please contact us: https://zapier.com/app/get-help
+status.zapier.com",,,,,['https://pbs.twimg.com/card_img/1365662925868785665/RY9e6wff?format=png&name=120x120'],https://twitter.com/zapierstatus/status/1367258582442373124
+gui.do,@guido,2021-03-03T19:16:05.000Z,"Replying to 
+@revgabba
+ @NoCodeJac
+ and 2 others","@eltintero
+ @michael_zaro
+ zappier and integromat are great, but not having 2-way sync is breaking me up. 
+
+Manual 2 way sync of 5 statuses between 3 systems then requires 30 separate zaps which makes it very error prone and hard to maintain ",🧠 🛒 🎙 😕,1,,1,[],https://twitter.com/guido/status/1367192071044530180
+Zapier Status,@zapierstatus,2021-03-03T10:46:57.000Z,[status] Investigating: We are continuing to investigate this issue. https://stspg.io/p3jdrh52wxp0?u=qkwxv1nnhz9j…,,,1,,,[],https://twitter.com/zapierstatus/status/1367063942846050304

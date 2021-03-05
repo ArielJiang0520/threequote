@@ -1,0 +1,1791 @@
+UserScreenName,UserName,Timestamp,Text,Embedded_text,Emojis,Comments,Likes,Retweets,Image link,Tweet URL
+Sören,@chucker,2021-01-01T20:49:44.000Z,"Replying to 
+@Bl1zz
+ and 
+@trakt",Same here. https://trakt.tv/dashboard shows me the Cloudflare error page.,,,,1,[],https://twitter.com/chucker/status/1345109978303094785
+Dave Barr,@barrd,2021-01-01T16:20:38.000Z,"Replying to 
+@Shipt
+ @dimensionmedia
+ and 
+@virginmedia","Still getting the same error. However, whilst I'm certainly not 'attacking you', I am based in the UK, so Cloudflare may be just blocking me. Anyway, thanks for getting back and wishing you all the best!",,1,,,[],https://twitter.com/barrd/status/1345042258828132354
+"Blackb3rry
+Clu3s",@Blackb3rryClu3s,2021-01-01T13:30:51.000Z,"Replying to 
+@RealGeorgeWebb1
+ and 
+@georgew63613375","For some reason Ugetube doesn't seem to let you connect through a VPN due to their Cloudflare config. I'm getting ""Error 1020"" Access Denied. If anyone else are getting this and your VPN client allows for it the solution should be to configure split tunneling. Lame.",🍀 🎗 🍀,1,,1,[],https://twitter.com/Blackb3rryClu3s/status/1344999531851743233
+Kyra - Stop All Wars*End All Economic Sanctions,@A_School_Play,2021-01-01T13:19:23.000Z,"Replying to 
+@RealGeorgeWebb1
+ and 
+@georgew63613375","Error 1020  Ray ID: 60ac85268ffdb983 • 2021-01-01 13:17:22 UTC
+Access denied
+What happened?
+
+This website is using a security service to protect itself from online attacks.
+Cloudflare Ray ID: 60ac85268ffdb983 • Your IP: 186.4.18.127 • Performance & security by Cloudflare",🕊,,,,[],https://twitter.com/A_School_Play/status/1344996646363553792
+Elijah Lopez,@elibroftw,2021-01-02T18:19:22.000Z,"Replying to 
+@SimpleSwap_io
+ and 
+@Justintwofast4u","Is there no status website? At least post on twitter when the website is under maintenance or down, rather than showing us a Cloudflare error.",,,,1,[],https://twitter.com/elibroftw/status/1345434524759547904
+BSE Corporate News,@BSE_News,2021-01-02T10:56:05.000Z,"ISTLTD - Disclosure of Voting results of AGM (Regulation 44(3) of SEBI (LODR) Regulations, 2015) <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1345322971171151878
+BSE Corporate News,@BSE_News,2021-01-02T10:56:04.000Z,"NEOINFRA - Appointment of Company Secretary and Compliance Officer <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1345322964758134785
+Kurtis Hanna,@CaptainKurtis,2021-01-02T08:36:12.000Z,"Replying to 
+@CaptainKurtis
+ @Cloudflare
+ and 2 others","Hi, happy new year. Say, any updates on this? I still can't login via GNU+Linux Tor Browser. Since I don't have this issue on any other webpages, I assume this is a bug on gitlab's side of things, but i'll gladly start a ticket with 
+@torproject
+ if you deem it is their issue.",,1,,,[],https://twitter.com/CaptainKurtis/status/1345287766641434624
+BugBountyTips.tech,@_Bugbountytips_,2021-01-03T18:28:35.000Z," New CloudFlare WAF XSS Bypass! 
+#XSS #BugBounty #BugBountyTips #CyberSecurity https://pic.twitter.com/9x37ZWldis
+
+The post New CloudFlare WAF XSS Bypass!
+
+… appeared first on Bug Bounty Tips.
+
+January 03, 2021 at 06:39PM #bugbountytips #bougbountytip 
+
+The po…",,🚨 🚨,,4,2,[],https://twitter.com/_Bugbountytips_/status/1345799232977035264
+BugBountyTips.tech,@_Bugbountytips_,2021-01-03T18:28:33.000Z," New CloudFlare XSS Bypass! 
+#XSS #BugBounty #BugBountyTips 
+
+The post New CloudFlare XSS Bypass!
+
+#XSS… appeared first on Bug Bounty Tips.
+
+January 03, 2021 at 06:48PM #bugbountytips #bougbountytip 
+
+The post New CloudFlare…",,🚨 🚨,,,,"['https://pbs.twimg.com/media/Eq09Q3PWMAEervD?format=png&name=360x360', 'https://pbs.twimg.com/media/Eqz07rvVgAIHIIM?format=png&name=360x360']",https://twitter.com/_Bugbountytips_/status/1345799224621981697
+вкαя∂εℓℓ,@briankardell,2021-01-03T18:24:12.000Z,"I wish cloudflare workers had some built in error log concept, but I guess not? Seems you need a second service for that and to manage it?",,,1,,1,[],https://twitter.com/briankardell/status/1345798128155447298
+BugBountyTips.tech,@_Bugbountytips_,2021-01-03T15:28:39.000Z," New CloudFlare XSS Bypass! 
+#XSS #BugBounty #BugBountyTips 
+
+The post New CloudFlare XSS Bypass! 
+
+#XSS… appeared first on Bug Bounty Tips.
+
+January 03, 2021 at 06:48PM #bugbountytips #bougbountytip",,🚨 🚨,,,1,['https://pbs.twimg.com/media/Eqz07rvVgAIHIIM?format=png&name=360x360'],https://twitter.com/_Bugbountytips_/status/1345753952894201856
+BugBountyTips.tech,@_Bugbountytips_,2021-01-03T15:28:36.000Z," New CloudFlare WAF XSS Bypass! 
+#XSS #BugBounty #BugBountyTips #CyberSecurity https://pic.twitter.com/9x37ZWldis
+
+The post New CloudFlare WAF XSS Bypass! 
+
+… appeared first on Bug Bounty Tips.
+
+January 03, 2021 at 06:39PM #bugbountytips #bougbountytip",,🚨 🚨,,1,1,[],https://twitter.com/_Bugbountytips_/status/1345753939808047105
+Mae Antonio,@Melanie_Antonio,2021-01-03T06:59:05.000Z,"@MixcloudSupport
+ I am getting this error when I go to the site:
+
+Bad gateway
+The web server reported a bad gateway error.
+•Ray ID: 60bad4929a0d5f85
+•Your IP address: 2600:8801:2f80:12ff:9154:5d96:49e3:d650
+•Error reference number: 502
+•Cloudflare Location: Las Vegas",,,1,,,[],https://twitter.com/Melanie_Antonio/status/1345625713773142018
+Yukari PSO2 ™,@YukariPso2,2021-01-04T23:56:56.000Z,"Replying to 
+@DealVibes","Error 522
+Ray ID: 60c8e4646fed035b •
+2021-01-04 23:56:15 UTC
+Connection timed out
+You
+Browser Working
+Chicago
+Cloudflare Working
+http://zotacstore.com
+Host Error",,,,1,[],https://twitter.com/YukariPso2/status/1346244253303918592
+Evageeks.org,@EvaGeeks,2021-01-04T17:25:39.000Z,"Replying to 
+@highTrolla",Sorry I didn't see this tweet. Are you still having trouble getting to the site? Is there a cloudflare error?,,,,,[],https://twitter.com/EvaGeeks/status/1346145784207650816
+iWebz®,@iWebzConnect,2021-01-04T15:54:01.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1346122721034457097
+Carlos Mendible,@cmendibl3,2021-01-04T15:48:05.000Z,"Hey 
+@Whizlabs
+ I'm getting a 504 error (Gateway time-out) reported by 
+@Cloudflare
+ while trying to access some practice tests... Can you check your side?",GIF,,2,,,['https://pbs.twimg.com/tweet_video_thumb/Eq5iHmVW4AA5RMy.jpg'],https://twitter.com/cmendibl3/status/1346121229124722688
+BugBountyTips.tech,@_Bugbountytips_,2021-01-04T15:28:35.000Z,"RT 
+@SriTharun3
+: RT 
+@JacksonHHax
+: 
+ New CloudFlare XSS Bypass! 
+#XSS #BugBounty #BugBountyTips 
+
+The post New CloudFlare XSS Bypass! appeared first on Bug Bounty Tips.
+
+January 04, 2021 at 02:32PM #bugbountytips #bougbountytip … …",,🚨 🚨,,,4,"['https://pbs.twimg.com/media/Eq5dqS5XMAAiGih?format=png&name=360x360', 'https://pbs.twimg.com/media/Eqz07rvVgAIHIIM?format=png&name=360x360']",https://twitter.com/_Bugbountytips_/status/1346116320883056641
+BSE Corporate News,@BSE_News,2021-01-04T12:38:08.000Z,"WINSOMBR - Board Meeting Intimation for INTIMATION OF BOARD MEETING <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1346073427342315523
+BugBountyTips.tech,@_Bugbountytips_,2021-01-04T10:28:44.000Z,"RT 
+@SriTharun3
+: RT 
+@JacksonHHax
+: 
+ New CloudFlare XSS Bypass! 
+#XSS #BugBounty #BugBountyTips 
+
+The post New CloudFlare XSS Bypass! appeared first on Bug Bounty Tips.
+
+January 04, 2021 at 02:32PM #bugbountytips #bougbountytip",,🚨 🚨,,,,['https://pbs.twimg.com/media/Eqz07rvVgAIHIIM?format=png&name=360x360'],https://twitter.com/_Bugbountytips_/status/1346040864192270338
+BSE Corporate News,@BSE_News,2021-01-04T09:33:06.000Z,"SUNDRMFAST - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1346026863269797888
+BSE Corporate News,@BSE_News,2021-01-04T06:55:03.000Z,"HEMIPROP - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1345987088395640832
+BSE Corporate News,@BSE_News,2021-01-04T04:21:04.000Z,"CDG - Disclosure of Voting results of AGM (Regulation 44(3) of SEBI (LODR) Regulations, 2015) <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1345948337761992710
+BSE Corporate News,@BSE_News,2021-01-04T04:21:03.000Z,"LT - Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1345948332779180033
+Jeremy Tice,@jetpacmonkey,2021-01-05T19:28:24.000Z,"@SatisfactoryCN
+ Quick heads up, I'm getting a Cloudflare error when I try to load anything from your site",,,1,,1,[],https://twitter.com/jetpacmonkey/status/1346539062631538694
+BSE Corporate News,@BSE_News,2021-01-05T07:18:04.000Z,"RAWEDGE - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1346355266950860800
+BSE Corporate News,@BSE_News,2021-01-05T07:07:04.000Z,"BETXIND - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1346352498320105472
+BSE Corporate News,@BSE_News,2021-01-05T05:11:03.000Z,"COMPUAGE - Shareholding for the Period Ended December 31, 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1346323303372189696
+Sac-a:lait,@SAC_A_LAIT,2021-01-05T00:03:37.000Z,"Replying to 
+@X22Report","Gateway time-out
+The web server reported a gateway time-out error.
+
+Ray ID: 60c8eecf9d3b2707
+Your IP address: 107.182.233.12
+Error reference number: 504
+Cloudflare Location: Denver",,,,,[],https://twitter.com/SAC_A_LAIT/status/1346245933256720385
+"Doug
+(49%)",@DougThatOneDude,2021-01-06T23:23:18.000Z,"pan>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://cloudflare.com/5xx-error-landing…"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+    </div>
+</div>
+</body>
+</html>","5xx Error | Cloudflare
+Cloudflare is a free global CDN and DNS provider that can speed up and protect any site online
+cloudflare.com",🔜 ⚰,1,,,[],https://twitter.com/DougThatOneDude/status/1346960563348283393
+"Doug
+(49%)",@DougThatOneDude,2021-01-06T23:23:16.000Z,"ck mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">Cloudflare</h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid",,🔜 ⚰,1,,,[],https://twitter.com/DougThatOneDude/status/1346960555655847936
+Glenn Ferrell,@glenn_ferrell,2021-01-06T20:00:13.000Z,"@Moz
+  I've been getting this for 3 days when I try to get into my accounts & billing -- what is going on?   
+
+Bad gateway
+The web server reported a bad gateway error.
+Error reference number: 502
+Cloudflare Location: Chicago",,,2,,,[],https://twitter.com/glenn_ferrell/status/1346909455724797952
+iWebz®,@iWebzConnect,2021-01-06T14:26:07.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1346825376107003910
+BugBountyTips.tech,@_Bugbountytips_,2021-01-06T12:28:42.000Z,"RT 
+@7lollkk9p
+: RT 
+@wugeej
+: New CloudFlare XSS Bypass!
+
+<svg onload=alert%26%230000000040″1″)>
+
+#XSS #BugBounty #BugBountyTips 
+@JacksonHHax
+ https://twitter.com/bohdansec/status/1135699501707091968… 
+
+The post New CloudFlare XSS Bypass!
+
+<svg onload=alert%26%…
+
+appeared first on Bug Bo…","Quote Tweet
+Bohdan Korzhynskyi
+@bohdansec
+ · Jun 3, 2019
+Cloudflare XSS Bypass via add 8 or more superfluous leading zeros for dec and 7 or more for hex.
+
+Dec: <svg onload=prompt%26%230000000040document.domain)>
+Hex: <svg onload=prompt%26%23x000000028;document.domain)>",,,7,8,"['https://pbs.twimg.com/media/ErDHqyeXcAAaPcu?format=png&name=360x360', 'https://pbs.twimg.com/media/Eq8dz5CUUAAPisC?format=png&name=360x360', 'https://pbs.twimg.com/profile_images/1338090491943002119/Y1UEjhH3_mini.jpg']",https://twitter.com/_Bugbountytips_/status/1346795827629600770
+BugBountyTips.tech,@_Bugbountytips_,2021-01-06T10:28:42.000Z,"RT 
+@7lollkk9p
+: RT 
+@wugeej
+: New CloudFlare XSS Bypass!
+
+<svg onload=alert%26%230000000040″1″)>
+
+#XSS #BugBounty #BugBountyTips 
+@JacksonHHax
+ https://twitter.com/bohdansec/status/1135699501707091968… 
+
+The post New CloudFlare XSS Bypass!
+
+<svg onload=alert%26%…
+
+ appeared first on Bug Bount…","Quote Tweet
+Bohdan Korzhynskyi
+@bohdansec
+ · Jun 3, 2019
+Cloudflare XSS Bypass via add 8 or more superfluous leading zeros for dec and 7 or more for hex.
+
+Dec: <svg onload=prompt%26%230000000040document.domain)>
+Hex: <svg onload=prompt%26%23x000000028;document.domain)>",,,,1,"['https://pbs.twimg.com/media/Eq8dz5CUUAAPisC?format=png&name=360x360', 'https://pbs.twimg.com/profile_images/1338090491943002119/Y1UEjhH3_mini.jpg']",https://twitter.com/_Bugbountytips_/status/1346765631098675200
+"Tom Stine - Learning to Code, Wearing a Mask",@TomStine_io,2021-01-06T05:19:06.000Z,"@DOStatus
+ Not able to login to http://cloud.digitalocean.com (I get Error 522 CloudFlare page), can't ssh to server in NYC. ssh to server in SFO is OK.",,,,,,[],https://twitter.com/TomStine_io/status/1346687714813423619
+allene norton,@allene_norton,2021-01-06T04:58:01.000Z,"@DOStatus
+ I am not seeing any errors on the status page but I cannot access http://digitalocean.com from either my desktop browser or my phone(wi-fi off, so a separate cellular data connection). I am getting a 522 error saying my browser and cloudflare are working but not DO host","DigitalOcean – The developer cloud
+Helping millions of developers easily build, test, manage, and scale applications of any size – faster than ever before.
+digitalocean.com",,1,,2,['https://pbs.twimg.com/card_img/1364587929427968000/int0YPQ7?format=jpg&name=360x360'],https://twitter.com/allene_norton/status/1346682412143673345
+Keddy & Associates,@keddyassociates,2021-01-07T20:30:02.000Z,"""Today a configuration error in our backbone network caused an outage for Internet properties and Cloudflare services that lasted 27 minutes.""","Cloudflare outage on July 17, 2020
+Today a configuration error in our backbone network caused an outage for Internet properties and Cloudflare services that lasted 27 minutes. We saw traffic drop by about 50% across our network.
+blog.cloudflare.com",,,,,['https://pbs.twimg.com/card_img/1365483789418381312/hYNie0FX?format=jpg&name=small'],https://twitter.com/keddyassociates/status/1347279347460304897
+Joe Potentier,@JoePotentier,2021-01-07T18:39:31.000Z,"Replying to 
+@CoinTracker","It's back, I was getting the Cloudflare error screen for ~5 mins at the time of my tweet.",,1,,,[],https://twitter.com/JoePotentier/status/1347251536305430528
+"Mhkgers
+三張野",@HkgersM,2021-01-07T13:21:05.000Z,"Replying to 
+@HongKongEcho","Could it check for ISP or virtual network provider(Cloudflare) ? 
+It cannot find a DNS record with ""http://hkchronicles.com"" 
+And change to VPN server with same issue still
+It could check with code ""Error 502, Bad gateway"" maybe server problem",😷 😷 😷,,,4,[],https://twitter.com/HkgersM/status/1347171398834294787
+BSE Corporate News,@BSE_News,2021-01-07T08:53:04.000Z,"GUJRAFIA - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347103950525272068
+BSE Corporate News,@BSE_News,2021-01-07T08:52:04.000Z,"STAMPEDE - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347103698925670400
+BSE Corporate News,@BSE_News,2021-01-07T08:51:06.000Z,"DEN - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347103454406217728
+BSE Corporate News,@BSE_News,2021-01-07T08:50:06.000Z,"LTI - Announcement under Regulation 30 (LODR)-Newspaper Publication <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347103205218426887
+BSE Corporate News,@BSE_News,2021-01-07T08:50:05.000Z,"EMERALD - Reply To The Clarification Sought On Price Movement Of The Shares Of The Company. <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347103199396646912
+BSE Corporate News,@BSE_News,2021-01-07T08:50:03.000Z,"APLAB - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347103193646260224
+BSE Corporate News,@BSE_News,2021-01-07T07:46:06.000Z,"ZPRBHSTE - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347087096087859203
+"Wesley Howe, proud Neanderthal",@WesHowe_TX,2021-01-08T20:17:37.000Z,"Replying to 
+@CitizenFreePres","I got an ""Error 520"". ""There is an issue between Cloudflare's cache and your origin web server.""",,,,1,[],https://twitter.com/WesHowe_TX/status/1347638611697610756
+Saša Šijak,@ssijak,2021-01-08T19:23:53.000Z,"@Cloudflare
+ Hey you have a bug in your menu","cloudflare bug
+Shared with CloudApp
+share.getcloudapp.com",,,,,[],https://twitter.com/ssijak/status/1347625086828818441
+William Durkin,@sql_williamd,2021-01-08T15:56:08.000Z,"Replying to 
+@BuckWoodyMSFT","the error message is from Cloudflare, so I guess it is on my end",,1,,1,[],https://twitter.com/sql_williamd/status/1347572805290913792
+iWebz®,@iWebzConnect,2021-01-08T14:05:34.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1347544982987689985
+BSE Corporate News,@BSE_News,2021-01-08T08:36:04.000Z,"PERMAGN - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347462060087496705
+BSE Corporate News,@BSE_News,2021-01-08T07:42:24.000Z,"ZLEENCON - Shareholding for the Period Ended December 31, 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347448556731318272
+BSE Corporate News,@BSE_News,2021-01-08T06:58:05.000Z,"HARME - Shareholding for the Period Ended December 31, 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1347437403133235200
+Dhimant Parekh,@dhimant,2021-01-08T06:55:13.000Z,"@zebpaysupport
+ Unable to open the Deposit page since morning. Page times out showing a Cloudflare error page.",,,1,,,[],https://twitter.com/dhimant/status/1347436681952075784
+Will,@SirWill,2021-01-09T18:05:33.000Z,"Replying to 
+@William_Holroyd","No, I don't think they do own all their own infrastructure / hardware.   An error ""Cloudflare message: A timeout occurred The origin web server timed out responding to this request.""  Tells me they use Cloudflare.",©,1,,1,[],https://twitter.com/SirWill/status/1347967764674142209
+Juhani Polkko,@juhani,2021-01-09T09:27:31.000Z,"@Cloudflare
+ Hi! Yesterday I tried to send an abuse report about a malicious website using the Cloudlflare service. However, this form doesn’t seem to work and also an email I sent to the provided address in the error message bounced.
+
+Can you help?","Cloudflare Abuse Form | Cloudflare
+Where to file DMCA, trademark, phishing and malware complaints with Cloudflare
+cloudflare.com",,,,,['https://pbs.twimg.com/card_img/1366802597793955843/0Rkz4n5H?format=jpg&name=small'],https://twitter.com/juhani/status/1347837395429949441
+TakajoSan,@radioman011,2021-01-09T03:25:15.000Z,"続き
+
+Cloudflare message:
+Web server is returning an unknown error
+There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.",,,,,,[],https://twitter.com/radioman011/status/1347746230814691328
+MΛVΣ,@guess_waht,2021-01-10T18:53:47.000Z,"Replying to 
+@NaijaTechBro
+ @prettycachy
+ and 6 others","Reminds me of when Cloudflare had a bug that was spilling unencrypted hashes of ppl's login details all over the interweb. That was 2017 or so
+Cloudflare that was supposed to be protecting websites ooo",🗿,2,,,[],https://twitter.com/guess_waht/status/1348342288104247297
+emancipatorvibe,@emancipatorvibe,2021-01-10T16:01:09.000Z,"Replying to 
+@Canadia04153860",Link is not working cloudflare error,,1,,,[],https://twitter.com/emancipatorvibe/status/1348298844375818246
+Elizabeth Hudson,@msjrwidow,2021-01-10T14:37:58.000Z,"http://Gab.com is under maintenance
+
+Sorry for the inconvenience but we’re performing some maintenance at the moment. We’ll be back online shortly!
+
+— The Team
+
+Cloudflare message:
+Bad gateway
+The web server reported a bad gateway error.",,,,,,[],https://twitter.com/msjrwidow/status/1348277909694406657
+Anon_Side,@Anon_Side,2021-01-10T14:24:44.000Z,"Replying to 
+@Cloudflare
+ and 
+@discord",Your admins banned me from your discord for asking for help with an error code on http://gab.com.  want to comment on your material assistance to right wing terrorists,,,,1,[],https://twitter.com/Anon_Side/status/1348274582373986307
+KWDreaming,@RightOne40,2021-01-10T14:17:51.000Z,"Replying to 
+@catturd2","Cloudflare message:
+Bad gateway
+The web server reported a bad gateway error.",🌴 🍹 ☮ 💟,2,,,[],https://twitter.com/RightOne40/status/1348272847127511045
+Erling Hellenäs,@erlhel,2021-01-10T12:17:59.000Z,"I can't use #Gab.
+
+Cloudflare message:
+A timeout occurred
+
+The origin web server timed out responding to this request.
+
+    Ray ID: 60f618e27eb80d2e
+    Your IP address: x.x.x.x
+    Error reference number: 524
+    Cloudflare Location: Stockholm",,,1,,1,[],https://twitter.com/erlhel/status/1348242684780163072
+Valentine,@HartUvTheMatter,2021-01-10T07:04:49.000Z,"Hello GAB. 
+
+You need to drop CLOUDFLARE. They can shut ANYONE out at will. They have your IP, so obviously they make it look to you like all is well, all the while there is serious attrition. It took me 2 days to get the sign up page instead of error messages from Cloudflare.",,,,,,[],https://twitter.com/HartUvTheMatter/status/1348163870834233349
+Valentine,@HartUvTheMatter,2021-01-10T05:56:38.000Z,"Replying to 
+@THEREALTRDJ","They need to drop CLOUDFLARE. CF can shut ANYONE out at will. They have GAB's IP, so obviously they can make it look like all is well, all the while there is serious attrition. It took me 2 days to get the sign up page instead of error messages from Cloudflare.",,1,1,1,[],https://twitter.com/HartUvTheMatter/status/1348146715153596416
+"""I'm not a doctor either""",@1conservative,2021-01-10T03:43:34.000Z,"????
+http://Gab.com is under maintenance
+
+Sorry for the inconvenience but we’re performing some maintenance at the moment. We’ll be back online shortly!
+
+— The Team
+
+Cloudflare message:
+Bad gateway
+The web server reported a bad gateway error.",,💙 👇 👇,,1,,[],https://twitter.com/1conservative/status/1348113224131080192
+Pandora Page Parler @followthewhiterabbit2020,Pandora Page Parler @followthewhiterabbit2020,2021-01-10T03:10:33.000Z,"GAB— The Team
+
+Cloudflare message:
+Web server is returning an unknown error
+There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.",,,,,,[],https://twitter.com/Maureen26607633/status/1348104918754865153
+Bob The Mechanic,@BobMechanic,2021-01-11T23:59:24.000Z,"@getongab
+ Why is the site down?  Error 1016 Ray ID: 61029631ced62703 • 2021-01-11 23:58:35 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your",,,,,,[],https://twitter.com/BobMechanic/status/1348781586775482368
+"Scott Staffiery, Northern Desert Manatee",@ScottStaffiery,2021-01-11T23:58:50.000Z,"@getongab
+ I’m getting Error 1016 Origin DNS error from Cloudflare out west. And just when things started working nicely too!",,,,,,[],https://twitter.com/ScottStaffiery/status/1348781444454252544
+BlackRedPill,@iamlaterrius,2021-01-11T23:57:07.000Z,"When this happens, the browser will show a 1016 error, but the actual HTTP response code you’ll see is “Error 530: Origin DNS Error”. #Cloudflare #Gab",,,,,,[],https://twitter.com/iamlaterrius/status/1348781011933540355
+BlackRedPill,@iamlaterrius,2021-01-11T23:57:06.000Z,“Error 530: Origin DNS Error”. Background Error 1016 / Error 530 indicates Cloudflare is unable to send requests to your server because its origin IP cannot resolve the A or CNAME DNS record requested. #Cloudflare #Gab,,,1,,,[],https://twitter.com/iamlaterrius/status/1348781009702150144
+:BEN:,@_be_el_tee_,2021-01-11T23:56:19.000Z,"@getongab
+ getting cloudflare error 1016 / origin dns error? misconfiguration?",,🤔 🧠 ⚛ 🌐,,,1,[],https://twitter.com/_be_el_tee_/status/1348780813886881792
+Neon Nettle,@NeonNettle,2021-01-11T23:52:35.000Z,"JUST IN: Fears 
+@Cloudflare
+ has pulled the plug on free speech platform Gab - DNS ERROR",,,2,6,6,['https://pbs.twimg.com/media/ErfUJNdXEAE4qfQ?format=jpg&name=small'],https://twitter.com/NeonNettle/status/1348779871871361026
+Vivre-ses-reves,@Ses_reves_Geo,2021-01-11T23:52:19.000Z,"Replying to 
+@MommyTat2d
+ @disclosetv
+ and 2 others","I suppose, because i want to go on gab and its write on windows : ''error 1016''",,,,,[],https://twitter.com/Ses_reves_Geo/status/1348779806754828289
+Majid,@sIick,2021-01-11T23:51:51.000Z,"Replying to 
+@NordicCalisto
+ @disclosetv
+ and 2 others",Typical error when servers are overloaded.,,,,1,[],https://twitter.com/sIick/status/1348779686860644354
+Alex,@Alex71325634,2021-01-11T23:51:20.000Z,"@getongab
+ I can't get gab on site. It shows a CloudFlare network error. How can I get?",,,,,,[],https://twitter.com/Alex71325634/status/1348779557843820545
+Aaron Winterberg,@Viking7070,2021-01-11T23:51:18.000Z,"Replying to 
+@MarkDice","Error 1016 Ray ID: 61028a5098bd5ee1 • 2021-01-11 23:50:29 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested",,,,,[],https://twitter.com/Viking7070/status/1348779549899816961
+valc817,@sh4p4sh,2021-01-11T23:50:27.000Z,"From my limited understanding:
+DNS error = they messed up their DNS settings (super unlikely) OR cloudflare blocked them.","Quote Tweet
+valc817
+@sh4p4sh
+ · Jan 11
+Did Gab just go down / get blocked?
+Show this thread",☀ ☀,1,1,1,"['https://pbs.twimg.com/profile_images/1246097146228555779/KbgEvBht_mini.jpg', 'https://pbs.twimg.com/media/ErfQ95CVQAIhZkV?format=png&name=small']",https://twitter.com/sh4p4sh/status/1348779337013620738
+Kane,@GKane_,2021-01-11T23:50:19.000Z,"Replying to 
+@hsthings0
+ @disclosetv
+ and 2 others","also if cloudflare pulled the plug you wouldn't get a cloudflare error because, you know, they pulled the plug lol",,,2,4,[],https://twitter.com/GKane_/status/1348779304080068609
+MacGuffin,@UnwokeMacguffin,2021-01-11T23:49:19.000Z,"Replying to 
+@blazytrailz
+ @disclosetv
+ and 2 others",not with a DNS error ,⚔ 🌴 😩,,,,[],https://twitter.com/UnwokeMacguffin/status/1348779052929347593
+比登董事长,@Im_Sev_,2021-01-11T23:48:50.000Z,"@getongab
+ yo did 
+@Cloudflare
+  decide to join the communist party? 
+
+Everyone everywhere is reporting DNS error",,,1,,,[],https://twitter.com/Im_Sev_/status/1348778930711519232
+sanatandesh,@hindu_sklfiji,2021-01-11T23:48:43.000Z,"Replying to 
+@disclosetv
+ @Cloudflare
+ and 
+@getongab",Yup. Think so. I tried to sign up and getting message of error,,,,,[],https://twitter.com/hindu_sklfiji/status/1348778898717249539
+danskoya,@danskoya_desu,2021-01-11T23:46:40.000Z,"Error 1016 - Origin DNS error
+
+What happened?
+
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).",,,,,1,[],https://twitter.com/danskoya_desu/status/1348778385363914753
+"BIBLE MAN
+Daniel Farey Eschatology Expert",@acceptjesusnow,2021-01-11T23:46:00.000Z,"I just tried to get on http://gab.com and cloudflare error 1016 DNS error. The site is down.
+
+Are they being attacked? Or too many Conservatives trying to create new accounts?",,✝,1,,1,[],https://twitter.com/acceptjesusnow/status/1348778217981628418
+Jac,@Jac1066,2021-01-11T23:44:52.000Z,"ok been trying to log into gab - now getting Error 1016 Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).",,,,,,[],https://twitter.com/Jac1066/status/1348777932152590341
+xGMOMx,@XxGmo,2021-01-11T23:44:48.000Z,Can anyone else get on gab? I keep getting error msg about cloudflare,,,1,,,[],https://twitter.com/XxGmo/status/1348777913135624192
+Gentleman Jon,@GentlemanJonD,2021-01-11T23:42:03.000Z,"Replying to 
+@MikeyGee2020","Is 
+@getongab
+ down? I'm getting a Cloudflare error instead of the time out I usually get.",,1,,,[],https://twitter.com/GentlemanJonD/status/1348777223956930560
+Harry Douglas,@theswampghost,2021-01-11T23:40:41.000Z,"This error pops up when trying to access 
+@getongab
+. Is this because of maintenance due to high traffic? Or did #Cloudflare give them the boot? #Gab",,,2,,2,['https://pbs.twimg.com/media/ErfRa5xXEAAcaMo?format=jpg&name=900x900'],https://twitter.com/theswampghost/status/1348776877725536258
+α Canis Majoris,@edilson1492,2021-01-11T23:39:56.000Z,"Replying to 
+@Based_Brazilian
+ and 
+@getongab","@getongab
+ 
+ Error 1016 
+What happened?
+
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).",,3,,4,[],https://twitter.com/edilson1492/status/1348776691053821952
+Flawesome Tracy *American Girl*,@FlawesomeTracy,2021-01-11T23:39:42.000Z,"Error 1016 Ray ID: 610276c85e9cec8e • 2021-01-11 23:37:09 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain",,,1,3,2,[],https://twitter.com/FlawesomeTracy/status/1348776631746387975
+Grammar Socialist,@GramarSocialist,2021-01-11T23:37:57.000Z,"Replying to 
+@SAMOYEDCORE",lucky you I just get a cloudflare error 1016 now :(,,,,,[],https://twitter.com/GramarSocialist/status/1348776190522261504
+SeaHusky,@MNF_Miracle,2021-01-11T21:49:01.000Z,"Cloudflare makes 
+@dbongino
+ website & podcasts unavailable 
+Error 504",,⭐,,,,['https://pbs.twimg.com/media/Ere3zLlUUAEN5Cw?format=jpg&name=900x900'],https://twitter.com/MNF_Miracle/status/1348748776739983362
+aka James Bond,@FeelitWorking,2021-01-11T21:06:30.000Z,"@comparethemkt
+ Why are you using 
+@Cloudflare
+ to block users that use a VPN? You're losing a lot of businesses and traffic if you think how many will go elsewhere. I'm interested to know if this is an error on your part or just bad advice?",,,1,,,[],https://twitter.com/FeelitWorking/status/1348738076298911746
+Benjamin Young Savage (ᐱᓐᒋᐱᓐ),@benjancewicz,2021-01-11T17:48:03.000Z,"But wait.
+There’s more.
+
+Because Gab uses 
+@Cloudflare
+ (which, ew), Cloudflare releases YOUR PERSONAL IP ADDRESS on the error screen.
+
+So; fascists complaining that Gab isn’t working are screenshotting their own IPs and putting them on the internet. ",,😂 🤣 😂 🤣 😂 🤣 😂,4,5,19,['https://pbs.twimg.com/media/EreAtgdXEAAK0rh?format=jpg&name=small'],https://twitter.com/benjancewicz/status/1348688137158066184
+Oleg Gryb,@oleggryb,2021-01-11T15:13:45.000Z,"@getongab
+ 
+A timeout occurred
+The origin web server timed out responding to this request.
+
+Ray ID: 60ff685c3d1fed63
+Your IP address: x.x.x.x
+Error reference number: 524
+Cloudflare Location: San Jose",,,,,,[],https://twitter.com/oleggryb/status/1348649302785093634
+Luke,@Rizztard,2021-01-11T14:51:49.000Z,"@AniwatchME
+ When I try to get on the website I'm getting cloudflare error 1020, is there any way to fix?",,,,,,[],https://twitter.com/Rizztard/status/1348643782921752577
+chickadee,@Barbara34920397,2021-01-11T10:38:51.000Z,"Replying to 
+@Barbara34920397
+ and 
+@disciple96","to this request.
+
+Ray ID: 60fdfbb85d3aff90
+Your IP address: 2601:19d:403:1b10:71b1:aea2:59f0:a725
+Error reference number: 524
+Cloudflare Location: Boston",🐤 🐇 🌹 🕊 😺,,,,[],https://twitter.com/Barbara34920397/status/1348580122559979520
+Hoot Terminated,@0hootsgiven,2021-01-11T08:22:16.000Z,"@Lookner
+ Parler went from Cloudflare down to 403 error. I'm part of SLG (Steve Lookner Gang), say hey to mod SaraJoy for me!!",,,,,,[],https://twitter.com/0hootsgiven/status/1348545749273948160
+Pizza,@PizzaMmm,2021-01-11T02:21:22.000Z,"Replying to 
+@PizzaMmm
+ and 
+@manhattan_liz","http://Gab.com is under maintenance
+
+Sorry for the inconvenience but we’re performing some maintenance at the moment. We’ll be back online shortly!
+
+— The Team
+
+Cloudflare message:
+Gateway time-out
+The web server reported a gateway time-out error.",😂 😂 😂,1,2,2,[],https://twitter.com/PizzaMmm/status/1348454927891374082
+Maciej_Mk2,@MaciejMk2,2021-01-11T00:57:38.000Z,"Replying to 
+@dusza_aga
+ and 
+@AnnaKoszewska","Nie!
+Web server is returning an unknown error
+There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.
+    Ray ID: 
+    Your IP address: 
+    Error reference number: 520
+    Cloudflare Location: Warsaw",,,,,[],https://twitter.com/MaciejMk2/status/1348433853543800833
+Yeri710 †ÈMþLÄR¥ RÈ§ÇÚÈÐ,@yeri710,2021-01-12T22:40:16.000Z,"@getongab
+ OffLine???
+Error reference number: 522
+Cloudflare Location: Miam",,,,,,[],https://twitter.com/yeri710/status/1349124062661005314
+Phil Denton - Pray for America,@phil_denton,2021-01-12T20:59:20.000Z,"I'm guessing the 
+@getongab
+ webservers are getting absolutely HAMMERED right now.  This is the second time in as many days that I've tried to sign up and check it out but I got an error from CloudFlare instead.",,,2,,2,[],https://twitter.com/phil_denton/status/1349098659917537296
+Ced RCR,@cedrcr4,2021-01-12T19:03:30.000Z,"@OfferUpSupport
+ I keep receiving emails about unusual activity on my account, but I am in Europe, I cannot log in on your website neither contact you via email, I always get the same Cloudflare error whatever the device I use, can you help",,,1,,,['https://pbs.twimg.com/media/ErjbkRbXYAEk22B?format=jpg&name=900x900'],https://twitter.com/cedrcr4/status/1349069508724617216
+Saber pensar,@Briale5,2021-01-12T16:58:36.000Z,"Replying to 
+@Vicki239
+ @Simohay73029507
+ and 2 others","Algun otro consejo. Me ha sido imposible, me da este mensaje siempre A timeout occurred The origin web server timed out responding to this request.
+
+Ray ID: 610864178XXXXXX
+Your IP address: XXXXXXXX
+Error reference number: 524
+Cloudflare Location: Miami",,1,,,[],https://twitter.com/Briale5/status/1349038077294075904
+eddie coke,@eddiecoke,2021-01-12T16:04:20.000Z,"Replying to 
+@NewTube_App
+ @geckozoo
+ and 
+@Tony__Heller","Yeah, all I get is the Cloudflare anti-DDoS thing, then asked to retry for a live version, then a 502 Error (via your link above).
+
+I'll try direct, now.",,1,,1,[],https://twitter.com/eddiecoke/status/1349024423853121538
+Raghav Gupta,@realRaghavGupta,2021-01-12T15:55:19.000Z,"@Cloudflare
+ The Google Analytics App on Cloudflare Apps doesn't work, and since has been previously activated, opening the Installed Apps tab is also not possible. The error has been there for quite some time, and I am unable to find a solution for the same.",,,1,,,[],https://twitter.com/realRaghavGupta/status/1349022152943669249
+Lock Your Doors Tonight,@swaggymeatballs,2021-01-12T15:39:03.000Z,pretty sure my discord bot is spamming so many pictures of sleeping Albanian man that cloudflare fuggin flagged by ass. (ip in error log is from vpn so don't try no bullshit),,,,,2,"['https://pbs.twimg.com/media/ErirrKDW4AIlzFB?format=png&name=small', 'https://pbs.twimg.com/media/Eriryv1XEAAlEHt?format=jpg&name=small']",https://twitter.com/swaggymeatballs/status/1349018058904526859
+"Sally
+Wingles",@SallyWingles,2021-01-12T14:30:11.000Z,"@getongab
+ I cannot log in. I get the ""http://Gab.com is under maintenance"" and ""Cloudflare message: 
+A timeout occurred The origin web server timed out responding to this request.
+Ray ID: -
+Your IP: -
+Error ref number: 524
+Cloudflare Location: Newark",,🗣,,,,[],https://twitter.com/SallyWingles/status/1349000727499309059
+puma,@PrimeTimePuma,2021-01-12T03:15:40.000Z,"Replying to 
+@ems8997",Yep cloudflare error message someone said it might be google blocking because they switched browser to dukdukdo and got in...also can i get a follow back ,😂,,,,[],https://twitter.com/PrimeTimePuma/status/1348830982036619275
+Sunny,@sh4shd,2021-01-12T02:08:45.000Z,"Replying to 
+@SAMOYEDCORE","Oh, interesting bug! Since multiple users in this thread got the same account, my guess is that they turned on some kind of aggressive caching (in Cloudflare?) and then literally anyone visiting the site would share sessions w/ the first few users visiting the site. LMAO",☕,1,,4,[],https://twitter.com/sh4shd/status/1348814139116843010
+Mark Trent,@trentster,2021-01-12T01:05:46.000Z,"Replying to 
+@kr3at","It’s irrelevant who manages the DNS if the servers at the endpoint can not handle the traffic load.
+
+I tried to get into Gab earlier got a cloudflare error, then forced a browser refresh and got into the website.
+
+Like I said... just extremely slow atm.",,1,,,[],https://twitter.com/trentster/status/1348798290540720128
+Reverend Jason Coplen,@CoplenJason,2021-01-12T00:44:51.000Z,Is #Gab down? I'm getting a cloudflare error message,,,,,,[],https://twitter.com/CoplenJason/status/1348793028169900032
+joe,@whyJoe,2021-01-12T00:27:05.000Z,"Replying to 
+@edbott
+ and 
+@pi2fly","Hmm well, I dunno is cloudflare origin DNS error usually from too much DNS traffic? I mean, isn't the point of cloudflare to handle that DNS load, among other things?",,1,,,[],https://twitter.com/whyJoe/status/1348788555389263873
+pandamarch,@pandamarch,2021-01-12T00:27:03.000Z,http://gab.com is down by Origin DNS error now. Cloudflare has possibly blocked the DNS record by reddit guys attack. https://reddit.com/r/CloudFlare/comments/kuiolw/gabcom_is_on_cloudflare/gisqk65/…,,✝ 🗣 🗣 ✝,1,1,1,['https://pbs.twimg.com/media/ErfbQO4VgAALH3M?format=jpg&name=small'],https://twitter.com/pandamarch/status/1348788547340259328
+Gail Eiceman,@EicemanGail,2021-01-12T00:26:48.000Z,"I can't access Gab. DNS Cloudflare network servers are down in certain areas. Is the Deep State & their Demwits going after Cloudflare, too? Anybody else having problems getting logged onto Gab without getting a DNS error?",,,5,,3,[],https://twitter.com/EicemanGail/status/1348788481997336578
+Unsweetened Truth,@UnsweetenedTru1,2021-01-12T00:26:12.000Z,"Replying to 
+@intellihubnews","Gab is down.  Cloudflare = China company?
+
+Error 1016 Ray ID: 6102a3079dde3057 • 2021-01-12 00:07:21 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network.",,,,,[],https://twitter.com/UnsweetenedTru1/status/1348788334886268930
+Unsweetened Truth,@UnsweetenedTru1,2021-01-12T00:24:54.000Z,"Replying to 
+@RaheemKassam
+ and 
+@nytopinion","Gab is down.  Cloudflare = China company?
+
+Error 1016 Ray ID: 6102a3079dde3057 • 2021-01-12 00:07:21 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network.",,1,,1,[],https://twitter.com/UnsweetenedTru1/status/1348788003913822209
+✖︎ Uncle Leo,@z31r4m,2021-01-12T00:24:20.000Z,"Replying to 
+@gallifreyan
+ @getongab
+ and 2 others","They are. Maybe they went down? Thing is I’ve never seen the “DNS Origin Error” msg when a CF site goes down, there’s a path but “host down.” usually.",,1,,,[],https://twitter.com/z31r4m/status/1348787862448209923
+cri,@Pomp_c,2021-01-12T00:23:40.000Z,"Replying to 
+@vicevongola","Error 1016 Ray ID: 6102b9cd1f4705f9 • 2021-01-12 00:22:54 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain",,1,,,[],https://twitter.com/Pomp_c/status/1348787695435329542
+Unsweetened Truth,@UnsweetenedTru1,2021-01-12T00:22:19.000Z,"Replying to 
+@DisclosureTv_","Gab is down.  Cloudflare = China company?
+
+Error 1016 Ray ID: 6102a3079dde3057 • 2021-01-12 00:07:21 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network.",,,,1,[],https://twitter.com/UnsweetenedTru1/status/1348787354094473219
+Unsweetened Truth,@UnsweetenedTru1,2021-01-12T00:20:31.000Z,"Gab is down.  Cloudflare = China company?
+
+Error 1016 Ray ID: 6102a3079dde3057 • 2021-01-12 00:07:21 UTC
+Origin DNS error
+What happened?
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network.",,,,,1,[],https://twitter.com/UnsweetenedTru1/status/1348786903533936648
+kabal @1566,kabal @1566,2021-01-12T00:14:24.000Z,"Replying to 
+@AldersonBSV","Error 1016 indicates that Cloudflare cannot send a request to your server, because its original IP cannot be resolved via DNS.",,,,2,[],https://twitter.com/Kabawl/status/1348785362856890372
+NikolaMagnitsky,@NMagnitsky,2021-01-12T00:10:55.000Z,"Replying to 
+@Cloudflare",MEANWHILE: https://downdetector.com/status/cloudflare/… you can look at your downdetector SPIKES right now. No wonder many cloudflare site getting 503 error etc! RIGHT NOW!,,1,,,[],https://twitter.com/NMagnitsky/status/1348784485505052673
+𝚂𝚝𝚘𝚛𝚖,@EuphoriaStorm,2021-01-12T00:09:41.000Z,"Replying to 
+@disclosetv
+ @getongab
+ and 
+@Cloudflare",That cloudfare error came up for me today too... server out in Toronto Canada,,1,,3,[],https://twitter.com/EuphoriaStorm/status/1348784176892416001
+Katty,@KatKinsxxx,2021-01-12T00:09:18.000Z,"Replying to 
+@disclosetv
+ @getongab
+ and 
+@Cloudflare",No refreshes for the last 3 hours and then the error message - thought it was over,,,,,[],https://twitter.com/KatKinsxxx/status/1348784080754798594
+TheOutThereChannel,@TheOutThere2016,2021-01-12T00:08:50.000Z,"GAB is down for me in NZ.. Error 1016  Ray ID: 6102a0ee490deea6 • 2021-01-12 00:05:55 UTC
+Origin DNS error
+
+America has lost it way with not honoring free speech
+but I guess it take 12hrs for DNS ip to update?
+but its via cloudflare
+@getongab",,,,,1,[],https://twitter.com/TheOutThere2016/status/1348783963276419073
+God First...,@jhowarton,2021-01-12T00:07:48.000Z,Now GAB Social is no longer online. The message given is:  Error 1016...Origin DNS error...What happened?...You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain...,,,,,,[],https://twitter.com/jhowarton/status/1348783700704714752
+The Blonde One,@OtherBlondeOne,2021-01-12T00:07:43.000Z,"@getongab
+ Gab has just been taken down by Cloudflare network.
+
+RIP Gab. The right wing, white supremacist platform has gone.
+@CNNPolitics
+ @ProjectLincoln
+ @donwinslow
+ 
+
+#Gab #TrumpBanned #TrumpCoupAttempt 
+
+ Error 1016 Ray ID: 61029b99fe3d372f • 2021-01-12 00:02:17 UTC Origin",,,1,,,[],https://twitter.com/OtherBlondeOne/status/1348783683067588610
+Off-World Duck,@quackocracy,2021-01-12T00:07:31.000Z,did Gab just lose its DNS services? I see a Cloudflare error that says http://gab.com is unresolvable.,,,7,3,20,[],https://twitter.com/quackocracy/status/1348783630210854913
+Julie Aguiar,@juliempre,2021-01-12T00:06:52.000Z,"Replying to 
+@getongab",I am getting DNS error messages from Cloudflare. Before that I was being logged into someone else's account along with a bunch of other people. I cleared my browser cache and that started the DNS messages.,,,,,[],https://twitter.com/juliempre/status/1348783465479606274
+DD,@EsthertheDog570,2021-01-12T00:05:19.000Z,"Replying to 
+@NEWS_MAKER","1016 DNA error, looks like cloudflare is having issues 
+@getongab",,1,,,[],https://twitter.com/EsthertheDog570/status/1348783076961366016
+ArielMT'); DROP TABLE Nazis; --,@votearielmt,2021-01-12T00:03:40.000Z,"Within an hour of this tweet, Cloudflare stopped resolving their website name, giving ""Error 1016"" instead.","Quote Tweet
+Mister Gorbachev, Hit These Back Walls
+@SAMOYEDCORE
+ · Jan 11
+absolutely beyond belief: when i click “http://gab.com” on its twitter page it just logs me in to some random idiot’s account???",,1,,1,"['https://pbs.twimg.com/profile_images/1363658934205116420/YPdd9aez_mini.png', 'https://pbs.twimg.com/media/ErfD09oVEAEZAKC?format=jpg&name=small', 'https://pbs.twimg.com/media/ErfD09sUcAA1MYs?format=jpg&name=360x360', 'https://pbs.twimg.com/media/ErfD09uUcAA32s6?format=jpg&name=360x360']",https://twitter.com/votearielmt/status/1348782663243452421
+Alancode,@alancode,2021-01-12T00:02:01.000Z,"Replying to 
+@disclosetv
+ @getongab
+ and 
+@Cloudflare","lol. if they were doing fucking maintenance they'd be able to display a page that said ""maintenance"" or redirect, or something other than a fucking error page from CF. This was unexpected",,2,,1,[],https://twitter.com/alancode/status/1348782246438735878
+The Blonde One,@OtherBlondeOne,2021-01-12T00:01:30.000Z,"@getongab
+ lol .... Gab and their perfect servers
+
+ Error 1016 Ray ID: 6102987efde8372f • 2021-01-12 00:00:10 UTC
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain",,,,,,[],https://twitter.com/OtherBlondeOne/status/1348782115295535107
+With talent on loan from God,@45_7teen,2021-01-12T00:00:39.000Z,"Replying to 
+@GordoFabulous","It is back up now. sorry, It wasn't working at all earlier and it went to Cloudflare's error page saying there was nothing there.",,,,1,[],https://twitter.com/45_7teen/status/1348781905097977862
+Gareth Morris,@Gareth_E_Morris,2021-01-13T23:53:11.000Z,"Dear 
+@FlyAirNZ
+ I would really love to book some flights to Chch in April so I can run the Christchurch Marathon but keep getting a 403 error from Cloudflare. Any ideas folks? ",,🤔,1,,,[],https://twitter.com/Gareth_E_Morris/status/1349504798626779137
+Stock Traders Daily,@marketcycles,2021-01-13T21:01:10.000Z,"How to trade Invesco Global Listed Priv $PSP With Risk Controls <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,['https://pbs.twimg.com/media/ErpAFzLXAAQ76Go?format=png&name=small'],https://twitter.com/marketcycles/status/1349461509169156097
+NEW WORLD REALITY,@ANTINWOINTERNET,2021-01-13T19:05:02.000Z,"Error 525 Ray ID: 61115c30b8975f49 • 2021-01-13 19:00:26 UTC
+SSL handshake failed
+You
+Browser
+Working
+Las Vegas
+Cloudflare
+Working
+www.bitchute. com
+Host
+Error
+
+Ok, time to make My Bean dip and try to see My twit Timeline.",,,,,,[],https://twitter.com/ANTINWOINTERNET/status/1349432283560775680
+Trapped in WorldAsylum,@claudia_kady,2021-01-13T19:00:15.000Z,"@cloudflare
+ is blocking me to go on Bitchute and Gab. Error 525",,🙂,,,,['https://pbs.twimg.com/media/ErokamLXAAIFneh?format=jpg&name=small'],https://twitter.com/claudia_kady/status/1349431081938915328
+Anon Solo,@AnonSolo3,2021-01-13T18:49:19.000Z,"Replying to 
+@ck_sara","I did a tracert, 37ms from six (seattle) to gab. However, Cloudflare still shows a 524 error, which is HTTP timeout. Given that tracert responds immediately, this is likely still an HTTP overload.",,1,1,,[],https://twitter.com/AnonSolo3/status/1349428330689302528
+Kurtis Hanna,@CaptainKurtis,2021-01-13T18:37:47.000Z,"Replying to 
+@CaptainKurtis
+ @Cloudflare
+ and 4 others","Hi 
+@dnsmichi
+. Can we please continue our discussion about what seems to be a bug with 
+@gitlab
+ which prevents people from logging in with the GNU+Linux version of the 
+@torproject
+ browser?",,,,,[],https://twitter.com/CaptainKurtis/status/1349425425177567234
+iWebz®,@iWebzConnect,2021-01-13T18:16:40.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1349420113380913159
+Simon Sparx,@SparxSimon,2021-01-13T16:16:26.000Z,"@JackMaxey1
+ 
+
+Cloudflare is blocking Rudy's web site. 
+
+Says serve error",,,,,,[],https://twitter.com/SparxSimon/status/1349389854149206016
+@kingslyj,@kingslyj,2021-01-13T15:49:05.000Z,"Replying to 
+@madmanweb
+ and 
+@Cloudflare","Either CF is allowing this to happen, or TPB isn't using HTTPS for their actual backend.
+
+Either way it's not a bug but expected behavior, sadly most businesses are to cheap to avoid CF.",,,,,[],https://twitter.com/kingslyj/status/1349382971627765761
+@kingslyj,@kingslyj,2021-01-13T15:28:23.000Z,"Replying to 
+@Ahmedmaq00
+ @Cloudflare
+ and 2 others","It's not a bug, it's a feature.",,,,,[],https://twitter.com/kingslyj/status/1349377762830610432
+oɥʇoSɓoʎ,@The_Beyond_One,2021-01-13T11:14:43.000Z,"@AEdramatica
+ [7670405c1494fcfc5f322438] 2021-01-13 11:13:02: Fatal exception of type ""Wikimedia\Rdbms\DBQueryError""
+Not to mention that Cloudflare is often returning an error.
+Please fix tnx :)",,,,,,[],https://twitter.com/The_Beyond_One/status/1349313924819267586
+Котомкин-Портянский,@DDERSS,2021-01-13T10:26:58.000Z,"Replying to 
+@SocialBlade
+ and 
+@MrBeastYT","O/t, sorry, but will widgets ever work again? The web server reported a bad gateway error. Error reference number: 502    Cloudflare Location: Helsinki",,,,,[],https://twitter.com/DDERSS/status/1349301907265875971
+BSE Corporate News,@BSE_News,2021-01-13T09:47:07.000Z,"MANALIPETC - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1349291879397953536
+"♡♡ J-Kitty
+♡♡",@LadySerenaKitty,2021-01-13T02:34:41.000Z,"Geez, 
+@Cloudflare
+ just gave me an error - ""Security verification failed. Are you blocking cookies?""
+
+Guess I'm not working on my site for yet another hour.  Seriously, why does this block my computer from THE ENTIRE CLOUDFLARE NETWORK?",,,,,,[],https://twitter.com/LadySerenaKitty/status/1349183052820459520
+Will,@SirWill,2021-01-13T00:56:19.000Z,"Hey 
+@getongab
+ I'm having a hard time reconciling  you saying you have your own servers and infrastructure and yet every time I get an error getting to your site it is from Cloudflare.   What role does Cloudflare play in your sites?",,©,,1,3,[],https://twitter.com/SirWill/status/1349158301976600576
+Detlef Kebbekus,@DetlefKebbekus,2021-01-13T00:24:20.000Z,"Replying to 
+@LuanaNussbaum","http://Gab.com is under maintenance
+
+Sorry for the inconvenience but we’re performing some maintenance at the moment. We’ll be back online shortly!
+
+— The Team
+
+Cloudflare message:
+
+Web server is returning an unknown error
+
+There is an unknown connection issue between Cl",,,,,[],https://twitter.com/DetlefKebbekus/status/1349150253052784641
+Adam Kusiak #DUDA 2020,@Setownik,2021-01-14T21:04:11.000Z,"Replying to 
+@k_gumkowski","Jeszcze jestem w Czechach
+Error Details:
+A timeout occurred
+The origin web server timed out responding to this request.
+
+Ray ID: 611a45507826412b
+Your IP address: 78.8.119.66
+Error reference number: 524
+Cloudflare Location: Prague",,,,,[],https://twitter.com/Setownik/status/1349824655461388291
+greigwa,@greigwa,2021-01-14T20:38:06.000Z,"Replying to 
+@cue_bono","Hopefully an administrative error on their DNS console. (they are having a torrid time)
+
+Worse thing of all, Cloudflare could have had a change of heart...",,1,,1,[],https://twitter.com/greigwa/status/1349818091975409671
+Kevin Osborne,@KevinJOsborne,2021-01-14T20:27:42.000Z,"Now what? 
+Origin DNS error
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).",,,1,1,1,[],https://twitter.com/KevinJOsborne/status/1349815475904020480
+Et In Arcadia Ego,@ayodhya_refugee,2021-01-14T20:14:30.000Z,"Replying to 
+@Beautyon_",I get a Cloudflare error. Blocked at the DNS level now?,,,,,[],https://twitter.com/ayodhya_refugee/status/1349812153172242432
+𝔓𝔞𝔱𝔯𝔦𝔬𝔱𝔰 𝔉𝔩𝔬𝔴,@PatriotsFlow,2021-01-14T20:01:53.000Z,"Replying to 
+@mmarkjm
+ and 
+@getongab",Same... A cloudflare error shows up on my end,,,,3,[],https://twitter.com/PatriotsFlow/status/1349808978197426176
+A Ghostly Spectre #SNPOut2021,@FaisalBongobong,2021-01-14T19:58:35.000Z,"Hey 
+@getongab
+ getting this???
+We encountered an error processing your request. 
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).",,,,,,[],https://twitter.com/FaisalBongobong/status/1349808146810859521
+Karen Kline,@ConsiderThis1,2021-01-14T19:57:49.000Z,"Replying to 
+@MarkTech2014
+ @LaurenWitzkeDE
+ and 2 others",are you able to get in to gab? I keep getting a dns error re cloudflare,,,,2,[],https://twitter.com/ConsiderThis1/status/1349807957173706753
+The Cynical Hun,@TheCynicalHun,2021-01-14T19:50:41.000Z,"@getongab
+ @Cloudflare
+ origin DNS error in Australia
+
+It's quiet frequent in Oz. Any chance you can help us out? 
+
+Thanks, and you've been doing a phenomenal job. ",,👍,,,,[],https://twitter.com/TheCynicalHun/status/1349806160694673416
+Donkey0atey,@donkey0atey,2021-01-14T19:49:09.000Z,"Is Gab down?
+""Origin DNS error
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com)""",,,,3,3,['https://pbs.twimg.com/media/Ert5MxKW8AoptmD?format=jpg&name=medium'],https://twitter.com/donkey0atey/status/1349805776425123848
+Irredenta,@irredenta,2021-01-14T19:36:58.000Z,"@getongab
+ Origin DNS error
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).
+
+Ray ID: 6119c8d66c1d02f3
+Timestamp: 2021-01-14 19:32:42 UTC",,,1,,,[],https://twitter.com/irredenta/status/1349802706567901184
+Vortire,@Vortire3,2021-01-14T19:36:14.000Z,"Neither of the two servers that were replying are doing so now.  
+@getongab
+ either disabled ICMP echo messages or both the servers are down.  One stated it is was a DNS server, now http://gab.com - with CloudFlare - states Origin DNS error.","Quote Tweet
+Vortire
+@Vortire3
+ · Jan 14
+@getongab two of your IP's are responding to ICMP requests.  You could do with blocking ICMP.  Carry on making speech free. #gab #censorship #FreeSpeech",,,,,['https://pbs.twimg.com/profile_images/1319351031302684672/pVCEG0Ha_mini.jpg'],https://twitter.com/Vortire3/status/1349802525499670535
+Bryan M. Bowden ஃ,@BryanMBowden,2021-01-14T19:30:39.000Z,"Cloudflare is currently unable to resolve your requested domain (http://gab.com).
+•Ray ID: 6119c0133cf63e0a
+•Timestamp: 2021-01-14 19:26:43 UTC
+•Your IP address: REMOVED FOR PRIVACY
+•Requested URL: http://gab.com
+•Error reference number: 1016",,,1,,,[],https://twitter.com/BryanMBowden/status/1349801119078375424
+Bryan M. Bowden ஃ,@BryanMBowden,2021-01-14T19:30:39.000Z,"@getongab
+ so every time I try using the app on iPhone or going to web browser I get the following Error Details:
+Origin DNS error
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network.",,,1,,,[],https://twitter.com/BryanMBowden/status/1349801117979439104
+"Ginger Sladky
+#FreeSpeech
+#FreeAssange",,2021-01-14T19:29:15.000Z,"Replying to 
+@getongab","hey i got a new dns error from germany ""you've requested a page on a website (http://gab.com) that is on the cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com)",🌺 😊 ⭐ ☮ ⌛,2,,,[],https://twitter.com/dragin97/status/1349800767251767297
+GAB- @watchinyounow / Parler @wachinunow,GAB- @watchinyounow / Parler @wachinunow,2021-01-14T19:25:34.000Z,"well Gab is having this problem .hmm
+Connection timed out
+The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.
+
+Ray ID: 6119bb216cf56c8c
+Error reference number: 522
+Cloudflare Location: San Jose",,,,,,[],https://twitter.com/wachinunow/status/1349799839047946240
+Millions for Truth,@Millions4Truth,2021-01-14T18:29:32.000Z,"Gab has got to get up to speed. 
+ ""Web server is returning an unknown error
+There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. Error reference number: 520
+Cloudflare Location: Chicago""",GIF,,,,1,[],https://twitter.com/Millions4Truth/status/1349785737236013062
+BSE Corporate News,@BSE_News,2021-01-14T06:43:41.000Z,"JTLINFRA - Clarification sought from JTL Infra Ltd <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1349608104510386177
+Danni Brennand,@Dannilion,2021-01-14T02:29:01.000Z,"Replying to 
+@shedd_aquarium",Still getting the error. Cloudflare's firewall is blocking me for some reason ,🐧 🐧 ☹,,,,[],https://twitter.com/Dannilion/status/1349544014782062592
+Mauricio Guerchmann Freitas,@freitasm,2021-01-15T23:21:07.000Z,"@Cloudflare
+ Seeing the NTFS bug is easily exploitable perhaps consider make https://developers.cloudflare.com/firewall/cf-firewall-language/fields#http-body-fields… accessible to at least Pro plans, if not free?","Fields · Cloudflare Firewall Rules docs
+Create rules that examine incoming HTTP traffic against a set of powerful filters to block, challenge, log, or allow matching requests.
+developers.cloudflare.com",,,,,[],https://twitter.com/freitasm/status/1350221507394379776
+Jacob Marshall,@heyimjacooob,2021-01-15T23:20:22.000Z,"@Cloudflare
+ is there a way to disable/remove the Network Error Logging headers?",,,1,,,[],https://twitter.com/heyimjacooob/status/1350221317954387968
+Natural BK Trust,@NaturalBeeTrust,2021-01-15T22:05:27.000Z,"@getongab
+ not terribly impressed at seeing this 20 times in a row A timeout occurred
+
+The origin web server timed out responding to this request.
+
+Ray ID: 6122e01e185f4071
+
+Error reference number: 524
+Cloudflare Location: London",,,,,,[],https://twitter.com/NaturalBeeTrust/status/1350202464901996548
+iWebz®,@iWebzConnect,2021-01-15T17:50:45.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1350138366948466692
+FictionPress,@FictionPress,2021-01-15T17:40:42.000Z,2) A caching bug on CloudFlare edge caused some account login page to be cached that should not have been. This security bug has been fixed and rules have been put into place to prevent this in the future. Report to dev@fictionpress.com if you still see this problem.,,,7,3,29,[],https://twitter.com/FictionPress/status/1350135834918326273
+GAB- @watchinyounow / Parler @wachinunow,GAB- @watchinyounow / Parler @wachinunow,2021-01-15T15:53:07.000Z,"whelp Cloudflare is fkcng with GAB again
+A timeout occurred
+The origin web server timed out responding to this request.
+
+Error reference number: 524
+Cloudflare Location: San Jose",,,,,,[],https://twitter.com/wachinunow/status/1350108763668193280
+One does allege all of ones content..,@1NickMill,2021-01-15T14:51:19.000Z,"Just set up a GAB account, but i keep getting
+
+"" Web server is returning an unknown error
+
+There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.""
+Normal or scary sh*t ?",,,,1,,[],https://twitter.com/1NickMill/status/1350093211377799168
+BSE Corporate News,@BSE_News,2021-01-15T12:18:05.000Z,"VGUARD - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,1,[],https://twitter.com/BSE_News/status/1350054647994609664
+Hammy Havoc,@hammyhavoc,2021-01-15T10:25:50.000Z,"@Cloudflare
+ Attempting to login to my CloudFlare account and given this error with an endless loop, meaning I'm unable to fill in the field to file a report to you: ""It looks like we're having some internal issues."".",,,2,,3,[],https://twitter.com/hammyhavoc/status/1350026401148235777
+Andre_601,@TrueAndre_601,2021-01-15T08:16:34.000Z,"@Cloudflare
+ Hey there. Getting login errors on the CF website (Error code 4900) which sends me into an endless loop between https://dash.cloudflare.com and https://dash.cloudflare.com/login (First sends me to the login page, fails and then sends me to the dash domain which redirects to login)",,,1,,,[],https://twitter.com/TrueAndre_601/status/1349993867337216000
+BSE Corporate News,@BSE_News,2021-01-15T05:20:04.000Z,"TECHCON - Shareholding for the Period Ended December 31, 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1349949451247337474
+Infostruction Blog,@infostruction,2021-01-15T04:47:30.000Z,"Replying to 
+@infostruction
+ @ariefal891
+ and 
+@Cloudflare","Dammit, I spoke too soon. I was in for a bit then it crapped me back out. #Cloudflare is causing friction with its own users putting them in an infinite loop of puke, puke, error, and CAPTCHA. I've been stuck for hours and I can't get the hell out. Somebody rip my hands of KB",,1,,1,['https://pbs.twimg.com/media/Erv0QR2VcAA3qm3?format=jpg&name=small'],https://twitter.com/infostruction/status/1349941255212462080
+BSE Corporate News,@BSE_News,2021-01-15T02:37:03.000Z,"SSPNFIN - Statement Of Investor Complaints For The Quarter Ended December 2020 <html>
+<head><title>520 Origin Error</title></head>
+<body bgcolor=""white"">
+<center><h1>520 Origin Error</h1></center>
+<hr><center>cloudflare-nginx</center>
+</body>
+</html>",,,,,,[],https://twitter.com/BSE_News/status/1349908427548442625
+JuatABitIrate,@BitJuat,2021-01-16T19:07:23.000Z,"Replying to 
+@FictionPress","Getting CloudFlare error screen. A minute later, got a different code, same message:
+Ray ID: 612a0f839875f379 • 2021-01-16 18:57:40 UTC.
+
+Now 10 min later, got:
+Ray ID: 612a1d662b4de86a • 2021-01-16 19:07:09 UTC
+
+Something's still wrong.",,1,,,['https://pbs.twimg.com/media/Er4Cl9xXUAcuwmI?format=jpg&name=small'],https://twitter.com/BitJuat/status/1350520039460499456
+Saklain Alam,@saklain_alam123,2021-01-16T18:21:54.000Z,"Replying to 
+@proxerme","Hello, I live in England and I have been using http://proxer.me for soooo long. Now suddenly Cloudflare has banned me thinking that I am threat and I cannot access the website.
+They said on the support page to screenshot my 1020 error to the web owner",,,,,[],https://twitter.com/saklain_alam123/status/1350508593427181570
+Θ,@theaPersefoni,2021-01-16T17:18:18.000Z,"Replying to 
+@HostileTrend","Are you using a VPN? Honestly mine wouldn't load, turned on my VPN and used Duck duck go instead of google and it loaded instantly. Before that I was getting a cloudflare error message.",,,,1,[],https://twitter.com/theaPersefoni/status/1350492586545446912
+Luca Erre,@luca_erre,2021-01-16T12:19:25.000Z,"@Cloudflare
+ your 
+@1111Resolver
+ 2021-01-15 21.00 CET was down/with issues for several hours. From Italy https://1.1.1.1 was unreachable (replied with error) and DNS 1.1.1.1 had errors and slow responses. 
+@CloudflareSys
+ @CloudflareHelp",,,1,,1,[],https://twitter.com/luca_erre/status/1350417372134387715
+Troy Hunt,@troyhunt,2021-01-16T01:50:10.000Z,"It's a Cloudflare error page due a failure on the origin server (but please don't screenshot it 
+)",,🙂,3,1,53,['https://pbs.twimg.com/media/Er0VSP3UYAEDkwr?format=png&name=small'],https://twitter.com/troyhunt/status/1350259015863787522
+FrontRangePatriot,@FrontRangeHack,2021-01-17T21:26:05.000Z,"Replying to 
+@getongab
+ and 
+@MarkDice","Gab was working fine earlier.  
+Now having issues:
+
+Internal Error. We encountered an error processing your request.
+Connection timed out
+The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.",,1,,,[],https://twitter.com/FrontRangeHack/status/1350917333926088704
+Chris Ricko,@RickoChris,2021-01-17T21:23:30.000Z,"Replying to 
+@justine_11211","http://Gab.com now blocked by Cloudflare Sydney.......
+“The origin web server timed out responding to this request.
+Ray ID:......
+IP Address: ....
+Error Reference No. 524
+Cloudflare location: Sydney”
+
+However Cloudflare is saying there are no issues...",🙂,,,,[],https://twitter.com/RickoChris/status/1350916681980235776
+Forrest McDonald,@Forrest_McD,2021-01-18T19:42:34.000Z,"Replying to 
+@Michael50930727","It’s still down. Origin DNS error
+
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).",,,,,[],https://twitter.com/Forrest_McD/status/1351253670248136704
+Blue Check Wrecker,@CheckWrecker,2021-01-18T19:17:00.000Z,"Replying to 
+@luis10870917","That resolves, but gets the same HTTP error, DNS_PROBE_FINISHED_NXDOMAIN. This is looking more like Cloudflare.",,1,,,[],https://twitter.com/CheckWrecker/status/1351247235107926018
+Gone Are The Days,@drza36,2021-01-18T19:00:47.000Z,"Replying to 
+@FaithOv14406694
+ @vickie5ft2
+ and 
+@onaquest","Gettin an error on Brave and Chrome. Guessing that the big boys have gone after them now. Annnnd of course, Cloudflare caved, once again",,,,1,[],https://twitter.com/drza36/status/1351243154524168197
+GAB- @watchinyounow / Parler @wachinunow,GAB- @watchinyounow / Parler @wachinunow,2021-01-18T18:59:24.000Z,"Origin DNS error
+You've requested a page on a website (http://gab.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (http://gab.com).
+
+yeah.. unable.... sure",,,,,2,[],https://twitter.com/wachinunow/status/1351242806409494534
+iWebz®,@iWebzConnect,2021-01-18T16:36:05.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1351206739329363970
+Erwin Vrolijk,@technimad,2021-01-18T12:53:55.000Z,"@adamcurry
+ fyi http://noagendasocial.com is down for me. Cloudflare gives a 502 error.",,😀,1,,,['https://pbs.twimg.com/media/EsBAhFyXEAQ9XEf?format=jpg&name=900x900'],https://twitter.com/technimad/status/1351150827810000899
+Nils hollingshausen,@Ravy620,2021-01-18T11:35:04.000Z,"Replying to 
+@DigitalStormPC","@DigitalStormPC
+ I have been trying to check out the pc customizer on your site for a week. Unfortunately, it is not been possible for me to get onto the digital storm site. I tried 2 different phones and 2 pcs Error 1020 everywhere. May check your Cloudflare settings.",,1,,,[],https://twitter.com/Ravy620/status/1351130986457792515
+Monty,@kapoorabh02,2021-01-19T19:54:25.000Z,"Replying to 
+@Hostinger","Gives the same error - What happened?
+
+The owner of this website (http://statuspage.hostinger.com) has banned the autonomous system number (ASN) your IP address is in (55836) from accessing this website.
+
+Cloudflare Ray ID: 61431a4839453218",,,,,[],https://twitter.com/kapoorabh02/status/1351619040079278080
+Monty,@kapoorabh02,2021-01-19T19:11:50.000Z,"Replying to 
+@Hostinger
+ and 
+@webmetools",Can't access the hpanel getting a ASN error language. It's triggered by cloudflare I belive. Can't even access the support portal. What do I do?,,,,,[],https://twitter.com/kapoorabh02/status/1351608321036357633
+Monty,@kapoorabh02,2021-01-19T19:09:19.000Z,"@Hostinger
+ I am getting a cloudflare AsN error when I try to access my backend. ?",,,1,,,[],https://twitter.com/kapoorabh02/status/1351607688946335744
+"♡♡ J-Kitty
+♡♡",@LadySerenaKitty,2021-01-19T17:44:30.000Z,"@getongab
+ 
+Cloudflare is unable to establish an SSL connection to the origin server.
+
+Ray ID: 61425993c8cfecc7
+Your IP address: 2600:x:x:x:x:x:x:x
+Error reference number: 525
+Cloudflare Location: Dallas",,,,,,[],https://twitter.com/LadySerenaKitty/status/1351586345710444545
+Richard Stanway,@R1CH_TL,2021-01-19T14:50:41.000Z,"Replying to 
+@prdonahue
+ @Cloudflare
+ and 
+@CloudflareHelp","It's not really related to my account or a domain so I wasn't sure that would be the right avenue for a bug report. Just submitted it as #2067487, thanks!",,1,,2,[],https://twitter.com/R1CH_TL/status/1351542600747130883
+AB,@abdegenius,2021-01-19T09:57:40.000Z,"#100DaysOfCode
+Day 15: finally done with the project.. deployed and I learnt well relearn some stuffs like working with Ubuntu servers managing MySQL via command line... Tips yeah, if your Laravel app ever take long to load and endup in a 524 or 522 cloudflare error..check reply",,,1,3,4,[],https://twitter.com/abdegenius/status/1351468864006205444
+bitter faen,@oeskeide,2021-01-20T23:13:44.000Z,"Replying to 
+@Scott_Helme
+ and 
+@Cloudflare","""Dumb question"". That's how I'm gonna rename when my clients choose between bug and feature for a new ticket.",,,,2,[],https://twitter.com/oeskeide/status/1352031588033433601
+Scott Helme,@Scott_Helme,2021-01-20T22:25:32.000Z,"Do I know anyone on the 
+@Cloudflare
+ Browser Insights team? I have either a bug or a dumb question ",,😅,5,2,23,[],https://twitter.com/Scott_Helme/status/1352019457078685701
+Amrita Khalid,@askhalid,2021-01-20T17:30:45.000Z,Getting an Error 520 message from TheDonald. Appears to be a connection issue between Cloudflare and TheDonald's server.,,,,1,,['https://pbs.twimg.com/media/EsMSy_yVkAARQgP?format=jpg&name=small'],https://twitter.com/askhalid/status/1351945272604065792
+Sheth Raxit,@raxit,2021-01-20T16:05:41.000Z,"@hasjob
+ https://hasjob.co/new is showing Error 504  
+@Cloudflare
+  page",,,,,,[],https://twitter.com/raxit/status/1351923863890718720
+iWebz®,@iWebzConnect,2021-01-20T15:08:05.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1351909370070761480
+Mark J Daniels,@markinapub,2021-01-20T14:27:48.000Z,"@750words
+ - keep getting a CloudFlare error when trying to look at this month, stats, metadata etc.",,,1,,,[],https://twitter.com/markinapub/status/1351899232882610179
+Jo Colina,@jsmrcaga,2021-01-20T13:09:06.000Z,".
+@Cloudflare
+ what happens if i reach the max nb of requests/day to a Worker?  are they forwarded to the origin or do them just result in an error?",,🤖 ⚡,,,,[],https://twitter.com/jsmrcaga/status/1351879426947080197
+Mrinal Buddekar,@GeekAct_,2021-01-20T07:05:22.000Z,"@zerodhaonline
+ Continuous connection error on Console post login. CloudFlare to Zerodha connection issues showing at many locations.",,,,,,[],https://twitter.com/GeekAct_/status/1351787889202380800
+Stephen Brady,@sbrady,2021-01-20T02:21:17.000Z,"6. Along the way, you may see error pages from Heroku or Cloudflare. No worries. Let the page try to load then fail then hit refresh. It may take dozens of tries, but regardless, your information is saved. If the URL changes, instead of refreshing, hit the BACK button.",,,1,,1,[],https://twitter.com/sbrady/status/1351716397491974147
+Benoit Boure,@Benoit_Boure,2021-01-21T20:51:52.000Z,"So, if your website is under attack, with 
+@Cloudflare
+, you can force your visitors to fix a bug on your front-end before accessing. ",,🤣,,,1,['https://pbs.twimg.com/media/EsSJPK-XAAMBK4w?format=png&name=small'],https://twitter.com/Benoit_Boure/status/1352358271420690434
+Onlinejobs.ph,@OnlinejobsdotPH,2021-01-21T17:17:34.000Z,"Replying to 
+@dcwhatwhat
+ and 
+@Cloudflare","Hi Jamie, we're sorry for that inconvenience. Kindly email us the said error for us to be able to make adjustments and to eliminate this error again. Thanks.",,,,,[],https://twitter.com/OnlinejobsdotPH/status/1352304341894381579
+Sanford Schimel,@SanfordBaritone,2021-01-21T14:54:08.000Z,"@Cloudflare
+ Help! I'm trying to access https://knittingparadise.com but I keep getting Error 1020. No matter what settings I change in my browser or which browser I use, I get the same error. I used to be able to access the website, even after moving from US to Israel. Please help.",,,1,,,[],https://twitter.com/SanfordBaritone/status/1352268247274565634
+𝚃𝚑𝚎𝚃𝚞𝚡𝙲𝚊𝚙𝚊𝚌𝚒𝚝𝚘𝚛,@TheTuxCapacitor,2021-01-21T10:58:09.000Z,"Anyone else have a #Minecraft server with 
+@apexhosting
+ and not currently able to access the server or control pannel? getting a  522 http error from Cloudflare",,🐧 🐧,1,,,[],https://twitter.com/TheTuxCapacitor/status/1352208858035445760
+Shahriar Kabir,@Shahriar7582,2021-01-21T08:54:23.000Z,"Cloudflare Error 504 Gateway Timeout Solution https://bloglovin.com/blogs/shahriar-kabir-14363683/cloudflare-error-504-gateway-timeout-solution-7840383143… on 
+@bloglovin","Cloudflare Error 504 Gateway Timeout Solution (Shahriar Kabir)
+  Stuck with Cloudflare error 504? Cloudflare error 504 gateway timeout occurs when Cloudflare is unable to establish a connection with the origin web server. This happens when Cloudflare requests a w
+bloglovin.com",,,,,[],https://twitter.com/Shahriar7582/status/1352177713294012416
+Superskater911,@superskater911,2021-01-21T03:45:51.000Z,"Replying to 
+@Linkvertise","Linkvertise is broken 
+https://clk.thinksuggest.org/redir/clickGate.php?u=58U9s81D&m=15&p=6A9n9br68J&t=658&s=jclubdark-9f91497bdc&url=https%3A%2F%2Fclubdark.net%2Faksg&q=_clickout&r=https%3A%2F%2Fapi.thinksuggest.org%2F%3Fm%3Dc%26t%3Dj%26h%3DJump%26q%3D_clickout%26pid%3Dlinkvertisenet%26k%3Dhttps%253A%252F%252Fclubdark.net%252Faksg%26subid%3Dklickouts4:41…
+Error 1001 Ray ID:  • 2021-01-21 03:41:21 UTC DNS resolution error What happened? You've requested a page on a website (http://clk.thinksuggest.org) that is on the Cloudflare network. Cloudflare is currently unable to resolve your reque",,,,3,[],https://twitter.com/superskater911/status/1352100065792311297
+Albirew,@Albirew,2021-01-22T23:35:30.000Z,"since some time now,, i cannot access websites with 
+@Cloudflare
+ challenge on 
+@FirefoxNightly
+ : it just keep reload-looping on ""checking your browser"" page, throwing in console expired cookie and error 503...
+anyone having an idea?",,,,,,['https://pbs.twimg.com/media/EsX5qBbXAAAhhg1?format=png&name=small'],https://twitter.com/Albirew/status/1352761841739563010
+iWebz®,@iWebzConnect,2021-01-22T14:42:07.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1352627611751641094
+J. Macodiseas,@macodiseas,2021-01-22T08:03:11.000Z,"Replying to 
+@Nick_Stevens_Gr","Very sad...
+
+Can't view the site (Error 1020, looks like Cloudflare's DOS protection is broken)",,,,,[],https://twitter.com/macodiseas/status/1352527215196581889
+Zan,@zanthius,2021-01-22T02:28:51.000Z,"Replying to 
+@peopleschoiceAU","FYI everyone, been looking at the network traffic, it times out (with a 500 error) after 60 seconds.  So if you don't get anything within a minute, you're not going to get anything.
+
+Everything else on the page is snappy, but served from cloudflare, so database issue?",,,,,[],https://twitter.com/zanthius/status/1352443076535443456
+Hwan-Joon Choi,@hc6duke,2021-01-23T23:33:06.000Z,"Replying to 
+@TheWoodfather",Does it work from your phone if you're not on wifi? Cloudflare error sounds like it's an issue with you IP address.,,2,,,[],https://twitter.com/hc6duke/status/1353123625637974017
+Aeternalism,@aeternalism,2021-01-23T17:20:41.000Z,"We are migrating homepage from 
+@Cloudflare
+ ipfs to firebase hosting due to redirect loop error.
+Migration will take up to 24hours due to DNS and cert change.
+
+#NFT #Blockchain #Ethereum",,,,,,[],https://twitter.com/aeternalism/status/1353029903868858368
+D. Crandall,@twifan_nana,2021-01-23T17:03:35.000Z,"@MatureAmericans
+ ~ who 'hosts' ur website?  Just askin' because it won't load ur page for me to take a poll abt 
+@JoeBiden
+ & #AntifaDomesticTerrorists. My browser & Cloudflare both show green 
+ but the 'host' says 'error'.",,✅,,,,[],https://twitter.com/twifan_nana/status/1353025598390730752
+Kosalol,@Kosalol1,2021-01-24T20:00:23.000Z,"@EVE_status
+ cant login from poland
+
+500 ERROR
+SSL handshake failed
+Cloudflare is unable to establish an SSL connection to the origin server.
+
+Ray ID: xxxxxx
+Your IP address: xxxxxxx
+Error reference number: 525
+Cloudflare Location: Warsaw",,,,,,[],https://twitter.com/Kosalol1/status/1353432481333182468
+Mark Foobar,@maniacnl,2021-01-24T14:22:53.000Z,"@PushoverApp
+ Are there some issues, can send/receive messages, disable and enable devices, but when I try to delete/remove a device, cloudflare gives a 502 error (repeatedly)",,,,,,[],https://twitter.com/maniacnl/status/1353347546173886465
+The Woodfather,@TheWoodfather,2021-01-25T01:18:15.000Z,"Replying to 
+@ramblinrdesigns
+ @LumberJocks
+ and 
+@Cloudflare","ahh, it looks like cloudflare blocks certain keywords which are used when you embed a video into 
+@LumberJocks
+ 
+Because I always post with an embedded video, I always had the error. Changed the code and now I'm in. :)",,,,,[],https://twitter.com/TheWoodfather/status/1353512473719017472
+The Woodfather,@TheWoodfather,2021-01-25T01:18:11.000Z,"Replying to 
+@hc6duke","ahh, it looks like cloudflare blocks certain keywords which are used when you embed a video into 
+@LumberJocks
+ 
+Because I always post with an embedded video, I always had the error. Changed the code and now I'm in. :)",,,,1,[],https://twitter.com/TheWoodfather/status/1353512456002310144
+Scott Helme,@Scott_Helme,2021-01-26T17:29:39.000Z,"Replying to 
+@OUSAK","Not seeing any issues on my site, it's mostly served from Cloudflare cache too. Got a screenshot or error to share?",,1,,,[],https://twitter.com/Scott_Helme/status/1354119320750743552
+iWebz®,@iWebzConnect,2021-01-26T06:41:37.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1353956239517093889
+Knight ,@imknight,2021-01-26T03:59:18.000Z,"Replying to 
+@glideapps","yup using Cloudflare, it has been work for the past few months and suddenly today it has the SSL error",,,,,[],https://twitter.com/imknight/status/1353915393069379584
+Alan Graham,@agraham999,2021-01-26T00:58:04.000Z,"Replying to 
+@NetopiaEU","I’ve been trying to visit a couple sites randomly over the past two days. One was a shopping site for my mother-in-law, the other was a news site to read an article. And I get this error. So 
+@Cloudflare
+ is making decisions as to what I can and cannot access on the web.",,1,1,,"['https://pbs.twimg.com/media/EsnpYfrUUAIIMeJ?format=jpg&name=360x360', 'https://pbs.twimg.com/media/EsnpYfqUcAAR70C?format=jpg&name=small']",https://twitter.com/agraham999/status/1353869781183565824
+Plesk Support,@PleskHelps,2021-01-27T22:13:28.000Z,"Replying to 
+@sina_133","Hi! Current domain name you try to use as SMTP host is behind CloudFlare which does not proxy mail traffic, hence you get an error. Your MX record points to Plesk server IP please use hostname from MX as SMTP host:",,2,,,['https://pbs.twimg.com/card_img/1365068015620952068/dN6yHVy0?format=jpg&name=360x360'],https://twitter.com/PleskHelps/status/1354553133444247555
+George Salukvadze,@giosal90,2021-01-27T17:42:50.000Z,"@minerstatcom
+ Dashboard returning Error 522 through Cloudflare Ray ID: 61844536db3d41c4 • 2021-01-27 17:42:27 UTC",,,,,,['https://pbs.twimg.com/media/EswY8zpXEAcUR73?format=jpg&name=small'],https://twitter.com/giosal90/status/1354485028995162114
+name can't be blank,@iwishtobecat,2021-01-27T14:43:58.000Z,"Replying to 
+@discord
+ and 
+@KaracaBaha",no and it has happened last night either. one said this error occures every cloudflare app now but it seems like the issue is located in europe,,,,,['https://pbs.twimg.com/media/Esvv_UPXAAUpna9?format=jpg&name=small'],https://twitter.com/iwishtobecat/status/1354440016508968960
+ükrisX | Ξ,@StonedCleric,2021-01-27T14:40:08.000Z,"@discord
+ Error 1105 Ray ID: 618336f9fcb2e17e • 2021-01-27 14:37:58 UTC
+Temporarily unavailable
+What happened?
+You've requested a page on a website (http://discord.com) that is on the Cloudflare network. The page could not be rendered due to a temporary fault.",,,,,,[],https://twitter.com/StonedCleric/status/1354439050804011009
+Gerben S.,@W_0_0_F_Y,2021-01-27T14:02:42.000Z,"@Crunchyroll
+ wake up please, your entire website is down for a few hours now, bad gateway error, cloudflare location amsterdam, issue confirmed through “downforme” type sites.",,,,,1,[],https://twitter.com/W_0_0_F_Y/status/1354429629516419075
+Kody (André F.),@0kody,2021-01-27T09:24:46.000Z,"I wish there was a quick way of seeing the details of an error from cloudflare workers', especially for the cron tasks",,🍮,1,,1,['https://pbs.twimg.com/media/Esum5JzWMAAXjbW?format=png&name=small'],https://twitter.com/0kody/status/1354359684619239427
+Ryan K,@Yank,2021-01-27T05:30:53.000Z,"Replying to 
+@beyrouti
+ and 
+@Cloudflare",Please tap the bug button in the app and file through the app. It will relay the relevant info to the team.,🌥,2,,,[],https://twitter.com/Yank/status/1354300826836115458
+NightOwl,@OpenOwlNight,2021-01-28T20:23:51.000Z,"Couldn't access http://namecheap.com; Cloudflare said http://ap.namecheap.com was returning a 520 error. Now I can pull up the site, but can't log in. What gives, 
+@NameCheap
+?",,,1,,,['https://pbs.twimg.com/media/Es2HY8AXcAUxpQF?format=jpg&name=small'],https://twitter.com/OpenOwlNight/status/1354887935930339335
+Pesty,@pesty,2021-01-28T13:00:46.000Z,"@Mintos
+ how can I open an account ? Cloudflare detect me as an attacker (what i'm not). Country (France) is not available, and your mailsupport return me an error when i try to contact. ",,😳 🥲,,,,[],https://twitter.com/pesty/status/1354776433026080772
+Code By MDB,@codebymdb,2021-01-28T12:47:25.000Z,You know it’s a Thursday morning when you have to visit a website for info and you’re hit with an Cloudflare error...,,,,,,[],https://twitter.com/codebymdb/status/1354773073749291012
+iWebz®,@iWebzConnect,2021-01-29T20:50:02.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1355256915039825927
+Brad Uhlig,@bcu222,2021-01-29T15:10:03.000Z,"Replying to 
+@krakensupport",Can't log in message i'm getting is Bad Gateway Error reference number 502: Cloudflare location Denver.  Not being able to log in is litterally costing me $1000's today.  This must be fixed ASAP!!!!   no excuse for this,,2,1,23,[],https://twitter.com/bcu222/status/1355171355725975553
+4979lsk,@PWflI1FK5pIFRXn,2021-01-29T14:54:35.000Z,"Replying to 
+@yfi_group","Error 522
+
+Ray ID: 6192cb45eecf3a13 •2021-01-29 12:00:39 UTC
+
+Connection timed out
+
+You
+
+Browser
+
+ Working
+
+Seattle
+
+Cloudflare
+
+ Working
+
+http://yfi.group
+
+Host
+
+ Error",,,,,[],https://twitter.com/PWflI1FK5pIFRXn/status/1355167463764185091
+มะตู่...กู้โคควิด,@MTue2551,2021-01-29T07:45:21.000Z,"Cloudflare Error 524 Ray ID   2021-01-29 07:42:49 UTC
+A timeout occurred
+org.springframework.web.client.HttpServerErrorException$InternalServerError: 500",,🐮 🐄,,,,[],https://twitter.com/MTue2551/status/1355059442967072768
+αℓєχιѕ єνєℓуη,@AlexisEvelyn42,2021-01-29T03:52:13.000Z,"I believe the bug is, HTTP 2 connections are not properly translating to HTTP 1.1 connections. Cloudflare doesn't let me turn off HTTP 2 for my free account, so I may end up having to temporarily turn off Cloudflare proxying until I rewrite my site to handle HTTP 2 natively.",,,1,1,,[],https://twitter.com/AlexisEvelyn42/status/1355000773617328129
+Oliver Worthington,@olliesblog,2021-01-29T03:32:26.000Z,"Coinspot, one of the more popular Australian crypto exchanges is crashing under the load of people rushing to buy #dogecoin on their Friday lunch break.
+
+Unprecedented times.
+
+The site is even showing a CloudFlare ""too many requests"" error. Must be getting smashed.",,,1,1,3,['https://pbs.twimg.com/media/Es3pWbZUwAMDSPV?format=jpg&name=small'],https://twitter.com/olliesblog/status/1354995792570798080
+αℓєχιѕ єνєℓуη,@AlexisEvelyn42,2021-01-29T02:09:24.000Z,"Yep, it's definitely a Cloudflare setting that's bugging out the server. I disabled enforcing connections to only come through Cloudflare and decided to visit my site directly. The bug does not happen when I visit the server directly.",,,2,1,1,['https://pbs.twimg.com/media/Es3WOBVXIAEV1_Q?format=jpg&name=small'],https://twitter.com/AlexisEvelyn42/status/1354974897550856192
+Ayane Satomi (さとみ あやね),@satominyaaa,2021-01-29T01:31:23.000Z,"Managed to find a random bug on #Windows10, using 
+@Cloudflare
+'s WARP will sometimes break networking for Hyper-V. WSL2 and Windows Sandbox is usually affected by this.",,,,,,['https://pbs.twimg.com/media/Es3NuEZVgAAF0i6?format=jpg&name=small'],https://twitter.com/satominyaaa/status/1354965330204848134
+mustbe,@must_bihan,2021-01-29T00:40:44.000Z,"Replying to 
+@indodax","Bad gateway
+The web server reported a bad gateway error.
+
+Ray ID: 618ee06f7eb1c354
+Your IP address: xxxxxx
+Error reference number: 502
+Cloudflare Location: Singapore",,,1,,[],https://twitter.com/must_bihan/status/1354952585766035470
+mustbe,@must_bihan,2021-01-29T00:39:25.000Z,"@indodax
+ Bad gateway
+The web server reported a bad gateway error.
+
+Ray ID: 618ee06f7eb1c354
+Your IP address: 180.244.232.222
+Error reference number: 502
+Cloudflare Location: Singapore ????",,,,,,[],https://twitter.com/must_bihan/status/1354952251492585482
+Resources for Life,@resources4life,2021-01-30T23:07:02.000Z,CloudFlare Error 522 Connection Timed Out,"CloudFlare Error 522 Connection Timed Out
+If you’re using CloudFlare, you may find that it initially works fine and significantly speeds up your website page load times. Then, after a period of weeks or months, you may start to notic…
+resourcesforlife.com",,,,,['https://pbs.twimg.com/card_img/1367487679768780804/uvYXHHWL?format=jpg&name=small'],https://twitter.com/resources4life/status/1355653777471238144
+Gilded,@GildedFinance,2021-01-30T12:55:53.000Z,Update: Our public website was unavailable for several hours due to a SSL configuration error with our Cloudflare proxy service. The problem has been resolved. This error did not affect the availability of our application.,,,,,5,[],https://twitter.com/GildedFinance/status/1355499976835682304
+guigui42,@guigui42,2021-01-31T10:31:38.000Z,"Replying to 
+@Scott_Helme","I am using the one from Traefik, using DNS-01 : https://doc.traefik.io/traefik/user-guides/docker-compose/acme-dns/…
+and my DNS Provider is Cloudflare. This is the error I get :",,1,,,['https://pbs.twimg.com/media/EtDb7rVXIAQUWFm?format=png&name=small'],https://twitter.com/guigui42/status/1355826063188893699
+Yacine Hmito,@yacinehmito,2021-01-31T08:04:47.000Z,"I'm trying to help you here 
+@Cloudflare
+. The bug is about not being able to save the billing address. I imagine I'll be able to use the product just fine, so that's exclusively to your benefit.",,,,,,[],https://twitter.com/yacinehmito/status/1355789109982322689
+Grace Ling,@candyleaf_,2021-01-31T01:45:02.000Z,I have a 525 error on my portfolio site. It's super stressful and I've been playing scavenger hunt on Cloudflare trying to resolve this :'(,,✨,3,,5,[],https://twitter.com/candyleaf_/status/1355693542685872135
+WAMS Stories,@WAMS_Stories,2021-02-01T23:44:19.000Z,[status] Investigating: Cloudflare is returning an error 520 and the site is inaccesable. We are currently investigating the issue and will post updates as more information is given.,"Site Unavalible
+Cloudflare is returning an error 520 and the site is inaccesable. We are currently investigating the issue and will post updates as more information is given.
+wams-stories.statuspage.io",,1,,,['https://pbs.twimg.com/card_img/1364589090285514752/l7J_E_nS?format=png&name=120x120'],https://twitter.com/WAMS_Stories/status/1356387939442253826
+iWebz®,@iWebzConnect,2021-02-01T17:05:12.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1356287495323971592
+End.Of.All.Hope,@darkhope2020,2021-02-02T22:47:16.000Z,"Replying to 
+@alphacoders",Its Cloudflare error I think its error 1020 or somthing like that. Its been more than two months that I keep getting this error on all my browsers even on my mobile,,1,,,[],https://twitter.com/darkhope2020/status/1356735969068777472
+Marky,@itsjustmarky,2021-02-02T15:53:14.000Z,"Replying to 
+@devanand_t","Can you tell me if you get a cloudflare error page or anything else when accessing this image directly please.
+
+""https://images.hive.blog/0x0/https://i.imgur.com/7BZx5JI.png…""",,3,,,[],https://twitter.com/itsjustmarky/status/1356631775049580557
+Noj Vek,@nojvek,2021-02-02T07:54:21.000Z,"@PulumiCorp
+ is a great idea executed poorly. After 3 days of trying to get my cloudflare DNS entries managed via gitops, pulumi presents error after error with little meaning on what I should do instead. Error UX is v important. There's just too much friction.",,,1,,,[],https://twitter.com/nojvek/status/1356511259961688064
+David Keddleton,@fitnessfaggot,2021-02-02T01:19:17.000Z,"Replying to 
+@bdsmlr","All i got is a cloudflare error message, i already deleted the cookies and nothing happens",,,,1,[],https://twitter.com/fitnessfaggot/status/1356411835042291712
+Andy Robson,@AndyRobson17,2021-02-03T15:39:13.000Z,"e.g. Attempts to get the 
+https://cdno012.bdsmlr.com/uploads/photos/2021/01/278376/bdsmlr-278376-OBdTLNSonU.jpg…
+image embedded in a page give me Error 521 - Web server is down - from Manchester Cloudflare when I try to get it directly.
+
+Yes, I have cleared the cache, deleted all cookies, logged in fresh, restarted browser, etc.",,,,,,[],https://twitter.com/AndyRobson17/status/1356990632053587969
+Marbsp,@marb_sp,2021-02-03T08:05:48.000Z,"@bdsmlr
+ I'm not clear what is supposed to be working and what is still down (after clearing cookies).
+I can login and get the home stream - but every single image in the stream is broken - CloudFlare error 521, host down http://cdno012.bdsmlr.com.
+Crossing my fingers for you guys.",,,,,,[],https://twitter.com/marb_sp/status/1356876529427501057
+"Osumi, Yusuke",@ozuma5119,2021-02-03T04:52:31.000Z,"@CloudflareAbuse
+ Your Abuse Report Form looks [Internal Server Error] now.... #Cloudflare 
+https://cloudflare.com/abuse/form",,😇,1,,,['https://pbs.twimg.com/media/EtRrs7jUUAEqd8s?format=png&name=small'],https://twitter.com/ozuma5119/status/1356827888230653954
+Nur Faizin,@fafa_shiro,2021-02-04T23:03:34.000Z,"Hi 
+@CloudflareHelp
+ ,  I have a problem with my Cloudflare DNS that can't add a new record with 403 error, please help",,,,,,[],https://twitter.com/fafa_shiro/status/1357464847521370114
+FooSecn00b,@foosecn00b,2021-02-04T19:08:08.000Z,"Replying to 
+@secstatewa","Nay, Elections, take as one example: https://sos.wa.gov/elections/vrdb/default.aspx…
+
+This is not a geography issue, this is a configuration issue between you and 
+@Cloudflare
+, per the error message.",,,,,[],https://twitter.com/foosecn00b/status/1357405597944209410
+iWebz®,@iWebzConnect,2021-02-05T06:06:54.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1357571383740534786
+Rapidly Hip Blurb,@mrphlip,2021-02-05T05:02:02.000Z,"Replying to 
+@mrphlip
+ and 
+@xor","Though, now that I look at it again, the error message it gives when I use the urllib UA is ""error code: 1010"" which is apparently a Cloudflare response? So maybe this is just happening for anyone who sticks their API behind Cloudflare...",,,,,[],https://twitter.com/mrphlip/status/1357555056439042048
+Maud,@MaudRodin,2021-02-05T00:10:29.000Z,"Replying to 
+@MariahsCookies",Guys can you check your Cloudflare firewall rules? I'm getting an 1020 error when clicking on ''order now'' thanks ,🦋 🦋 ❤,,,1,[],https://twitter.com/MaudRodin/status/1357481686192300034
+n3rdgal #FreeKirtaner #TTP #TTP,@n3rdgal,2021-02-06T02:25:41.000Z,"The Stormwater Management is actually from Georgia's Cherokee County. But... we vote in stormwater management? Haha.
+
+Plesk is somebody's work in process.
+
+Not sure what that error 1003 was, but it's behind Cloudflare, so looks like a hosted web server. Not voting machine.",,,5,4,166,[],https://twitter.com/n3rdgal/status/1357878097744449537
+The silent Realm7766,@SchezoB,2021-02-07T19:37:27.000Z,"Replying to 
+@pokecommunity","WHAT HAVE YOU DONE NOW I CAN,T ENE\TER TO WEBSITE TO DOWNLOAD ANYTHING ALL BEACUSE OF F*CKING CLOUDFLARE NOW EVERYTIME WHEN I TRY TO ENETER WEBSITE I ALWAYS GET ERROR 1020",,2,,,[],https://twitter.com/SchezoB/status/1358500138549972995
+iWebz®,@iWebzConnect,2021-02-08T23:58:24.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1358928197522440192
+"DJ Midarezaki, Esq.
+#LivesMatter",@DJMidarezaki,2021-02-08T19:03:34.000Z,"@news_ntd
+ Your live web stream seems to have gone down, getting an error from Cloudflare",,➡,,,,[],https://twitter.com/DJMidarezaki/status/1358854001446563844
+Markec,@marxxy,2021-02-08T17:51:44.000Z,"@VinDAXOfficial
+ you guys really need to repair your cloudflare settings, people cannot open up your website due to Error 522",,,1,,1,[],https://twitter.com/marxxy/status/1358835924361216001
+RcLnx,@RcLnx,2021-02-08T17:04:16.000Z,"Replying to 
+@iMision","Error 1020 Ray ID: 61e6ecfcef9042de • 2021-02-08 17:03:44 UTC
+Access denied
+What happened?
+This website is using a security service to protect itself from online attacks.
+
+Cloudflare Ray ID: 61e6ecfcef9042de • Your IP: 201.141.228.99 • Performance & security by Cloudflare",,1,,1,[],https://twitter.com/RcLnx/status/1358823977049862145
+Mikko Ohtamaa,@moo9000,2021-02-08T14:16:31.000Z,"Replying to 
+@peter_szilagyi",As a dev you get an error message from Cloudflare if you try to request events of too old blocks. Then you Google and switch to free Infura plan.,🐮,1,,,[],https://twitter.com/moo9000/status/1358781760478339076
+Mikko Ohtamaa,@moo9000,2021-02-08T14:13:20.000Z,"Replying to 
+@peter_szilagyi",Cloudflare free nodes already limit you up to 128 blocks of history. It is a reasonable trade off as long as there is a helpful web3.js error message for developers to know how to change this limit.,🐮,1,,,[],https://twitter.com/moo9000/status/1358780960997859333
+77,@TheReaI77,2021-02-08T13:18:24.000Z,"Replying to 
+@tabwire",Cloudflare error (on APITab servers) when attempting to link UBI account.,,,,1,[],https://twitter.com/TheReaI77/status/1358767137326854148
+Brayden Everett,@deadliest_dad,2021-02-09T18:14:14.000Z,"@Cloudflare
+ @CloudflareHelp
+ I saw on the status website that a fix for WARP signup was implemented, but I'm still getting an error when trying to log in to 
+@NexusSites",,,,,,[],https://twitter.com/deadliest_dad/status/1359203971613745158
+Ashnurazg,@ashnurazg,2021-02-09T16:34:37.000Z,"@furaffinity
+ FA is still sometimes not connected to #cloudflare and gives error 502. Any ideas when this will be fixed?","The following media includes potentially sensitive content. Change settings
+View",,,,,[],https://twitter.com/ashnurazg/status/1359178903764553732
+Job Nmadu,@JobNmadu,2021-02-09T01:12:12.000Z,"@apreshill
+ Sorry, my tweet continues, the earlier sent by error.
+
+I sought help from the netlify community which led me to cloudflare. This is where I have been for over two months as no workable solution or suggestion has been proffered. 
+
+Can you please offer some help on this?",,,,,,[],https://twitter.com/JobNmadu/status/1358946770903048192
+Missino,@JacobLambda,2021-02-09T00:33:37.000Z,"Replying to 
+@IOHK_Charles","I'm getting a cloudflare ""host down"" error now when I try to access the site.",,2,,3,[],https://twitter.com/JacobLambda/status/1358937060472729604
+bee.girl,@thattrans_girl,2021-02-11T17:21:57.000Z,"Replying to 
+@dudeamax99",lmao my domain breaks cloudflare so i can’t get anything beyond the registrars hosting until cf responds to my bug report,,2,,,[],https://twitter.com/thattrans_girl/status/1359915591503667201
+TaxBeast,@TaxBeast,2021-02-11T15:22:59.000Z,"Replying to 
+@SteezyStripes","Cloudflare error that impacted hundreds of websites. It wasnt exclusively furaffinity, but of course, it happened to Furaffinity by chance haha",,,,,[],https://twitter.com/TaxBeast/status/1359885650825261057
+that weird SFM dragon™,@supeario,2021-02-11T14:40:56.000Z,"Replying to 
+@toastiiart","Apparently that whole 'video' part was just an error by cloudflare, but they are indeed working on making video uploads a thing",🔞 🔞,,,1,[],https://twitter.com/supeario/status/1359875068931825664
+RhoArt,@rho_art,2021-02-11T08:52:32.000Z,"Replying to 
+@LorecDronso",FA had a glitch where the art submissions were linking to broken video thumbnails for 2 hours due to an error from cloudflare,,,,1,[],https://twitter.com/rho_art/status/1359787393134563329
+Ben Roprim / 3D Artist,@Ben_Roprim,2021-02-11T06:24:28.000Z,"Replying to 
+@MoonlitLycan","Already addressed, and is not FA's fault. Cloudflare is making an error on images and uploads. It's the fault of the service, then the site itself.",,,,,[],https://twitter.com/Ben_Roprim/status/1359750128836386818
+Ben Roprim / 3D Artist,@Ben_Roprim,2021-02-11T06:20:47.000Z,"Replying to 
+@BigKingWoof","Cloudflare is giving an Error, and they are working with the service to remove the issue with the Img/Upload stuff.",,1,,1,[],https://twitter.com/Ben_Roprim/status/1359749203119939585
+Luckheart,@LeoZeno3,2021-02-11T06:10:33.000Z,Cloudflare error furry porn when?,,,,2,3,[],https://twitter.com/LeoZeno3/status/1359746628475752450
+FurShows,@FurShows,2021-02-11T06:03:50.000Z,"There seems to be some on going issue with cloudflare and some video error messages with images? we don't have that issue unlike #furaffinity and other sites, if you're bored check out https://furshows.org #furry #cloudflare","FurShows - All Furry/Anthro Entertainment and Shows.
+Watch all furry entertainment and shows from your favorite furry YouTubers and Streamers in one place. Curated by Vel Fesothe, Kilynn Tor, and Furry's.
+furshows.org",,,1,2,['https://pbs.twimg.com/card_img/1365530282556751878/aX6K9T6X?format=jpg&name=small'],https://twitter.com/FurShows/status/1359744937705811969
+Comfortable Creatures,@LewdCreatures,2021-02-11T06:01:34.000Z,"Replying to 
+@SheebsXL
+ and 
+@ChibsArts","Maybe sites running a specific service package of cloudflare? Perhaps the ""basic"" service listed in the picture is having some kind of error or outage.",🦝,,,,[],https://twitter.com/LewdCreatures/status/1359744368224002049
+MercyZoroark,@ZoroarkMercy,2021-02-11T05:54:21.000Z,"Replying to 
+@lavvicorgi","as i learned from somewhere else, Cloudflare had a bug pop up this morning that affected a lot of sites, and it's now affecting FA as well. dunno if true i just heard from somewhere",,,,1,[],https://twitter.com/ZoroarkMercy/status/1359742550865813509
+"Garr, Macro Meteor-Munching Malcontent Lv 1312",@betheymoth,2021-02-11T05:46:17.000Z,"Replying to 
+@betheymoth
+ and 
+@ToshiXyrho","This means there's likely some error that's making every image FA has get pointed to cloudflare's streaming warning, so it's also likely that the images are just fine on the servers they're on.",,,,1,[],https://twitter.com/betheymoth/status/1359740520910761984
+Fur Affinity | BLM,@furaffinity,2021-02-11T05:44:38.000Z,"Update #2 - The error messages state ""this video has been restricted"". As FA does not currently support video, we're hoping this may have been an error. We'll keep you updated when we hear back from Cloudflare.",,,4,14,70,[],https://twitter.com/furaffinity/status/1359740104361840640
+SkyireRazgriz,@SkyireBird,2021-02-11T05:39:06.000Z,"Replying to 
+@Dragoneer","sounds like cloudflare is having another hiccup, I'm getting the error not just from FA. Good luck fixing it Neer~",,,,,[],https://twitter.com/SkyireBird/status/1359738714184941569
+Soccerchamp,@soccerchamp112,2021-02-11T02:19:05.000Z,Getting a cloudflare error on mangamelon and havent been able to read any manga since this morning,,,,,,['https://pbs.twimg.com/media/Et6VXzyWQAU5VPf?format=jpg&name=small'],https://twitter.com/soccerchamp112/status/1359688376069337089
+Morgana,@Khajiit_san,2021-02-12T22:44:40.000Z,"Replying to 
+@NexusSites",Trying to download something and I'm getting a cloudflare error,,,,,['https://pbs.twimg.com/card_img/1365622377158180865/KzyPmrab?format=jpg&name=360x360'],https://twitter.com/Khajiit_san/status/1360359193333628934
+Michael Fong,@fkhmichael,2021-02-12T22:43:38.000Z,"Replying to 
+@juanmirodriguez
+ and 
+@Cloudflare",Hi Juan I deleted my reply with the number as I've received a reply from support & have been in touch with the bank. Apparently the bank has declined the transaction as it doesn't meet their security requirements. Managed to replace the 1st payment method after some trial & error,,,,,[],https://twitter.com/fkhmichael/status/1360358934414983168
+virtualmarc,@virtualmarc92,2021-02-12T21:47:01.000Z,"@backblaze
+ Are you currently having DNS issues for http://f001.backblazeb2.com? Cloudflare is giving me ""Error 1016: Origin DNS error"" and DNS Checker gives some errors here in germany:","DNS Checker - DNS Check Propagation Tool
+Check DNS Propagation worldwide. DNS Checker provides name server propagation check instantly. Changed nameservers so do a DNS lookup and check if DNS and nameservers have propagated.
+dnschecker.org",,1,,1,['https://pbs.twimg.com/card_img/1367595578264322050/67Cl72SY?format=png&name=360x360'],https://twitter.com/virtualmarc92/status/1360344685563232264
+K. N. Global Citizen,@mysticaltech,2021-02-12T21:14:58.000Z,"Replying to 
+@Calendly
+ and 
+@jgrahamc","Calendly, just file a bug ticket already! I'm sure the CTO of Cloudflare has more important issues to handle.",🌍,,,1,[],https://twitter.com/mysticaltech/status/1360336621153968132
+Elbrar,@Elbrar_,2021-02-12T21:09:51.000Z,"Replying to 
+@BallDGull
+ and 
+@furaffinity",I find it much more likely that someone managed to upload something that tripped Cloudflare's system up as believing it's a video and that's why that specific error message was displayed than just some sort of random glitch.,,1,,,[],https://twitter.com/Elbrar_/status/1360335332734951425
+iWebz®,@iWebzConnect,2021-02-12T21:02:43.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1360333536444751872
+Tachiyomi,@tachiyomiorg,2021-02-12T15:51:03.000Z," To clear #Mangairo, #Mangakakalot, #Mangabat, and #Manganelo of the Cloudflare error images, go to 'More → Settings → Advanced' and tap ""Clear Chapter Cache"" and ""Clear Database"".",,🚨,3,3,32,[],https://twitter.com/tachiyomiorg/status/1360255102410440707
+Tobias,@achisto,2021-02-12T15:46:08.000Z,"Replying to 
+@pixelarbeit","Already tried that, unfortunately it doesn’t work for me even when hard coding their IPs onto my system wide DNS-server. Mobile apps still down, website just giving me a blank page and/or error message (see screenshot). Maybe because of them using cloudflare as a CDN?",🪴,,,,"['https://pbs.twimg.com/media/EuCXrkSWgAITaOW?format=jpg&name=small', 'https://pbs.twimg.com/media/EuCXrkbWgA85Zmo?format=jpg&name=small']",https://twitter.com/achisto/status/1360253866042920963
+deggen ✪ @315,deggen ✪ @315,2021-02-12T14:32:43.000Z,"Replying to 
+@deggen
+ @BitcoinUnicorn0
+ and 3 others","Error 1003 Ray ID: 620704297ed30daa • 2021-02-12 14:31:57 UTC
+Direct IP access not allowed",,1,,1,[],https://twitter.com/deggen/status/1360235389643014147
+Visimar,@icydraggyvisy,2021-02-12T12:52:38.000Z,"We're so accustomed to FA having issues that our first instinct when something goes wrong over there is to blame the site, even if Cloudflare pops up with an error message to show that the problem isn't with the site itself.","Quote Tweet
+Abbott “Macro Mantis” Absol
+@AbbottAbsol
+ · Feb 11
+I heard something funny was going on over at FA...
+Show this thread",🔞 🔞,,,,"['https://pbs.twimg.com/profile_images/1366472147862962177/NleJOsI9_mini.jpg', 'https://pbs.twimg.com/media/Et7LISNXAAAyT2A?format=jpg&name=small']",https://twitter.com/icydraggyvisy/status/1360210201044000772
+TACHIYOMI,@TachiyomiApp,2021-02-12T12:00:38.000Z,"To clear #Mangairo, #Mangakakalot, #Mangabat, and Manganelo of the cloudflare error images, go to More > Advanced and tap Clear Chapter Cache and Clear Database.
+#tachiyomi",,,,1,14,[],https://twitter.com/TachiyomiApp/status/1360197117000757251
+Thomas Jensen,@thomasjsn,2021-02-12T08:38:13.000Z,"@CloudflareHelp
+ We are multiple people in Norway seeing a high rate of SSL_ERROR_SYSCALL on Cloudflare servers. We have tried from fire locations in Norway, all experiencing the same issue. VPS in Germany does not have the problem.",,,1,,1,['https://pbs.twimg.com/media/EuA1AqDXUAAZ816?format=jpg&name=small'],https://twitter.com/thomasjsn/status/1360146176205611009
+infinity10,@infinity10,2021-02-12T01:24:11.000Z,Pity ... I get an error 552 from Cloudflare for the linked report.,"Quote Tweet
+John Horgan
+@Drjohnhorgan
+ · Feb 11
+How do we de-radicalize? Three experts in political extremism and violence share ideas https://ohiocapitaljournal.com/2021/02/08/how-do-we-de-radicalize-three-experts-in-political-extremism-and-violence-share-ideas/… via @ohiocapjournal",,,,,['https://pbs.twimg.com/profile_images/1249744408246996992/eQy4Iw6K_mini.jpg'],https://twitter.com/infinity10/status/1360036949197660160
+Andrei Terentyev,@internetyev,2021-02-13T22:14:13.000Z,"Replying to 
+@BRDHQ","@brdhq
+ I had a CloudFlare 502 error screen, when trying to access blog pages directly or from Google. I did run a quick ScreamingFrog crawl on /blog - same 502 on all pages. Seems like a temporary cloudflare thing, but this may be the reason why your blog is not getting exposure",,,,,[],https://twitter.com/internetyev/status/1360713919413817345
+AadhiseshanVrYT,@AadhiseshanY,2021-02-13T16:35:00.000Z,"anyone who can help me with cloudflare's 1.1.1.1 app
+its not working for me the error note is 'WE ARE UNABLE TO REGISTER YOUR CLIENT' please help i dont know what to do please help...",,,,,,[],https://twitter.com/AadhiseshanY/status/1360628550047584263
+Nelson C,@nelc1997,2021-02-13T12:19:47.000Z,"Request http://tjc.gov.tw to Cloudflare DNS returns error even on DoH. Does that mean 
+@Cloudflare
+ is complicit with Hong Kong gov's Internet censorship?",,,,,,['https://pbs.twimg.com/media/EuGtoHuVcAMbeAn?format=png&name=small'],https://twitter.com/nelc1997/status/1360564324629008389
+BugBountyTips.tech,@_Bugbountytips_,2021-02-13T11:28:42.000Z,"Cloudflare Bypass XSS Payloads and Methods!
+
+https://djangoboys.blogspot.com/2020/03/cloudflare-xss-bypass-payloads-and.html…
+
+#bugbountytips #bugbountytip #infosec #xss 
+
+The post Cloudflare Bypass XSS Payloads and Methods!
+
+#bugbountytips #bugbountytip #inf…
+
+ appeared first on Bug Bounty Tips.
+
+February 13,…",,,,7,13,"['https://pbs.twimg.com/media/EuGmWYPXUAAA273?format=jpg&name=small', 'https://pbs.twimg.com/media/EuGBa44WQAEOw7X?format=jpg&name=small']",https://twitter.com/_Bugbountytips_/status/1360551466902179840
+Racc,@raccube,2021-02-14T18:15:33.000Z,"Yes, I know it’s a 
+@Cloudflare
+ error page",,,,,,[],https://twitter.com/raccube/status/1361016241348108288
+alexanderadam,@alexanderadam__,2021-02-14T16:18:31.000Z,"Replying to 
+@hCaptcha
+ and 
+@Cloudflare","The site in question is 
+@udemy
+.
+
+I'm also getting other weird errors on Udemy recently, so this might indeed also be an configuration error on their side.",,1,,,['https://pbs.twimg.com/media/EuMx6cJXIAcAPZj?format=png&name=small'],https://twitter.com/alexanderadam__/status/1360986789599707141
+"mavica the vtuber robot, BSc",@maplesbian,2021-02-14T07:11:34.000Z,"hey 
+@discord
+ for several days now someone from New Zealand is unable to connect to the Brazil servers (523 Cloudflare Proxy Declined error). hopefully it won't take you a month to fix this",,,1,,,[],https://twitter.com/maplesbian/status/1360849144810790912
+Hung Nguyen,@chucksplatt,2021-02-15T19:49:01.000Z,This is kind of insane. Looks like a Cloudflare style error. What kind of infra is the city using to host the site? Are the servers self hosted with no geographic redundancy?,"Quote Tweet
+KXAN News
+@KXAN_News
+ · Feb 15
+The city's website was showing an “Error 20” message, when KXAN attempted multiple times to connect Monday morning
+https://trib.al/FmoG1RR",,,,,['https://pbs.twimg.com/profile_images/1365259142290673666/YOadnEds_mini.jpg'],https://twitter.com/chucksplatt/status/1361402150866345984
+Srujan,@acsrujan,2021-02-15T10:03:48.000Z,"Wait, is this ironic? 
+@Cloudflare
+ getting a cert expiry error when I visit an app preview page.. ",,🤔,,,,['https://pbs.twimg.com/media/EuQl8anWgAEUVml?format=jpg&name=small'],https://twitter.com/acsrujan/status/1361254879382110208
+James Pels,@jamespels,2021-02-15T07:36:46.000Z,"@Medium
+ hey, cannot find anywhere for visitors to report problems... I currently get 1020 Cloudflare error visiting you using SRWare Iron. Is this deliberate?",,,,,,[],https://twitter.com/jamespels/status/1361217877274202113
+"TenchiResists
+#FBPE #FBR #REJOIN",@TenchiResists,2021-02-15T00:23:33.000Z,"Replying to 
+@BrexitBlocklist","Off-topic to your tweet, but I'm getting a cloudflare error when trying to use your website.",,1,,2,['https://pbs.twimg.com/media/EuOhSXKXcAQiCld?format=jpg&name=medium'],https://twitter.com/TenchiResists/status/1361108851668512768
+wdpk,@whatwhw,2021-02-16T22:09:55.000Z,"@ConcernedApe
+ Wiki hosted by you seems to be having an issue with Cloudflare? Error 1000, DNS to prohibited IP; If you are the owner of this website:
+you should login to Cloudflare and change the DNS A records for http://stardewvalleywiki.com to resolve to a different IP address.",,,,,,[],https://twitter.com/whatwhw/status/1361800000032833537
+robkrueger@chaos.social,robkrueger@chaos.social,2021-02-17T19:35:48.000Z,"Replying to 
+@RouteBetter",It works again now. It returned a Cloudflare error saying that Cloudflare couldn‘t reach your backend. But I didn’t take a screenshot.,,,,,[],https://twitter.com/RobKrueger/status/1362123602628378624
+Scott Lynch,@packetengineer,2021-02-17T19:10:03.000Z,Note to self.  Screenshot of cloudflare error with your public IP is probably not a good thing to share on twitter... Just sayin lol,,,,,,[],https://twitter.com/packetengineer/status/1362117124102238217
+ケン・ディー・ブラクェル,@Seiginotora_TM,2021-02-17T18:55:50.000Z,I just love getting Error 1016 errors from Cloudflare when I'm trying to download Daz3D stuff I bought. ¬.¬;;;,,,,1,,[],https://twitter.com/Seiginotora_TM/status/1362113545815531522
+Tyler Green,@HighTylerGreen,2021-02-17T17:07:05.000Z,"@Cloudflare
+ I’ve been getting this error message for two days now, tried multiple IPs and the status page says it should be operational - can’t login or access dashboard or support",,,1,,,['https://pbs.twimg.com/media/EucaJ0BXcAAK9vC?format=jpg&name=small'],https://twitter.com/HighTylerGreen/status/1362086174966349824
+Tomasz Kamiński,@TomaszKamiski6,2021-02-17T14:03:53.000Z,"Hi 
+@ChucklefishLTD
+ do You know who is responsible for https://stardewvalleywiki.com ? It have some Cloudflare Error DNS points to prohibited IP :(",,,,,,[],https://twitter.com/TomaszKamiski6/status/1362040072833544192
+The Defiant,@DefiantNews,2021-02-18T23:10:00.000Z,"In today's Defiant:
+ RAI wants to be a permissionless Dai alternative
+@lukso_io
+ raises $18M in 1st reversible ICO
+@Cloudflare
+ enables .crypto domains
+@ArmorFi
+ CTO offers $320k bug bounty
+@graphprotocol
+- adds additional L1 support
+@secret_swap
+ private AMM is live","RAI: Like DAI But More Cypherpunk
+substack.com",💸 💻 🛡 📊 🤫,2,24,57,['https://pbs.twimg.com/ad_img/1362530098709159936/WV44AqaJ?format=jpg&name=small'],https://twitter.com/DefiantNews/status/1362539894602661888
+T-Rave,@T_Rave,2021-02-18T20:56:06.000Z,"It seems as though 
+@Cloudflare
+ won’t let you transfer a domain that isn’t configured to point at them. Fine. 
+@Namecheap
+ won’t allow me to update my name servers as some ambiguous error arises. Ok. 
+
+So this is my life on the internet as of today.",,,1,,1,[],https://twitter.com/T_Rave/status/1362506200391286786
+"Lerunechka
+UNTAG ME FROM YOUR REPLIES",@Lerunechka1997,2021-02-18T11:07:10.000Z,"It seems like AniList got DDOS'd because they suddenly have Cloudflare protection... and there's ""Session expired, please refresh"" error everytime I try to visit it...",,🌸 🌸,,,2,[],https://twitter.com/Lerunechka1997/status/1362357986702864391
+Cory Howell,@chowell18,2021-02-18T00:53:54.000Z,"Replying to 
+@Marie_Haynes
+ and 
+@AggieJulie12","Host and cloudflare were both pains about it when I complained. ""Use xyz form""  where nothing is applicable, too many error checks, etc. I gave up",,,,,[],https://twitter.com/chowell18/status/1362203653579280385
+anthony-campolo,@ajcwebdev,2021-02-18T00:27:47.000Z,"""Unfortunately, it only works in Google Chrome (it was built to be embedded in Chrome, after all).""
+
+Cloudflare bringing the sass in their error messages. Honestly it serves me right for thinking I could use Safari for anything.",,,1,,1,[],https://twitter.com/ajcwebdev/status/1362197082287742980
+Ahmet Deveci,@MrADeveci,2021-02-19T20:49:27.000Z,I have a Wordpress site that keeps throwing a 524 Gateway error (CloudFlare) when editing the Menu. Any suggestions? I've tried increasing memory and timeout to no avail. #wordpress #cloudflare #website #524,,,2,,,[],https://twitter.com/MrADeveci/status/1362866912296914955
+iWebz®,@iWebzConnect,2021-02-19T14:32:10.000Z,Cloudflare Error 526 - How To Fix https://buff.ly/368yZUW,,,,,,['https://pbs.twimg.com/media/EkGF7P9WsAAAySq?format=jpg&name=small'],https://twitter.com/iWebzConnect/status/1362771964339892224
+Md Faizal,@mfaiz1337,2021-02-19T12:58:39.000Z,"@HideZeroOne
+ Dear Why this error via cloudflare always from india",,,,,,['https://pbs.twimg.com/media/Eul0d8jUcAMKedE?format=jpg&name=medium'],https://twitter.com/mfaiz1337/status/1362748432432046080
+"Aaron ""RedBird"" Carroll",@redbird101989,2021-02-19T03:47:07.000Z,"Replying to 
+@discord","Assuming something happened with Cloudflare because I saw they were down as got an error when trying to go to your website. 
+
+Hopefully everything levels out!",,1,,1,[],https://twitter.com/redbird101989/status/1362609633207218178
+grandloves,@sannoudou,2021-02-19T03:41:41.000Z,"Replying to 
+@kissuonion","yeah i specifically got a 502 cloudflare error and my att app says my gateway is fine, but a handful of sites are loading slow or erroring for me so who knows",,1,,,[],https://twitter.com/sannoudou/status/1362608267202035715
+Deadriller,@Deadriller,2021-02-19T03:40:55.000Z,"Replying to 
+@RichardHammerTV",Give it some time. My discord just crashed mid-call with an error message about the Cloudflare servers having some trouble and after many closing it and reopening it attempts it let me back in.,,,,,[],https://twitter.com/Deadriller/status/1362608072078811137
+CatmanKSP,@playful1510,2021-02-19T03:40:03.000Z,"@discord
+ I'm getting a 1105 error when trying to start discord. Might want to tell the engineers to look towards cloudflare.",,,,,,['https://pbs.twimg.com/media/Euj0nuaXEAcQT2X?format=png&name=small'],https://twitter.com/playful1510/status/1362607857104003073
+hexianimates / swordcube,@swordcube,2021-02-19T03:36:48.000Z,i tested a site that uses cloudflare and it threw up a cloudflare error when loading,,,,,,[],https://twitter.com/swordcube/status/1362607037214052356
+starr274,@starr274,2021-02-19T03:34:02.000Z,"@discord
+ did the service just go down, I have diffrent PC's stuck on Checking for updates, while another is showing a cloudflare error when I changed a channel",,,,,,[],https://twitter.com/starr274/status/1362606339848085508
+ste,@nooyin,2021-02-19T03:33:27.000Z,"@discord
+ get a perma 502 bad gateway error connecting from toronto is it a cloudflare error?",,,,,,[],https://twitter.com/nooyin/status/1362606195492737024
+Lord Headass,@TheSepticFox1,2021-02-19T03:30:05.000Z,"It's also saying error 502, Bad gateway and shit, Probably cloudflare being a cunt.",,,,,,[],https://twitter.com/TheSepticFox1/status/1362605349304479748
+missing chuu,@peachxsconee,2021-02-19T03:26:07.000Z,"@discord
+ uhhh i just got a 502 error thing that says cloudflare, is that a normal thing to happen?",,,,,1,[],https://twitter.com/peachxsconee/status/1362604347952164866
+NotGuala,@NotGuala,2021-02-19T03:25:07.000Z,"@bstategames
+ Hm..
+
+Backend error: HTTP/1.1 502 Bad Gateway
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",,,,,,[],https://twitter.com/NotGuala/status/1362604096436453377
+Braden Pitts,@BradenPittsIndy,2021-02-19T03:23:22.000Z,"@Cloudflare
+ looks like something is broke! Cloudflare DNS is down and even down detector is down with a cloudflare 502 error.",,,,,,[],https://twitter.com/BradenPittsIndy/status/1362603658916089863
+Ami Tenoh,@MatsuriDream,2021-02-19T03:22:56.000Z,"@discord
+ Suddenly getting a 502 Bad Gateway cloudflare error every time I try to load in my browser.  All okay out there?",,,,1,1,[],https://twitter.com/MatsuriDream/status/1362603548006109184
+Infinity Models,@infinitymodels,2021-02-20T07:10:15.000Z,"@AltCoinTraderSA
+ Site seems to be down. Cloudflare error",,,,,,[],https://twitter.com/infinitymodels/status/1363023141321203712
+"Wesley Howe, proud Neanderthal",@WesHowe_TX,2021-02-20T00:43:20.000Z,"Replying to 
+@WesHowe_TX
+ and 
+@DougChristians7","Now the name resolves, but I get a server error (Internal Error) from CloudFlare.",,,,,[],https://twitter.com/WesHowe_TX/status/1362925772436951043
+Roland Baker,@RolandBakerIII,2021-02-20T00:23:49.000Z,"A couple of weeks ago http://Gab.com deleted their Twitter account 
+@getongab
+. This evening http://Gab.com went offline. The domain name resolves to 104.16.121.96 which yields Cloudflare error. What happened to Gab?",,,15,,28,['https://pbs.twimg.com/media/EuoODqrUYAIzMWm?format=png&name=small'],https://twitter.com/RolandBakerIII/status/1362920861557088256
+antforce,@antforce,2021-02-21T20:26:59.000Z,"Replying to 
+@tomuky
+ and 
+@QuickswapDEX","I'm getting a 522 Error from Cloudflare on my desktop. Chrome, Firefox, Safari. Even with a VPN. For some reason it's working on my phone, though.",,1,,,[],https://twitter.com/antforce/status/1363586034185945094
+iWebz®,@iWebzConnect,2021-02-21T03:45:47.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1363334072899162113
+Mark Liu,@mark_liu,2021-02-21T00:19:21.000Z,"@cryptoquant_com
+ are you having app issues? Getting cloudflare error pages on different browsers.",,,,,,[],https://twitter.com/mark_liu/status/1363282122891350018
+V,@vastrovich,2021-02-22T08:27:27.000Z,"Error 1000
+Ray ID: 6257502dde8339b9 •
+2021-02-22 08:24:52 UTC
+DNS points to prohibited IP
+
+Cloudflare Ray ID: 6257502dde8339b9
+Your IP: 108.162.245.213
+Performance & security by Cloudflare",,,,,,[],https://twitter.com/vastrovich/status/1363767347291463680
+zold~,@ZoldAlts,2021-02-22T03:35:06.000Z,"Replying to 
+@Cloudflare","Hello, two days ago I moved from Nat3 to Nat2 and now every page ask me captcha and Valorant say Error Van 68. I asked for help to my ISP and Riot Support and still nothing. What I can do? Please help 
+Part1",,2,,,[],https://twitter.com/ZoldAlts/status/1363693773126066177
+YELENA IS BACK BITCH,@queerprowl,2021-02-22T03:19:33.000Z,"@BungieHelp
+ Can't log in to http://bungie.net and/or link my D2 top it - getting 'CLOUDFLARE_ERROR_500S_BOX'/internal server error - across different browsers AND platforms. Can't even log in to post on the help forums :)","Bungie.net
+bungie.net",,,,,[],https://twitter.com/queerprowl/status/1363689860695924737
+eRefinery,@eRefinery_,2021-02-23T23:30:49.000Z,"@rariblecom
+ Pls contact CloudFlare about your website settings. You are blocking IP's for whole Countries. I cant access http://Rarible.com for days, getting Error 1020 access denied.",,,,,,[],https://twitter.com/eRefinery_/status/1364357073300054019
+Raissa Tito,@rts24,2021-02-23T17:11:24.000Z,"Replying to 
+@ShonFuran
+ and 
+@PlayVALORANT","i use cloudflare 1.1.1.1 DNS and somehow it works. everytime i deactivate this, i get error 43. worth a try",,,,1,['https://pbs.twimg.com/media/Eu7UZLFUcAIp14D?format=png&name=small'],https://twitter.com/rts24/status/1364261591785508869
+Elissa,@expectproblems,2021-02-23T07:30:17.000Z,Was getting a cloudflare error. Now just this.,,,1,,,['https://pbs.twimg.com/media/Eu5PrY3VkAUrSjN?format=jpg&name=small'],https://twitter.com/expectproblems/status/1364115347457011714
+Klaus Silberbauer,@silberbauer,2021-02-23T07:30:08.000Z,"@buzzsprout
+ – sumit button on your support page is unresponsive, so here goes: My custom domain is broken after ddos. Returns error from Cloudflare. How to fix? CNAME.",,,1,,,['https://pbs.twimg.com/media/Eu5PD1rXMAEkJcJ?format=jpg&name=small'],https://twitter.com/silberbauer/status/1364115308236189697
+Ang0n_,@Ang0n_,2021-02-23T06:19:47.000Z,"@csgostatsgg
+ is blocking IP ranges http://122.xxx.xxx.xxx , http://171.xxx.xxx.xxx http://182.xxx.xxx.xxx and http://27.xxx.xxx.xxx of Airtel ISP in India which is causing error 1020 of Cloudflare. This issue is nation wide only among Airtel Broadband ISP.",,,,,,[],https://twitter.com/Ang0n_/status/1364097603424555014
+Julia Evans,@b0rk,2021-02-24T16:29:55.000Z,"Replying to 
+@b0rk
+ and 
+@ARW_KW",also does https://jvns.ca work or do you also get a cert error? I think they're both using the same cert (from cloudflare),🔎 🔍,1,,,[],https://twitter.com/b0rk/status/1364613537373519877
+lachlan ☭,@lachlanchuula,2021-02-24T15:15:19.000Z,"Error 524 Ray ID: 626a1adfacf23a08 • 2021-02-24 15:10:38 UTC
+A timeout occurred 
+You
+Browser
+Working
+Seattle
+Cloudflare
+Working
+http://backwoodzstudioz.com
+Host
+Error","0:07
+80 views",,4,2,11,[],https://twitter.com/lachlanchuula/status/1364594766659289090
+iWebz®,@iWebzConnect,2021-02-24T14:50:07.000Z,Cloudflare Error 526 - How To Fix https://buff.ly/368yZUW,,,,,,['https://pbs.twimg.com/media/EkGF7P9WsAAAySq?format=jpg&name=small'],https://twitter.com/iWebzConnect/status/1364588423965794307
+Matt Swain,@mattswain85,2021-02-24T09:44:06.000Z,"@Sendinblue
+  Are you having any issues this morning? Painfully slow creating an email template and getting a cloudflare error in a different browser...
+
+http://my.sendinblue.com
+Host
+Error",,,3,,,[],https://twitter.com/mattswain85/status/1364511413046239233
+Project Webcirque,@webcirque,2021-02-24T07:03:36.000Z,"Some may already noticed that, when accessing some of our websites (when not behind Cloudflare) without HTTPS, an error message or an error page is displayed instead. This is because we strictly forbid any unencrypted connection to our servers to combat SSL-stripping.",,,,,2,[],https://twitter.com/webcirque/status/1364471021848453127
+lachlan ☭,@lachlanchuula,2021-02-24T15:15:19.000Z,"Error 524 Ray ID: 626a1adfacf23a08 • 2021-02-24 15:10:38 UTC
+A timeout occurred 
+You
+Browser
+Working
+Seattle
+Cloudflare
+Working
+http://backwoodzstudioz.com
+Host
+Error","80 views
+0:03 / 0:08",,4,2,11,[],https://twitter.com/lachlanchuula/status/1364594766659289090
+Zhuowei Zhang,@zhuowei,2021-02-25T21:48:59.000Z,"Error 522
+Connection timed out
+Host: Working
+Cloudflare: Working
+You: Not Working",,✅ ✅ ❌,,,9,[],https://twitter.com/zhuowei/status/1365056220994936834
+Roy,@Roy52020164,2021-02-25T14:55:44.000Z,Security Advisory: Cloudflare Bug,"Security Advisory: Cloudflare Bug | Kraken Blog
+  A bug was recently discovered with Cloudflare, which Kraken and many other websites use for DoS protection and other services. Due to the nature of the bug, we recommend as a precaution that Kraken...
+blog.kraken.com",,1,,,['https://pbs.twimg.com/card_img/1367173666778329091/EA7z2ljG?format=jpg&name=small'],https://twitter.com/Roy52020164/status/1364952225404112904
+Skynats Technologies,@skynatstech,2021-02-25T11:14:50.000Z,"Thinking how to fix the Cloudflare 403 forbidden error. Try step by step process to fix the error.
+https://skynats.com/blog/how-to-fix-cloudflare-403-forbidden-error/…
+#Cloudflare #forbiddenerror #servermanagement #cloudmanagement #skynats",,,,,,['https://pbs.twimg.com/media/EvEWN9SVIAQVANn?format=jpg&name=small'],https://twitter.com/skynatstech/status/1364896632190345216
+Women Who Code Melbourne,@WWCodeMelbourne,2021-02-25T08:47:49.000Z,"Today, we all made fetch happen. Thanks 
+@scott_gretchen
+ 
+Thanks 
+@Cloudflare
+ 
+And the BIGGEST thanks to our fabulous community who are so welcoming, supportive and great at bug fixing!!
+With a special mention to Mean Girls.","Quote Tweet
+Gretchen
+@scott_gretchen
+ · Feb 23
+I spent today building with Cloudflare Workers, and a profound thought crossed my mind:",,,,6,"['https://pbs.twimg.com/profile_images/895621157025599488/gtbPWbp0_mini.jpg', 'https://pbs.twimg.com/media/Eu5Bk_kVcAEnnYf?format=jpg&name=small']",https://twitter.com/WWCodeMelbourne/status/1364859635203678215
+iWebz®,@iWebzConnect,2021-02-26T02:31:23.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1365127292004012035
+Sarah Drasner,@sarah_edo,2021-02-27T11:43:39.000Z,"Replying to 
+@type__error",We have our own caching- what are you missing? Cloudflare really shouldn’t be necessary,,1,,1,[],https://twitter.com/sarah_edo/status/1365628661156638724
+"Markus Tacker (he/him)
+#hiring",@coderbyheart,2021-02-27T11:42:53.000Z,"Replying to 
+@type__error","You could host it from GitHub pages instead, they are already fast, free and play well with CloudFlare.",,,,,[],https://twitter.com/coderbyheart/status/1365628466079612929
+BountyBot,@BountyBot,2021-02-27T10:00:03.000Z,https causing cloudflare error 524 on my servers http://stackoverflow.com/q/66349287/1288 Amt:500 #Apache #Ubuntu16.04 #Cloudflare,"https causing cloudflare error 524 on my servers
+I've been hemorrhaging hours of research to this and cannot seem to find the right solution, even to understand the problem itself. The scenario: I have an multiple ubuntu servers, each server runs...
+stackoverflow.com",,,,,['https://pbs.twimg.com/card_img/1364558117460140032/PrhRX3MA?format=png&name=240x240'],https://twitter.com/BountyBot/status/1365602589967085569
+Don Pottinger,@donpottinger,2021-02-28T20:37:32.000Z,"Fixed a bug where the incorrect currency was showing up for users. For example, a user in Israel was seeing prices as if they are in the UK (GBP £). Super confusing. 
+
+Root cause: Cloudflare can make it hard to identify the originating IP address of a request.","Quote Tweet
+Don Pottinger
+@donpottinger
+ · Feb 27
+Added multi-currency support to http://LanguaTalk.com based on the user's location. Hoping this provides clarity on pricing, instills trust in our platform, and improves conversions for our global users. 
+
+Broke down this problem into 3 steps
+Show this thread
+0:26
+38 views",,1,,1,['https://pbs.twimg.com/profile_images/1349216981845762049/MQ8p-7mf_mini.jpg'],https://twitter.com/donpottinger/status/1366125404776448010
+Aldric_Chen,@aldric_chen,2021-02-28T11:34:13.000Z,"Replying to 
+@DigitalMehmet","I am only on Medium so far. NewsBreak is avoiding me and Vocal throws me a Cloudflare error each time I try to reach it.
+
+Life.",,,,,[],https://twitter.com/aldric_chen/status/1365988673007742980
+New Mine Expert,@gywinf1,2021-02-28T09:55:57.000Z,"Replying to 
+@1inchSupport
+ @KuletaMonika
+ and 2 others","Error 1020 Ray ID: 628945a2cefb3a02 • 2021-02-28 09:55:48 UTC
+Access denied
+What happened?
+This website is using a security service to protect itself from online attacks.
+
+Cloudflare Ray ID: 628945a2cefb3a02 • Your IP: 66.42.75.127 • Performance & security by Cloudflare",,,,,[],https://twitter.com/gywinf1/status/1365963946880946176
+Don Pottinger,@donpottinger,2021-02-28T20:37:32.000Z,"Fixed a bug where the incorrect currency was showing up for users. For example, a user in Israel was seeing prices as if they are in the UK (GBP £). Super confusing. 
+
+Root cause: Cloudflare can make it hard to identify the originating IP address of a request.","Quote Tweet
+Don Pottinger
+@donpottinger
+ · Feb 27
+Added multi-currency support to http://LanguaTalk.com based on the user's location. Hoping this provides clarity on pricing, instills trust in our platform, and improves conversions for our global users. 
+
+Broke down this problem into 3 steps
+Show this thread
+38 views
+0:03 / 0:27",,1,,1,['https://pbs.twimg.com/profile_images/1349216981845762049/MQ8p-7mf_mini.jpg'],https://twitter.com/donpottinger/status/1366125404776448010
+bruh,@lamitron_,2021-03-01T15:32:32.000Z,"Replying to 
+@StreamElementsS","My bad, Cloudflare spat out a nonstandard error when trying to reach your site for about 5 minutes, then it resolved itself.",,1,,,[],https://twitter.com/lamitron_/status/1366411036367200256
+iWebz®,@iWebzConnect,2021-03-01T14:39:33.000Z,Cloudflare Error 526 - How To Fix https://buff.ly/368yZUW,,,,,,['https://pbs.twimg.com/media/EkGF7P9WsAAAySq?format=jpg&name=small'],https://twitter.com/iWebzConnect/status/1366397701726867460
+Rabah Rahil,@rabahrahil,2021-03-01T14:13:20.000Z,"@Supermetrics
+ are you all having issues? 
+
+All my dashboards blew up and when I try to login to my supermetrics account it 504s to a CloudFlare error message ",,😢,3,,1,['https://pbs.twimg.com/media/EvZldD8XEAklzbu?format=jpg&name=small'],https://twitter.com/rabahrahil/status/1366391104959045633
+CM,@Attomist,2021-03-01T11:13:51.000Z,"Replying to 
+@Bastian_K","Yes, TCP/IP can handle such long timeouts. But Cloudflare will throw an error ;)",,1,,,[],https://twitter.com/Attomist/status/1366345936583196676
+ruisudesu,@ruisudesuuuuuuu,2021-03-01T00:33:54.000Z,"Replying to 
+@uzreai
+ and 
+@dogwitdabutter",yeah cloudflare error is showing up almost every time,,1,,1,[],https://twitter.com/ruisudesuuuuuuu/status/1366184887225614343
+Tristan L,@derKoekje,2021-03-02T22:32:58.000Z,"@Sigma_Photo
+ Hi! It seems I cannot download any firmware, I am getting a Cloudflare error.",,,,,,[],https://twitter.com/derKoekje/status/1366879228180971527
+death stalker,@HavokLily,2021-03-02T19:24:57.000Z,"@Cloudflare
+ hey uh, is this the squishmallow server since everyone is getting a 502 error?",,,1,,3,['https://pbs.twimg.com/media/Evf2Xp9WgAIF9P-?format=jpg&name=small'],https://twitter.com/HavokLily/status/1366831914724716545
+Abraham Vegh,@abrahamvegh,2021-03-02T18:53:33.000Z,"Cloudflare willingly leaks DNS information it is designed to protect, and calls it a feature, not a bug, let alone a security flaw. 
+I’m not obligated to drive myself insane trying to convince them that it’s true. If anybody wants more information about this, my DMs are open.",,,,,2,[],https://twitter.com/abrahamvegh/status/1366824012970606598
+Simon Cropp,@SimonCropp,2021-03-02T09:09:59.000Z,"@praeclarum
+ re ""fuget takes 5min to restart"" have u considered adding a ""stale-if-error"" error with 300seconds? browsers dont support it, but i believe cloudflare does. so if you server returns an error than cloudflare should return the cached version.","Understanding Origin Cache-Control
+Learn how Cloudflare interprets Cache-Control headers set at your origin server. Overvew Set cache-control directives Examples Interaction with other Cloudflare features Related resources OvervewCa...
+support.cloudflare.com",,1,,5,['https://pbs.twimg.com/card_img/1364817733628485634/7cSHPLIA?format=png&name=240x240'],https://twitter.com/SimonCropp/status/1366677152104521730
+mangochutney,@mangochutney,2021-03-02T07:52:05.000Z,"@jephjacques
+ Hi! I'm having issues loading the site and the RSS feed isn't updating. Cloudflare is giving me a host error. Sitting in Germany.",,,,,1,[],https://twitter.com/mangochutney/status/1366657546837188609
+derekja,@derekja,2021-03-02T06:42:03.000Z,"Replying to 
+@GeekusDean
+ and 
+@jephjacques","yup, getting cloudflare error pages in British Columbia as well",,,,1,[],https://twitter.com/derekja/status/1366639924129144835
+Robert Foster,@robertjf72,2021-03-02T06:27:45.000Z,"hey #umbraco peeps - does anyone have any experience with allowing a client access to an UmbracoApiController endpoint on Umbraco Cloud now that it's using #cloudflare?  Getting a 500 error with the message ""An error has occurred."" on a client's project",,,5,,,[],https://twitter.com/robertjf72/status/1366636326951522305
+Socialist Bisexual Disaster Liz BLM,@theliz13,2021-03-02T03:13:42.000Z,"@jephjacques
+ I'm getting a server error saying ""cloudflare is up. but http://questionablecontent.net"" is down.
+Just thought I should keep you posted.",,♿ 💜,,,,[],https://twitter.com/theliz13/status/1366587492460331014
+Little Mx Boxsets,@micpp42,2021-03-02T02:24:45.000Z,"Replying to 
+@micpp42
+ and 
+@jephjacques","I've managed to get through to a Cloudflare page saying there is an ""Error 522""",,,,6,[],https://twitter.com/micpp42/status/1366575171138514946
+Todd H,@thertzelle,2021-03-03T23:08:48.000Z,"@Onrizon
+ The SSL error was fixed pretty quickly, but not able to join games due to a gateway time out, Cloudflare error. Just FYI :)",,,,,,[],https://twitter.com/thertzelle/status/1367250633766690818
+Kingsley Uyi Idehen,@kidehen,2021-03-03T16:25:12.000Z,"Replying to 
+@kidehen
+ @CloudflareDev
+ and 2 others","Final 3 lines in the error log read:
+
+11:17:12.628Started restoring cached build plugins
+
+11:17:11:17:16.542/opt/build/bin/build: line 39: next: command not found
+
+11:17:16.543Failed: build command exited with code: 127",,,,,[],https://twitter.com/kidehen/status/1367149067533443075
+U2luZ2xlUG9pbnRPZkZhaWx1cmU,@U1BvRg,2021-03-03T10:03:02.000Z,"Replying to 
+@eastdakota
+ and 
+@Cloudflare","Just doing a test with VueJS project but keep getting error about couldn't find build command ""npm run build:production""  which does exist in our package.json scripts",,1,,,[],https://twitter.com/U1BvRg/status/1367052892759232512
+RADimir Lenin,@RadimirL3nin,2021-03-03T03:07:54.000Z,"Replying to 
+@thathappenspod
+ @JeffBryanDavis
+ and 
+@Thesixler","About 28 minutes in it stopped loading on me and the video seems to no longer be available? Trying to download the video goes to a cloudflare error. I downloaded the audio and picked up where I left off, but figured I'd throw a heads up out there about the video lol.",,1,,,[],https://twitter.com/RadimirL3nin/status/1366948418808123393
+Gulshan Kumar,@TheGulshanKumar,2021-03-03T02:41:55.000Z,"[Improvement] Cloudflare NS detection
+[Improvment] User-agent overriden
+[Improvment] 23 chars+ hostnames supported
+[Improvment] Added DNS status.
+[BUG FIXED] Origin Access Token
+[Improvment] Tested up to WP 5.7",,,1,,3,['https://pbs.twimg.com/media/EvhaHqVU4AA5hIK?format=jpg&name=small'],https://twitter.com/TheGulshanKumar/status/1366941881351856129
+iWebz®,@iWebzConnect,2021-03-03T02:20:10.000Z,Cloudflare Error 526 - How To Fix,"Cloudflare Error 526 - How To Fix - getSSL by iWebz
+Cloudflare ""Error 526: Invalid SSL certificate"" indicates that Cloudflare is unable to successfully validate the website SSL certificate.
+getssl.in",,,,,['https://pbs.twimg.com/card_img/1367680993465933825/ByMeVrLD?format=jpg&name=240x240'],https://twitter.com/iWebzConnect/status/1366936407873359872
+Tristan L,@derKoekje,2021-03-03T00:45:07.000Z,"@SIGMA_sgv
+ Sigma Global is broken. I cannot download any brochures or firmware, Cloudflare error. I'd really love to update my Sigma FP firmware.",,,,,,[],https://twitter.com/derKoekje/status/1366912485694066689
